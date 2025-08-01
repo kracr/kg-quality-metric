@@ -1,0 +1,12 @@
+First run sepearatly all oie tools and get the output.txt from each tool
+copy all output.txt files and rename it :
+    stanford_4.5.3_openie.txt
+    stanford_4.5.6_openie.txt
+    triple_clauseie.txt
+    triple_minie.txt
+
+    then paste it in Algorithm_checkTriples folder
+
+./run in Algorithm_checkTriples directory
+
+Algorithm_checkTriples/output  has output of tools score
