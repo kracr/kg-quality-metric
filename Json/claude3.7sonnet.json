@@ -1,0 +1,4049 @@
+{
+  "1": [
+    ["1147 Stavropolis", "has an apoapsis of", "418476000000.0"],
+    ["1147 Stavropolis", "has a rotation period of", "20378.5"],
+    ["1147 Stavropolis", "has a periapsis of", "260855000000.0"],
+    ["1147 Stavropolis", "has an orbital period of", "1249.6 days"]
+  ],
+  "2": [
+    ["Bananaman", "was first aired in", "1983"],
+    ["Bananaman", "was created by", "Steve Bright"],
+    ["Bananaman", "starred", "Bill Oddie"],
+    ["Bananaman", "was made by", "the BBC"],
+    ["BBC", "is based in", "London in Broadcasting House"]
+  ],
+  "3": [
+    ["Alan Shepard", "was", "an American"],
+    ["Alan Shepard", "was born on", "Nov 18, 1923"],
+    ["Alan Shepard", "was born in", "New Hampshire"],
+    ["Alan Shepard", "was selected by NASA in", "1959"],
+    ["Alan Shepard", "was a member of", "the Apollo 14 crew"],
+    ["Alan Shepard", "died in", "California"]
+  ],
+  "4": [
+    ["Acharya Institute of Technology", "is directed by", "Dr. G. Prabhukumar"],
+    ["Acharya Institute of Technology", "is located in", "Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, India"],
+    ["Acharya Institute of Technology", "was given Technical Campus status by", "the All India Council for Technical Education"],
+    ["All India Council for Technical Education", "is located in", "Mumbai, India"]
+  ],
+  "5": [
+    ["Abilene regional airport", "has a runway length of", "2194.0"],
+    ["Abilene regional airport", "serves", "Abiliene, part of Jones County, Texas, in the United States"]
+  ],
+  "6": [
+    ["Abilene Regional Airport", "has a runway length of", "2194.0"],
+    ["Abilene Regional Airport", "serves", "Abilene, Jones County, Texas in the United States"]
+  ],
+  "7": [
+    ["Abilene Regional Airport", "serves", "the city of Abilene in Texas"],
+    ["Abilene Regional Airport", "has the ICAO location identifier", "KABI"],
+    ["Abilene Regional Airport", "has the runway name", "17R/35L"],
+    ["Abilene Regional Airport", "is", "546 metres above sea level"],
+    ["Abilene Regional Airport", "has a runway length of", "2194.0"]
+  ],
+  "8": [
+    ["Abilene Regional Airport", "serves", "the city of Abilene in Texas"],
+    ["Abilene Regional Airport", "has the ICAO location identifier", "KABI"],
+    ["Abilene Regional Airport", "is", "546 metres above sea level"],
+    ["Abilene Regional Airport", "has a runway length of", "2194 metres"],
+    ["Abilene Regional Airport", "has runway name", "17R/35L"]
+  ],
+  "9": [
+    ["Abilene Regional Airport", "serves", "the city of Abilene in Texas"],
+    ["Abilene Regional Airport", "ICAO identifier is", "KABI"],
+    ["Abilene Regional Airport", "runway length is", "2194.0"],
+    ["Abilene Regional Airport", "is", "546 metres above sea level"],
+    ["Abilene Regional Airport", "runway name is", "17R/35L"]
+  ],
+  "10": [
+    ["Adolfo Suárez Madrid–Barajas Airport", "is operated by", "ENAIRE"],
+    ["Adolfo Suárez Madrid–Barajas Airport", "can be found in", "Madrid"],
+    ["Adolfo Suárez Madrid–Barajas Airport", "is situated", "610.0 meters above sea level"],
+    ["Adolfo Suárez Madrid–Barajas Airport", "has a", "4,349 kilometers long runway"],
+    ["Adolfo Suárez Madrid–Barajas Airport", "runway name is", "14L/32R"]
+  ],
+  "11": [
+    ["Adolfo Suárez Madrid-Barajas Airport", "lies", "610 metres above sea level"],
+    ["Adolfo Suárez Madrid-Barajas Airport", "is located in", "Madrid"],
+    ["Adolfo Suárez Madrid-Barajas Airport", "is operated by", "ENAIRE"],
+    ["Adolfo Suárez Madrid-Barajas Airport", "runway is named", "14L/32R"],
+    ["Adolfo Suárez Madrid-Barajas Airport", "runway has a length of", "4349.0"]
+  ],
+  "12": [
+    ["Agra Airport", "is in", "Uttar Pradesh"],
+    ["Uttar Pradesh", "is part of", "Bundelkhand and Awadh"],
+    ["Agra Airport", "ICAO location identifier is", "VIAG"],
+    ["Ram Naik", "is the leader of", "Uttar Pradesh"]
+  ],
+  "13": [
+    ["Agra Airport", "is located in", "Uttar Pradesh"],
+    ["Uttar Pradesh", "is part of", "both Awadh ad Bundelkhand"],
+    ["Agra Airport", "ICAO location identifier is", "VIAG"],
+    ["Ram Naik", "is the leader of", "Uttar Pradesh"]
+  ],
+  "14": [
+    ["Ram Naik", "is the leader of", "Uttar Pradesh"],
+    ["Uttar Pradesh", "is part of", "Awadh and Bundelkhand"],
+    ["Agra airport", "is located in", "Uttar Pradesh"],
+    ["Agra airport", "has the native name of", "Kheria Air Force Station"]
+  ],
+  "15": [
+    ["Agra Airport", "which has the native name of", "Kheria Air Force Station"],
+    ["Agra Airport", "is in", "Uttar Pradesh"],
+    ["Uttar Pradesh", "is part of", "Awadh and Bundelkhand"],
+    ["Ram Naik", "is the leader in", "Uttar Pradesh"]
+  ],
+  "16": [
+    ["Agra Airport", "is located in", "Uttar Pradesh"],
+    ["Uttar Pradesh", "is part of", "Awadh and Bundelkhand"],
+    ["Kheria Air Force Station", "is its native name", ""],
+    ["Ram Naik", "is the leader in", "Uttar Pradesh"]
+  ],
+  "17": [
+    ["Al Asad airbase", "is operated by", "the United States Air Force"],
+    ["United States Air Force", "has aircraft", "Boeing C-17 Globemaster III (transport aircraft)"],
+    ["United States Air Force", "has aircraft", "General Dynamics F-16 Fighting Falcon (aircraft fighter)"],
+    ["United States Air Force", "has aircraft", "Lockheed AC-130"],
+    ["Lockheed AC-130", "can be found on", "USAF aircraft carriers"],
+    ["USAF", "was involved in", "the Invasion of Panama"]
+  ],
+  "18": [
+    ["Al Asad airbase", "is operated by", "the United States Air Force"],
+    ["United States Air Force", "was involved in battles at", "the invasion of Panama"],
+    ["United States Air Force", "deploy", "the Lockheed AC-130 on their aircraft carriers"],
+    ["United States Air Force", "deploy", "the Boeing C-17 Globemaster III as transport aircraft"],
+    ["United States Air Force", "deploy", "the General Dynamics F-16 Fighting Falcon as fighter aircraft"]
+  ],
+  "19": [
+    ["Al Asad airbase", "are the operators of", "the United States Air Force"],
+    ["United States Air Force", "was involved in", "the Invasion of Panama"],
+    ["USAF", "have aircraft including", "the Lockheed AC-130 attack aircraft"],
+    ["USAF", "have aircraft including", "the Boeing C-17 Globemaster III transporter"],
+    ["USAF", "have aircraft including", "the General Dynamics F-16 Fighting Falcon fighter plane"]
+  ],
+  "20": [
+    ["United States Air Force", "has fought in", "the Korean War"],
+    ["United States Air Force", "is the operating organisation for", "Al Asad airbase"],
+    ["United States Air Force", "has a", "Boeing C-17 Globemaster III transport aircraft"],
+    ["Lockheed AC-130", "can be found on", "USAF aircraft carriers"],
+    ["McDonnell Douglas F-15 Eagle", "was a Fighter Aircraft of", "the United States Air Force"]
+  ],
+  "21": [
+    ["United States Air Force", "fought battles in", "the Korean war"],
+    ["United States Air Force", "is the operating organisation for", "Al Asad airbase"],
+    ["US Airforce", "has a", "Boeing C-17 Globemaster III transport aircraft"],
+    ["US Airforce", "has an aircraft fighter called", "the McDonnell Douglas F-15 Eagle"],
+    ["US Airforce", "has an attack aircraft named", "The Lockheed AC-130"]
+  ],
+  "22": [
+    ["Lockheed C-130 Hercules", "is the transport aircraft for", "the United States Air Force"],
+    ["Lockheed AC-130", "can be found on", "USAF aircraft carriers"],
+    ["Korean War", "involved", "the United States Air Force"],
+    ["Invasion of Grenada", "involved", "the United States Air Force"],
+    ["United States Air Force", "operates", "the Al Asad Airbase"]
+  ],
+  "23": [
+    ["USAF", "fought in", "the Korean War"],
+    ["USAF", "invaded", "Grenada"],
+    ["USAF", "operates", "the Al Asad airbase"],
+    ["Lockheed AC-130", "is found on", "USAF carriers"],
+    ["Lockheed AC-130", "is an attack aircraft", ""],
+    ["Lockheed C-130 Hercules", "is a transport plane", ""]
+  ],
+  "24": [
+    ["Al Asad Airbase", "is operated by", "the United States Air Force"],
+    ["United States Air Force", "uses", "Lockheed AC-130 attack aircraft"],
+    ["United States Air Force", "uses", "Lockheed C-130 Hercules transport aircraft"],
+    ["USAF", "participated in", "the Korean War"],
+    ["USAF", "participated in", "the Invasion of Grenada"]
+  ],
+  "25": [
+    ["Invasions of Grenada and Panama", "involved", "the United States Air Force"],
+    ["United States Air Force", "operates", "the Al Asad airbase"],
+    ["Air Force", "has several types of aircraft such as", "the Boeing C-17 Globemaster III transport aircraft"],
+    ["Lockheed AC-130", "can be found on", "USAF aircraft carriers"]
+  ],
+  "26": [
+    ["Al Asad airbase", "is operated by", "The United States Air Force"],
+    ["USAF", "is equipped with", "the attack aircraft, Lockheed AC-130"],
+    ["USAF", "is equipped with", "Boeing C-17 Globemaster III transport aircraft"],
+    ["USAF", "has been involved in", "the Invasion of Grenada"],
+    ["USAF", "has been involved in", "invasion of Panama"]
+  ],
+  "27": [
+    ["Allama Iqbal International airport", "is located in", "Punjab Pakistan"],
+    ["Allama Iqbal International airport", "serves", "Lahore, Pakistan"],
+    ["Pakistan Civil Aviation Authority", "governs", "the Allama Iqbal International Airport"],
+    ["Pakistan", "is led by", "Anwar Zaheer Jamali"]
+  ],
+  "28": [
+    ["Allama Iqbal International Airport", "serves", "the city of Lahore"],
+    ["Allama Iqbal International Airport", "is located in", "Punjab, Pakistan"],
+    ["Allama Iqbal International Airport", "is operated by", "the Pakistan Civil Aviation Authority"],
+    ["Pakistan", "is led by", "Anwar Zaheer Jamali"]
+  ],
+  "29": [
+    ["Allama Iqbal International Airport", "is in the city of", "Lahore, Punjab, Pakistan"],
+    ["Allama Iqbal International Airport", "is operated by", "the Pakistan Civil Aviation Authority"],
+    ["Pakistan Civil Aviation Authority", "is in", "Punjab Pakistan"],
+    ["Punjab Pakistan", "is led by", "Anwar Zaheer Jamali"]
+  ],
+  "30": [
+    ["Pakistan Civil Aviation Authority", "is the operating organisation of", "the Allama Iqbal International Airport"],
+    ["Allama Iqbal International Airport", "serves", "the city of Lahore, in Pakistan"],
+    ["Shehbaz Sharif", "is the leader of", "Pakistan"],
+    ["Allama Iqbal International Airport", "is found in", "Punjab, Pakistan"]
+  ],
+  "31": [
+    ["Pakistan Civil Aviation Authority", "is the operating organisation of", "the Allama Iqbal International Airport"],
+    ["Allama Iqbal International Airport", "is located in", "Punjab, Pakistan"],
+    ["Punjab, Pakistan", "is led by", "Shehbaz Sharif"],
+    ["Allama Iqbal International Airport", "serves", "Lahore in Pakistan"]
+  ],
+  "32": [
+    ["Andrews County Airport", "is located in", "Texas"],
+    ["Andrews County Airport", "serves", "Andrews"],
+    ["Andrews County Airport", "is", "973.0 above sea level"],
+    ["Andrews County Airport", "has a runway length of", "896"],
+    ["Andrews County Airport", "has a runway with the name", "11/29"]
+  ],
+  "33": [
+    ["Andrews County Airport", "is in", "Texas"],
+    ["Andrews County Airport", "has a runway length of", "896"],
+    ["Andrews County Airport", "serves", "the city of Andrews"],
+    ["Andrews County Airport", "is located", "973 metres below sea level"],
+    ["Andrews County Airport", "has the runway name", "11/29"]
+  ],
+  "34": [
+    ["Andrews County Airport", "is located in", "Texas"],
+    ["Andrews County Airport", "serves", "the city of Andrews"],
+    ["Andrews County Airport", "is", "973 metres above sea level"],
+    ["Andrews County Airport", "runway length is named", "11/29"],
+    ["Andrews County Airport", "runway length is", "896 long"]
+  ],
+  "35": [
+    ["Andrews County Airport", "is in", "Texas in the U.S.A."],
+    ["Spanish", "is one of the languages spoken in", "Texas"],
+    ["Houston", "is the largest city in", "the state"],
+    ["Austin", "is the capital of", "Texas"]
+  ],
+  "36": [
+    ["Andrews County Airport", "is located in", "Texas, United States"],
+    ["Houston", "is the largest city in", "Texas"],
+    ["Austin", "is the Capital city in", "Texas"],
+    ["Spanish", "is one of the languages spoken in", "Texas"]
+  ],
+  "37": [
+    ["Houston", "is the largest city in", "Texas"],
+    ["Austin", "is the Capital city in", "Texas"],
+    ["Andrews County Airport", "is located in", "Texas"],
+    ["Some texans", "can speak", "Spanish"]
+  ],
+  "38": [
+    ["Andrews County Airport", "is located in", "Texas"],
+    ["Texas", "is a state where", "Spanish is spoken"],
+    ["Texas", "is a state where", "the people are called Texans"],
+    ["Houston", "is the largest city in", "Texas"],
+    ["Austin", "is the state's capital", ""]
+  ],
+  "39": [
+    ["Andrews County Airport", "is located in", "Texas"],
+    ["Spanish language", "is spoken in", "Texas"],
+    ["Texans", "are known as", "the people"],
+    ["Austin", "is the capital city", ""],
+    ["Houston", "is the largest city", ""]
+  ],
+  "40": [
+    ["Angola International Airport", "is in", "Ícolo e Bengo, (Luanda Province)"],
+    ["Angola International Airport", "serves", "Luanda"],
+    ["Angola International Airport", "is", "159 metres above sea level"]
+  ],
+  "41": [
+    ["Angola International Airport", "is located at", "Ícolo e Bengo in Luanda province, Angola"],
+    ["Airport", "is situated", "159 meters above sea level"],
+    ["Airport", "serves", "the city of Luanda"]
+  ],
+  "42": [
+    ["Angola International Airport", "is located in", "Ícolo e Bengo in the Luanda Province in Angola"],
+    ["Angola International Airport", "serves", "Luanda"],
+    ["Angola International Airport", "lies", "159 metres above sea level"]
+  ],
+  "43": [
+    ["Angola International Airport", "is located in", "Ícolo e Bengo, Luanda Province, Angola"],
+    ["Angola International Airport", "runway is", "4000ft long"],
+    ["Angola International Airport", "is", "159m a.s.l."]
+  ],
+  "44": [
+    ["Angola International airport", "is located in", "Icolo e Bengo"],
+    ["Icolo e Bengo", "is a part of", "Luanda Province"],
+    ["Luanda Province", "is located in", "Angola"],
+    ["Angola International airport", "is", "159 meters above sea level"],
+    ["Angola International airport", "runway has a length of", "4000.0"]
+  ],
+  "45": [
+    ["Angola International Airport", "is located in", "Icolo e Bengo"],
+    ["Icolo e Bengo", "is located in", "the Luanda Province, Angola"],
+    ["Angola International Airport", "is situated", "159 meters above sea level"],
+    ["Angola International Airport", "has a runway that measures a length of", "4000.0"]
+  ],
+  "46": [
+    ["Flemish department of Mobility and Public Works", "is the operating organisation of", "Antwerp International Airport"],
+    ["Antwerp International Airport", "is owned by", "the Flemish Region"],
+    ["Antwerp International Airport", "serves", "the city of Antwerp"],
+    ["Antwerp International Airport", "is", "12.0 metres above sea level"],
+    ["Antwerp International Airport", "has a runway length of", "600.0"]
+  ],
+  "47": [
+    ["Flemish Region", "owns", "Antwerp International Airport"],
+    ["Antwerp International Airport", "is operated by", "the Flemish Department of Mobility and Public Works"],
+    ["Antwerp International Airport", "serves", "the city of Antwerp"],
+    ["Antwerp International Airport", "has a runway length of", "600.0"],
+    ["Antwerp International Airport", "is", "12 metres above sea level"]
+  ],
+  "48": [
+    ["Antwerp International Airport", "is owned by", "the Flemish Region"],
+    ["Antwerp International Airport", "is located in", "the city of Antwerp"],
+    ["Antwerp International Airport", "has a runway length of", "600.0"],
+    ["Antwerp International Airport", "has elevation of", "12.0 metres above sea level"],
+    ["Flemish department of Mobility and Public Works", "is the operating organisation", ""]
+  ],
+  "49": [
+    ["Appleton", "is served by", "Appleton International Airport"],
+    ["Appleton International Airport", "is located", "280 metres above sea level"],
+    ["Appleton International Airport", "is in", "Greenville, Wisconsin"],
+    ["Appleton International Airport", "has runway", "3/21"],
+    ["Appleton International Airport", "runway is", "2439 in length"]
+  ],
+  "50": [
+    ["Appleton International Airport", "can be found in", "Greenville, Wisconsin"],
+    ["Appleton International Airport", "serves", "the city of Appleton"],
+    ["Appleton International Airport", "is situated", "280 meters above sea level"],
+    ["Appleton International Airport", "has a", "2,439 kilometers long runway"],
+    ["Appleton International Airport", "runway is called", "3/21"]
+  ],
+  "51": [
+    ["Appleton International Airport", "serves", "the city of Appleton"],
+    ["Appleton International Airport", "is located in", "Greenville, Wisconsin"],
+    ["Appleton International Airport", "is elevated", "2801 meters above sea level"],
+    ["Appleton International Airport", "runway is named", "3/21"],
+    ["Appleton International Airport", "runway measures a length of", "2439 units"]
+  ],
+  "52": [
+    ["Appleton", "is served by", "Appleton International Airport"],
+    ["Appleton International Airport", "is in", "Greenville (part of Menasha)"],
+    ["Greenville (part of Menasha)", "is in", "Clayton Winnebago County, Wisconsin, United States"]
+  ],
+  "53": [
+    ["Appleton, Wisconsin", "is served by", "Appleton International Airport"],
+    ["Appleton International Airport", "is located in", "Greenville (part of Menasha town)"],
+    ["Greenville (part of Menasha town)", "is in", "Clayton Winnebago County, Wisconsin, USA"]
+  ],
+  "54": [
+    ["Ardmore Airport in New Zealand", "is operated by", "the Civil Aviation Authority of New Zealand"],
+    ["Ardmore Airport in New Zealand", "is", "34 metres above sea level"],
+    ["Ardmore Airport in New Zealand", "has a runway named", "03R/21L"],
+    ["03R/21L", "is", "1,411 long"],
+    ["Ardmore Airport in New Zealand", "third runway has a", "poaceae surface"]
+  ],
+  "55": [
+    ["Ardmore Airport (New Zealand)", "is operated by", "the Civil Aviation Authority of New Zealand"],
+    ["Ardmore Airport (New Zealand)", "3rd runway is made of", "Poaceae"],
+    ["Ardmore Airport (New Zealand)", "runway name is", "03R/21L"],
+    ["03R/21L", "is", "1411 m long"],
+    ["Ardmore Airport (New Zealand)", "is", "34 m above sea level"]
+  ],
+  "56": [
+    ["Civil Aviation Authority of New Zealand", "is the operating organisation for", "Ardmore Airport, New Zealand"],
+    ["Ardmore Airport, New Zealand", "is situated", "34 meters above sea level"],
+    ["Ardmore Airport, New Zealand", "3rd runway is surfaced with", "Poaceae"],
+    ["Ardmore Airport, New Zealand", "has a", "1,411 meter long runway"],
+    ["Ardmore Airport, New Zealand", "runway is called", "03R/21L"]
+  ],
+  "57": [
+    ["Turkmenistan Airlines", "operates", "Ashgabat International Airport"],
+    ["Ashgabat International Airport", "is in", "Ashgabat"],
+    ["Ashgabat International Airport", "is", "211 metres above sea level"],
+    ["Ashgabat International Airport", "has the runway length of", "2989.0"],
+    ["Ashgabat International Airport", "runway name is", "12R/30L"]
+  ],
+  "58": [
+    ["Ashgabat International Airport", "is operated by", "Turkmenistan Airlines"],
+    ["Ashgabat International Airport", "runway 12R/30L is", "2989m long"],
+    ["Ashgabat International Airport", "is", "211m a.s.l."]
+  ],
+  "59": [
+    ["Ashgabat International Airport", "is located in", "Ashgabat"],
+    ["Ashgabat International Airport", "is operated by", "Turkmenistan Airlines"],
+    ["Ashgabat International Airport", "is", "211 metres above sea level"],
+    ["Ashgabat International Airport", "has a runway length of", "2989.0"],
+    ["Ashgabat International Airport", "has a runway named", "12R/30L"]
+  ],
+  "60": [
+    ["Atlantic City International Airport", "has a runway length of", "1,873"],
+    ["Atlantic City International Airport", "is operated by", "the Port Authority of New York and New Jersey"],
+    ["Atlantic City International Airport", "is situated", "23 metres above sea level"],
+    ["Atlantic City International Airport", "has the runway name of", "4/22"],
+    ["Atlantic City International Airport", "is known by the ICAO location identifier", "KACY"]
+  ],
+  "61": [
+    ["Runway 4/22", "at Atlantic City International Airport", "has an elevation of 23m above sea level"],
+    ["Runway 4/22", "at Atlantic City International Airport", "length is", "1873"],
+    ["Atlantic City International Airport", "is operated by", "Port Authority of New York and New Jersey"],
+    ["Atlantic City International Airport", "is under the location Identifier of", "KACY"]
+  ],
+  "62": [
+    ["Port Authority of New York and New Jersey", "is the operating organisation of", "Atlantic City International airport"],
+    ["Atlantic City International airport", "lies", "23.0 meters above sea level"],
+    ["Atlantic City International airport", "ICAO Location Identifier is", "KACY"],
+    ["4/22", "is the name of the runway in", "Atlantic City International Airport"],
+    ["4/22", "measures", "1873"]
+  ],
+  "63": [
+    ["Antwerp International Airport", "serves", "the city of Antwerp"],
+    ["Antwerp", "is in", "Belgium"],
+    ["Philippe of Belgium", "is leader of", "Belgium"],
+    ["Charles Michel", "is leader of", "Belgium"],
+    ["German", "is the language in", "Belgium"]
+  ],
+  "64": [
+    ["Antwerp International Airport", "serves", "Antwerp in Belgium"],
+    ["Philippe of Belgium", "is leader of", "Belgium"],
+    ["Charles Michel", "is leader of", "Belgium"],
+    ["German", "is the language spoken in", "Belgium"]
+  ],
+  "65": [
+    ["Atlantic City International Airport", "is", "23 metres above sea level"],
+    ["Atlantic City International Airport", "is located in", "Egg Harbor Township, Atlantic County, New Jersey, United States"]
+  ],
+  "66": [
+    ["Atlantic City International Airport", "is located at", "23 metres above sea level"],
+    ["Atlantic City International Airport", "is located in", "Egg Harbor Township, Atlantic County, New Jersey, United States"]
+  ],
+  "67": [
+    ["Atlantic City International Airport", "lies", "23 metres above sea level"],
+    ["Atlantic City International Airport", "is located in", "Egg Harbor Township, New Jersey, United States"],
+    ["Egg Harbor Township", "is a part of", "Atlantic County, New Jersey"]
+  ],
+  "68": [
+    ["runway length", "at Adolfo Suarez Madrid-Barajas airport", "is 3500.0"],
+    ["Adolfo Suarez Madrid-Barajas airport", "is located in", "Madrid"],
+    ["Madrid", "is part of", "the community of Madrid in Spain"],
+    ["Adolfo Suarez Madrid-Barajas airport", "is", "610 metres above sea level"]
+  ],
+  "69": [
+    ["Adolfo Suárez Madrid–Barajas Airport", "is found in", "Madrid, Spain"],
+    ["Madrid", "is part of", "the community of Madrid"],
+    ["Adolfo Suárez Madrid–Barajas Airport", "has a runway length of", "3500"],
+    ["Adolfo Suárez Madrid–Barajas Airport", "is", "610 metres above sea level"]
+  ],
+  "70": [
+    ["Adolfo Suárez Madrid–Barajas Airport", "is located in", "Madrid"],
+    ["Madrid", "is part of", "the Community of Madrid, in Spain"],
+    ["Adolfo Suárez Madrid–Barajas Airport", "has a runway length of", "3,500"],
+    ["Adolfo Suárez Madrid–Barajas Airport", "is located", "610 metres above sea level"]
+  ],
+  "71": [
+    ["Aaron Bertram", "is a", "ska punk musician"],
+    ["ska punk", "originated from", "punk rock"],
+    ["Aaron Bertram", "is an artist with", "Kids Imagine Nation"],
+    ["Aaron Bertram", "plays for", "Suburban Legends Band"],
+    ["Brian Robertson", "plays the trombone for", "Suburban Legends"]
+  ],
+  "72": [
+    ["Aaron Bertram", "plays for", "the Kids Imagine Nation and the Suburban Legends bands"],
+    ["Aaron Bertram", "performs", "ska punk music"],
+    ["ska punk", "is a form of", "punk rock"],
+    ["Brian Robertson", "is a trombonist", ""],
+    ["Brian Robertson", "is a band member of", "Suburban Legends"]
+  ],
+  "73": [
+    ["Aaron Bertram", "plays for", "the Kids Imagine Nation"],
+    ["Aaron Bertram", "plays for", "the Suburban Legends"],
+    ["Brian Robertson", "is a trombonist in", "Suburban Legends"],
+    ["Aaron Bertram", "musical genre is", "ska"],
+    ["ska", "has its origins in", "punk rock"]
+  ],
+  "74": [
+    ["Aaron Deer", "comes from", "Indiana"],
+    ["Aaron Deer", "was born in", "the United States"],
+    ["Aaron Deer", "is a", "solo singer"],
+    ["Aaron Deer", "is an Indie rock musician", ""],
+    ["Aaron Deer", "was part of the band", "Wee Giant"]
+  ],
+  "75": [
+    ["Aaron Deer", "comes from", "Indiana"],
+    ["Aaron Deer", "was born in", "the United States"],
+    ["Aaron Deer", "is a", "solo singer/ performer"],
+    ["Aaron Deer", "musical genre is", "indie rock"],
+    ["Aaron Deer", "is an artist for", "the Wee Giant band"]
+  ],
+  "76": [
+    ["Aaron Deer", "is an", "Indie rock soloist"],
+    ["Aaron Deer", "was formerly a member of", "Wee Giant"],
+    ["Aaron Deer", "was born in", "Indiana, USA"]
+  ],
+  "77": [
+    ["Aaron Turner", "is a", "black metal musician"],
+    ["Aaron Turner", "plays", "electric guitar"],
+    ["Aaron Turner", "performs for", "House of Low Culture"],
+    ["Aaron Turner", "performs for", "Mamiffer"],
+    ["death metal", "is a musical fusion of", "black metal"]
+  ],
+  "78": [
+    ["Aaron Turner", "is a", "black metal musician"],
+    ["Aaron Turner", "plays", "electric guitar"],
+    ["Aaron Turner", "performs with", "Mamiffer"],
+    ["Aaron Turner", "has performed for", "the House of Low Culture"],
+    ["death metal", "is a musical fusion of", "black metal"]
+  ],
+  "79": [
+    ["Aaron Turner", "is a", "black metal electric guitar player"],
+    ["Aaron Turner", "performs for", "Mamiffer"],
+    ["Aaron Turner", "performs for", "House of Low Culture"],
+    ["death metal", "is a fusion of", "black metal"]
+  ],
+  "80": [
+    ["Aaron Turner", "is a", "Black metal musician"],
+    ["Aaron Turner", "plays", "the electric guitar"],
+    ["Aaron Turner", "has been part of the bands", "Twilight and Greymachine"],
+    ["Black metal", "has a musical fusion called", "Death metal"]
+  ],
+  "81": [
+    ["Aaron Turner", "plays", "electric guitar black metal"],
+    ["death metal", "is a musical fusion of", "black metal"],
+    ["Aaron Turner", "played with", "Twilight"],
+    ["Aaron Turner", "is associated with", "Greymachine"]
+  ],
+  "82": [
+    ["Aaron Turner", "is a", "Black metal music and electric guitarist"],
+    ["Aaron Turner", "is associated with the bands", "Twilight and Greymachine"],
+    ["Death metal", "is a fusion of", "black metal"]
+  ],
+  "83": [
+    ["Aaron Turner", "was born in", "Massachusetts"],
+    ["Aaron Turner", "started performing in", "1995"],
+    ["Aaron Turner", "formerly played with", "the band Twilight"],
+    ["Aaron Turner", "is now in", "the Lotus Eaters"],
+    ["Aaron Turner", "is is closely associated with", "the sludge metal genre"]
+  ],
+  "84": [
+    ["Aaron Turner", "is from", "Massachusetts"],
+    ["Aaron Turner", "is a", "musician"],
+    ["Aaron Turner", "loves", "Sludge metal"],
+    ["Aaron Turner", "played with", "the band Twilight"],
+    ["Aaron Turner", "played with", "the Lotus Eaters Band"],
+    ["Aaron Turner", "played in", "1995"]
+  ],
+  "85": [
+    ["Massachusetts born", "Sludge metal musician", "Aaron Turner"],
+    ["Aaron Turner", "began performing in", "1995"],
+    ["Aaron Turner", "has played with", "Twilight"],
+    ["Aaron Turner", "has been with", "the Lotus Eaters band"]
+  ],
+  "86": [
+    ["Abradab", "originates from", "Katowice, Poland"],
+    ["Abradab", "started performing in", "1994"],
+    ["Abradab", "played with", "the band Kaliber 44"],
+    ["Abradab", "is associated with", "the rapper Magik"]
+  ],
+  "87": [
+    ["Abradab", "came from", "Katowice, Poland"],
+    ["Abradab", "started peforming in", "1994"],
+    ["Abradab", "played with", "Kaliber 44"],
+    ["Abradab", "is associated with", "the rapper Magik"]
+  ],
+  "88": [
+    ["Abradab", "was born in", "Katowice, Poland"],
+    ["Abradab", "began performing in", "1994"],
+    ["Abradab", "is associated with", "Magik and Kaliber 44"]
+  ],
+  "89": [
+    ["Ace Wilder", "has a musical background as", "a solo singer"],
+    ["Ace Wilder", "was born on", "July 23rd, 1982"],
+    ["Ace Wilder", "was born in", "Sweden"]
+  ],
+  "90": [
+    ["Ace Wilder", "is a", "solo singer"],
+    ["Ace Wilder", "was born on", "July 23, 1982"],
+    ["Ace Wilder", "was born in", "the country of Sweden"]
+  ],
+  "91": [
+    ["Ace Wilder", "occupation is", "a solo singer"],
+    ["Ace Wilder", "was born in", "Sweden"],
+    ["Ace Wilder", "was born on", "23 July 1982"]
+  ],
+  "92": [
+    ["Agustin Barboza", "was born in", "Asuncion, Paraguay"],
+    ["Agustin Barboza", "is ethnic", "mestizo"],
+    ["Spanish", "is the official language of", "Paraguay"],
+    ["Juan Afara", "is the leader of", "the country"]
+  ],
+  "93": [
+    ["Agustin Barboza", "was born in", "Asuncion, Paraguay"],
+    ["Paraguay", "ethnic group are called", "Mestizo"],
+    ["Paraguay", "leader is", "Juan Afara"],
+    ["Paraguay", "uses", "the Spanish language"]
+  ],
+  "94": [
+    ["Agustin Barboza", "was born in", "Spanish speaking, Asuncion, Paraguay"],
+    ["Paraguay", "is home to", "the Mestizo people"],
+    ["Paraguay", "is led by", "Juan Afara"]
+  ],
+  "95": [
+    ["Disco", "derives from", "rhythm and blues"],
+    ["rhythm and blues", "originated from", "the blues"],
+    ["Rhythm and blues", "is the musical genre of", "Ahmet Ertegun"],
+    ["Ahmet Ertegun", "died in", "the United States"],
+    ["African Americans", "are an ethnic group in", "the United States"]
+  ],
+  "96": [
+    ["Ahmet Ertegun", "was born in", "1923"],
+    ["Ahmet Ertegun", "is from", "Washington D.C., in the United States"],
+    ["Ertegun", "has a background as", "a non performing personnel"],
+    ["Ertegun", "musical genre is", "Rhythm and Blues"]
+  ],
+  "97": [
+    ["Ahmet Ertegun", "was born in", "Washington, DC, U.S.A. (1923)"],
+    ["Ahmet Ertegun", "genre is", "rhythm and blues"],
+    ["Ahmet Ertegun", "background is", "non performing"]
+  ],
+  "98": [
+    ["Alan Frew", "musical genre is", "Rock music"],
+    ["Alan Frew", "has a background as", "a solo singer"],
+    ["Rock music", "originated from", "country music"],
+    ["Rock music", "has its stylistic origins in", "the Blues"],
+    ["bhangra music", "is a musical fusion of", "rock music"]
+  ],
+  "99": [
+    ["Alan Frew", "is a", "rock musician"],
+    ["Alan Frew", "is a", "singer"],
+    ["Rock", "originates from", "the blues and country music"],
+    ["Rock", "lends itself to", "Bhangra fusion"]
+  ],
+  "100": [
+    ["Alan Frew", "is a", "rock musician"],
+    ["Alan Frew", "is a", "singer"],
+    ["Rock", "has its origins in", "country and blues"],
+    ["Rock", "influences", "bhangra"]
+  ],
+  "101": [
+    ["Alan Frew", "is from", "Newmarket, Ontario, Canada"],
+    ["Alan Frew", "was born in", "Coatbridge"],
+    ["Alan Frew", "is a", "musician and solo singer"]
+  ],
+  "102": [
+    ["Alan Frew", "is from", "Coatbridge, Newmarket, Ontario, Canada"],
+    ["Alan Frew", "is a", "musician and solo singer"]
+  ],
+  "103": [
+    ["Alan Frew", "was born in", "Coatbridge"],
+    ["Alan Frew", "is from", "Newmarket, Ontario, Canada"],
+    ["Alan Frew", "is a", "singer"]
+  ],
+  "104": [
+    ["Alex Day", "was born in", "the London Borough of Havering"],
+    ["Alex Day", "started performing in", "2006"],
+    ["Alex Day", "plays with", "the band Chameleon Circuit"],
+    ["Alex Day", "performs", "electronic music"],
+    ["Alex Day", "is associated with", "the musical artist Charlie McDonnell"]
+  ],
+  "105": [
+    ["Alex Day", "was born in", "the London Borough of Havering"],
+    ["Alex Day", "became active in", "electronic music in 2006"],
+    ["Alex Day", "plays with", "Chameleon circuit"],
+    ["Alex Day", "is associated with", "Charlie McDonnell"]
+  ],
+  "106": [
+    ["Alex Day", "was born in", "the London Borough of Havering"],
+    ["Alex Day", "is an", "electronic musician"],
+    ["Alex Day", "began his active career in", "2006"],
+    ["Alex Day", "is associated with artists", "Charlie McDonnell and the Chameleon Circuit"]
+  ],
+  "107": [
+    ["Alfred Garth Jones", "was born in", "Manchester"],
+    ["Alfred Garth Jones", "died in", "Sidcup, London"],
+    ["London", "is led by", "the European Parliament"],
+    ["Manchester", "is led by", "The Labour Party (UK)"]
+  ],
+  "108": [
+    ["Alfred Garth Jones", "was born in", "Manchester"],
+    ["Alfred Garth Jones", "passed away in", "Sidcup, London"],
+    ["Manchester", "is led by", "the Labour Party"],
+    ["London", "is led by", "the European parliament"]
+  ],
+  "109": [
+    ["Alfred Garth Jones", "was born in", "Manchester"],
+    ["Alfred Garth Jones", "died in", "Sidcup, London"],
+    ["London", "is led by", "the European Parliament"],
+    ["Manchester", "is led by", "the Labour Party"]
+  ],
+  "110": [
+    ["Alfredo Zitarrosa", "performs", "Zamba music"],
+    ["Alfredo Zitarrosa", "has a background as", "a solo singer"],
+    ["Alfredo Zitarrosa", "was signed to", "the RCA Records label"],
+    ["Alfredo Zitarrosa", "has been associated with", "the musicians Ciro Pérez and Héctor Numa Moraes"]
+  ],
+  "111": [
+    ["Alfredo Zitarrosa", "recorded his songs with", "the RCA Records Label"],
+    ["Alfredo", "background is", "solo singing in the zamba style"],
+    ["Ciro Perez", "is a musician associated with", "Alfredo Zitarrosa"],
+    ["Hector Numa Moraes", "is a musician associated with", "Alfredo Zitarrosa"]
+  ],
+  "112": [
+    ["Alfredo Zitarrosa", "is a", "Zamba solo singer"],
+    ["Alfredo Zitarrosa", "is associated with", "Ciro Perez and Hector Numa Moraes"],
+    ["Alfredo Zitarrosa", "is signed to", "RCA records"]
+  ],
+  "113": [
+    ["Alison O'Donnell", "began her music career in", "1963"],
+    ["Alison O'Donnell", "has been a member of", "Flibbertigibbet and Mellow Candle Bands"],
+    ["Alison O'Donnell", "is a", "Irish folk singer"],
+    ["Alison O'Donnell", "is signed to", "the Static Caravan record label"]
+  ],
+  "114": [
+    ["Alison O'Donnell", "played", "Irish folk music"],
+    ["Alison O'Donnell", "played with", "the Flibbertigibbet band and Mellow Candle"],
+    ["Alison O'Donnell", "became active in", "1963"],
+    ["Alison O'Donnell", "is signed to", "Static Caravan Recordings"]
+  ],
+  "115": [
+    ["Anders Osborne", "musical career began in", "1989"],
+    ["Anders Osborne", "genre is", "Rhythm and blues"],
+    ["Anders Osborne", "is associated with", "the musical artists Billy Iuso and Tab Benoit"],
+    ["Anders Osborne", "is also associated with", "the band, Voice of the Wetlands All-Stars"]
+  ],
+  "116": [
+    ["Anders Osborne", "started his musical performing in", "1989"],
+    ["Anders Osborne", "met", "musical artists Tab Benoit and Billy Iuso"],
+    ["Anders Osborne", "met", "the band Voice of the Wetlands All-Stars"],
+    ["A. Osborne", "performs in", "the rhythm and blues style"]
+  ],
+  "117": [
+    ["Anders Osborne", "started performing in", "1989"],
+    ["Anders Osborne", "genre is", "rhythm and blues"],
+    ["Anders Osborne", "has worked with", "Tab Benoit"],
+    ["Anders Osborne", "is associated with", "the musical artist Billy Iuso"],
+    ["Anders Osborne", "is associated with", "Voice of the Wetlands All-Stars"]
+  ],
+  "118": [
+    ["Anders Osborne", "is a", "rock guitarist"],
+    ["Anders Osborne", "is associated with", "Johnny Sansone"],
+    ["Anders Osborne", "is signed to", "Okeh records"],
+    ["Bhangra", "is a musical fusion of", "rock music"]
+  ],
+  "119": [
+    ["Anders Osborne", "is a", "rock guitarist"],
+    ["Anders Osborne", "is signed with", "Okeh Records"],
+    ["Anders Osborne", "is associated with", "musician Johnny Sansone"],
+    ["Bhangra", "is a fusion of", "rock music"]
+  ],
+  "120": [
+    ["Anders Osborne", "is a", "rock guitarist"],
+    ["Anders Osborne", "is signed with", "Okeh Records"],
+    ["Anders Osborne", "is associated with", "artist Johnny Sansone"],
+    ["Bhangra", "is fusion of", "rock"]
+  ],
+  "121": [
+    ["Andra", "is a", "solo singer"],
+    ["Andra", "was born in", "1986, in Romania"],
+    ["Andra", "is a", "rhythm and blues singer"],
+    ["Andra", "occupation is", "singing"]
+  ],
+  "122": [
+    ["Andra", "is a", "singer"],
+    ["Andra", "was born in", "Romania in 1986"],
+    ["Andra", "performs", "rhythm and blues as a solo artist"]
+  ],
+  "123": [
+    ["Andra", "is a", "Rhythm and blues solo singer musician"],
+    ["Andra", "was born", "1986, in Romania"]
+  ],
+  "124": [
+    ["Andra", "is a", "singer"],
+    ["Andra", "was born in", "Câmpia, Turzii, in 1986"],
+    ["Andra", "has a carrer in", "singing"],
+    ["Andra", "is a", "solo singer"],
+    ["Andra", "performs", "rhythm and blues music"]
+  ],
+  "125": [
+    ["Andra", "was born in", "Campia Turzii in 1986"],
+    ["Andra", "began her career as", "a solo singer"],
+    ["Andra", "sings for a living in", "the genre Rhythm and blues"]
+  ],
+  "126": [
+    ["Andra", "is a", "solo rhythm and blues singer"],
+    ["Andra", "was born in", "1986 in Campia Turzii"]
+  ],
+  "127": [
+    ["Andrew Rayel", "was born in", "Chisinau, Moldova"],
+    ["Andrew Rayel", "started his career in", "2009"],
+    ["Andrew Rayel", "musical genre is", "trance music"],
+    ["Andrew Rayel", "is associated with", "Christian Burns and Armin van Buuren"]
+  ],
+  "128": [
+    ["Andrew Rayel", "was born in", "Chisinau, Moldova"],
+    ["Andrew Rayel", "is an associate of", "Armin van Buuren and Christian Burns"],
+    ["Mr Rayel", "musical genre is", "Trance"],
+    ["Mr Rayel", "started in", "2009"]
+  ],
+  "129": [
+    ["Andrew Rayel", "was born in", "Chisinau, Moldova"],
+    ["Andrew Rayel", "began his musical career in", "2009"],
+    ["Andrew Rayel", "has performed", "the genre of Trance music"],
+    ["Andrew Rayel", "is associated with", "the musical artist Armin van Buuren"],
+    ["Andrew Rayel", "is associated with", "Christian Burns"]
+  ],
+  "130": [
+    ["Andrew White", "is part of", "the Kaiser Chiefs"],
+    ["Andrew White", "is signed to", "the record label B-Unique Records and Polydor Records"],
+    ["Andrew White", "started his musical career in", "2003"],
+    ["Andrew White", "was associated with", "Marry Banilow"]
+  ],
+  "131": [
+    ["Andrew White", "is an artist with", "B-Unique Records and Polydor Records"],
+    ["Andrew White", "began in", "2003"],
+    ["Andrew White", "is associated with", "the Kaiser Chiefs and artist Marry Banilow"]
+  ],
+  "132": [
+    ["Andrew White", "is a", "B-Unique Records and Polydor Recording artist"],
+    ["Andrew White", "began his career in", "2003"],
+    ["Andrew White", "is associated with", "the Kaiser Chiefs and Marry Banilow"]
+  ],
+  "133": [
+    ["Andrew Rayel", "is a", "string instrumentalist"],
+    ["Andrew Rayel", "is associated with", "Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, house musician Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi"]
+  ],
+  "134": [
+    ["Andrew Rayel", "is a", "string instrumentalist"],
+    ["Andrew Rayel", "is associated with the musical artists", "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (house music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi"]
+  ],
+  "135": [
+    ["Andrew Rayel", "is a", "string instrumentalist"],
+    ["Andrew Rayel", "is associated with", "Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (House music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi"]
+  ],
+  "136": [
+    ["Allen Forrest", "is a", "hip hop artist"],
+    ["Allen Forrest", "was born on", "February 4, 1981"],
+    ["Hip hop music", "originated from", "disco and funk music"],
+    ["Drum and bass", "derives its sounds from", "hip hop music"]
+  ],
+  "137": [
+    ["Allen Forrest", "musical genre is", "hip hop music"],
+    ["Allen Forrest", "date of birth is", "04th February 1981"],
+    ["Hip Hop music", "has its origins in", "Funk and Disco"],
+    ["Drum and bass", "derives its sounds from", "hip hop music"]
+  ],
+  "138": [
+    ["Allen Forrest", "was born on", "February 4, 1981"],
+    ["Allen Forrest", "plays", "Hip Hop music"],
+    ["Hip Hop music", "has its origins in", "Disco music"],
+    ["Hip hop", "came from", "funk music"],
+    ["Drum and Bass music", "is derived from", "Hip Hop"]
+  ],
+  "139": [
+    ["Agustin Barboza", "was born in", "Asuncion, in Paraguay"],
+    ["Paraguay", "has an ethnic group called", "the Mestizo"],
+    ["Spanish", "is spoken in", "Paraguay"],
+    ["Paraguay", "is led by", "Juan Afara"]
+  ],
+  "140": [
+    ["Agustin Barboza", "was born in", "Asuncion, Paraguay"],
+    ["Spanish", "is spoken in", "Paraguay"],
+    ["Juan Afara", "leads", "the country"],
+    ["Mestizo people", "are an ethnic group in", "Paraguay"]
+  ],
+  "141": [
+    ["Agustin Barboza", "was born in", "Spanish speaking Asuncion, Paraguay"],
+    ["Paraguay", "is home of", "the Mestizo"],
+    ["Paraguay", "is led by", "Juan Afara"]
+  ],
+  "142": [
+    ["Juan Afara", "is the leader of", "Paraguay"],
+    ["Mestizo people", "are one ethnic group in", "Paraguay"],
+    ["Agustin Barboza", "was born in", "Paraguay"],
+    ["Agustin Barboza", "died in", "Asunción, a part of Gran Asunción"]
+  ],
+  "143": [
+    ["Agustin Barboza", "was born in", "Paraguay"],
+    ["Agustin Barboza", "died in", "Asuncion which is part of Gran Asunción"],
+    ["Juan Afara", "is the country's leader", ""],
+    ["Mestizo", "are among the ethnic groups in", "Paraguay"]
+  ],
+  "144": [
+    ["Agustin Barboza", "was born in", "Paraguay"],
+    ["Paraguay", "is led by", "Juan Afara"],
+    ["Mestizo ethnic group", "is one of the ethnic groups in", "Paraguay"],
+    ["Agustin", "died in", "Asuncion, Gran Asunción"]
+  ],
+  "145": [
+    ["Al Anderson", "plays the guitar in", "the rock music band NRBQ"],
+    ["Rock music", "originated from", "country music"],
+    ["country music", "originated from", "blues music"],
+    ["Bhangra", "is part of the fusion genre, partly coming from", "Rock music"]
+  ],
+  "146": [
+    ["Al Anderson", "plays the guitar for", "rock band NRBQ"],
+    ["Rock", "comes from", "country music"],
+    ["country music", "originates from", "blues"],
+    ["Bhangra music", "is a musical fusion of", "rock music"]
+  ],
+  "147": [
+    ["AI Anderson", "is a", "rock guitarist"],
+    ["AI Anderson", "is a member of", "NRBQ"],
+    ["Rock", "originates from", "rock"],
+    ["rock", "has its origins in", "country"],
+    ["country", "derives from", "the blues"],
+    ["Bhangra", "is a", "rock fusion"]
+  ],
+  "148": [
+    ["Aaron Turner", "plays", "the electric guitar"],
+    ["Aaron Turner", "performed with", "Twilight, a black metal band"],
+    ["Aaron Turner", "performed with", "House of Low Culture"],
+    ["Black metal", "is an element of", "the fusion genre death metal"]
+  ],
+  "149": [
+    ["Aaron Turner", "is an", "electric guitarist"],
+    ["Aaron Turner", "has performed with", "House of Low Culture and the black metal band Twilight"],
+    ["Black metal", "is an element of", "the fusion genre death metal"]
+  ],
+  "150": [
+    ["Aaron Turner", "is an", "electric guitarist"],
+    ["Aaron Turner", "has played with", "black metal band Twilight"],
+    ["Aaron Turner", "has played with", "House of Low Culture"],
+    ["Death metal", "is a fusion of", "black metal"]
+  ],
+  "151": [
+    ["Alfredo Zitarrosa", "died in", "Montevideo, Uruguay"],
+    ["Daniel Martinez", "is a political leader in", "Montevideo"],
+    ["Raul Fernando Sendic Rodriguez", "is a leader in", "Uruguay"],
+    ["Spanish", "is spoken in", "Uruguay"]
+  ],
+  "152": [
+    ["Alfredo Zitarrosa", "died in", "Montevideo"],
+    ["Montevideo", "is led by", "Daniel Martinez"],
+    ["Montevideo", "is in", "Uruguay"],
+    ["Spanish", "is the language in", "Uruguay"],
+    ["Raúl Fernando Sendic Rodríguez", "is the leader in", "Uruguay"]
+  ],
+  "153": [
+    ["Alfredo Zitarrosa", "died in", "Montevideo in Uruguay"],
+    ["Uruguay", "leader is", "Tabare Vazquez"],
+    ["Daniel Martinez", "is a politician in", "Montevideo"],
+    ["Uruguayans", "live in", "Uruguay"]
+  ],
+  "154": [
+    ["Montevideo, Uruguay", "is the final resting place of", "Alfredo Zitarrosa"],
+    ["Montevideo", "is led by", "Daniel Martínez and Tabaré Vázquez"],
+    ["Montevideo", "is home to", "the Uruguayans"]
+  ],
+  "155": [
+    ["Montevideo, Uruguay", "is led by", "Daniel Martinez and Tabaré Vázquez"],
+    ["Montevideo, Uruguay", "is the home to", "Uruguayans"],
+    ["Montevideo, Uruguay", "is the place of death for", "Alfredo Zitarrosa"]
+  ],
+  "156": [
+    ["Alan Bean", "was an", "American"],
+    ["Alan Bean", "was born in", "Wheeler, Texas"],
+    ["Alan Bean", "served as", "a test pilot"],
+    ["Alan Bean", "became", "a crew member of Apollo 12"],
+    ["Apollo 12", "was operated by", "NASA"]
+  ],
+  "157": [
+    ["Apollo 12", "was operated by", "NASA"],
+    ["Apollo 12", "crew members included", "American national Alan Bean"],
+    ["Alan Bean", "was born in", "Wheeler, Texas"],
+    ["Alan Bean", "served as", "a test pilot"]
+  ],
+  "158": [
+    ["Alan Bean", "is a", "US national"],
+    ["Alan Bean", "was born in", "Wheeler, Texas"],
+    ["Alan Bean", "served as", "a test pilot"],
+    ["Alan Bean", "became part of", "the NASA operated Apollo 12 mission"],
+    ["Alan Bean", "was a", "crew member"]
+  ],
+  "159": [
+    ["Alan Shepard", "was born in", "New Hampshire on November 18, 1923"],
+    ["Alan Shepard", "graduated from", "NWC in 1957 with an M.A."],
+    ["Alan Shepard", "died in", "California on July 21, 1998"]
+  ],
+  "160": [
+    ["Alan Shepard", "was born in", "New Hampshire on the 18th of November, 1923"],
+    ["Alan Shepard", "graduated from", "NWC in 1957 with an M.A."],
+    ["Alan Shepard", "passed away in", "California on the 21st of July, 1998"]
+  ],
+  "161": [
+    ["Alan Shepard", "was born on", "the 18th of November, 1923 in New Hampshire"],
+    ["Alan Shepard", "passed away on", "the 21st of July, 1998 in California"],
+    ["Alan Shepard", "graduated with", "an M.A. from NWC in 1957"]
+  ],
+  "162": [
+    ["Alan Shepard", "was born in", "New Hampshire"],
+    ["Alan Shepard", "has died in", "California"],
+    ["Alan Shepard", "graduated from", "NWC, MA in 1957"],
+    ["Alan Shepard", "served as", "a test pilot"]
+  ],
+  "163": [
+    ["Alan Shepard", "has died in", "California"],
+    ["Alan Shepard", "was born in", "New Hampshire"],
+    ["Alan Shepard", "went to school at", "NWC"],
+    ["Alan Shepard", "graduating with", "an MA in 1957"],
+    ["Alan Shepard", "served as", "a test pilot"]
+  ],
+  "164": [
+    ["Alan Shepard", "has died in", "California"],
+    ["Alan Shepard", "was born in", "New Hampshire"],
+    ["Alan Shepard", "graduated from", "NWC MA in 1957"],
+    ["Alan Shepard", "served as", "a test pilot"]
+  ],
+  "165": [
+    ["Alan Shepard", "was born in", "New Hampshire"],
+    ["Alan Shepard", "was chosen by", "NASA in 1959"],
+    ["Alan Shepard", "was a crew member of", "Apollo 14"],
+    ["Alan Shepard", "has died", ""]
+  ],
+  "166": [
+    ["Alan Shepard", "was born in", "New Hampshire"],
+    ["Alan Shepard", "was selected by", "NASA in 1959"],
+    ["Alan Shepard", "served as", "a crew member of NASA operated Apollo 14"],
+    ["Alan Shepard", "passed away", ""]
+  ],
+  "167": [
+    ["Alan Shepard", "was originally from", "New Hampshire"],
+    ["Alan Shepard", "joined", "NASA in 1959"],
+    ["Alan Shepard", "became", "a member of the Apollo 14 crew"],
+    ["Alan Shepard", "passed away", ""]
+  ],
+  "168": [
+    ["Alan Bean", "was born in", "Wheeler, Texas"],
+    ["Alan Bean", "was a", "crew member of Apollo 12"],
+    ["Apollo 12", "was operated by", "NASA"],
+    ["Alan Bean", "was in space", "100305 minutes"],
+    ["Apollo 12", "was commanded by", "David Scott"],
+    ["Alfred Worden", "was a", "backup pilot"]
+  ],
+  "169": [
+    ["Alfred Worden", "was a", "backup pilot on the NASA operated Apollo 12"],
+    ["David Scott", "was the commander on Apollo 12", ""],
+    ["Alan Bean", "was a", "crewman on Apollo 12"],
+    ["Alan Bean", "spent", "a total of 100305 minutes in space"]
+  ],
+  "170": [
+    ["Alan Shepard", "was born on", "November 18th, 1923, New Hampshire"],
+    ["Alan Shepard", "was awarded", "the United States Navy Distinguished Service Medal"],
+    ["United States Navy Distinguished Service Medal", "is higher than", "the department of commerce gold medal"],
+    ["Alan Shepard", "has died in", "California"]
+  ],
+  "171": [
+    ["Alan Shepard", "was born on", "18 November 1923 in New Hampshire"],
+    ["Alan Shepard", "was awarded", "the Distinguished Service Medal"],
+    ["Distinguished Service Medal", "is higher than", "the Department of Commerce Gold Medal"],
+    ["Distinguished Service Medal", "was awarded by", "the US Navy"],
+    ["Alan Shepard", "died in", "California"]
+  ],
+  "172": [
+    ["Alan Shepard", "was born in", "New Hampshire on 18 November 1923"],
+    ["Alan Shepard", "had been awarded", "the Distinguished Service Medal by the US Navy"],
+    ["Distinguished Service Medal", "is an award higher than", "the Department of Commerce Gold Medal"],
+    ["Alan Shepard", "died in", "California"]
+  ],
+  "173": [
+    ["Elliot See", "was born in", "Dallas"],
+    ["Elliot See", "attended", "the University of Texas at Austin"],
+    ["University of Texas at Austin", "is affiliated with", "University of Texas System"],
+    ["University of Texas at Austin", "is competing in", "the Big 12 Conference"],
+    ["Gregory L. Fenves", "is the President of", "the University"]
+  ],
+  "174": [
+    ["Elliot See", "was born in", "Dallas"],
+    ["Elliot See", "attended", "the University of Texas at Austin"],
+    ["University of Texas at Austin", "is affiliated with", "the University of Texas System"],
+    ["University of Texas at Austin", "competed in", "the Big 12 Conference in Austin"],
+    ["Gregory L. Fenves", "is the appointed president of", "the University of Texas at Austin"]
+  ],
+  "175": [
+    ["Elliot See", "was born in", "Dallas"],
+    ["Elliot See", "was a student at", "University of Texas at Austin"],
+    ["University of Texas at Austin", "president is", "Gregory L. Fenves"],
+    ["University of Texas at Austin", "is affiliated with", "the University of Texas System"],
+    ["University of Texas at Austin", "competes in", "the Big 12 Conference"]
+  ],
+  "176": [
+    ["Elliot See", "was a graduate of", "the University of Texas at Austin"],
+    ["Elliot See", "passed away on", "28th February 1966 in St. Louis"],
+    ["Elliot See", "was born in", "Dallas"]
+  ],
+  "177": [
+    ["Elliot See", "was born in", "Dallas"],
+    ["Elliot See", "attended", "the University of Texas at Austin"],
+    ["Elliot See", "died in", "St Louis on 28 February 1966"]
+  ],
+  "178": [
+    ["Elliot See", "was born on", "the 28th February 1966 in Dallas"],
+    ["Elliot See", "has died in", "St Louis"],
+    ["Elliot See", "will be remembered as", "a great student at University of Texas at Austin"]
+  ],
+  "179": [
+    ["Elliot See", "was born in", "Dallas, which is a county in Texas"],
+    ["Elliot See", "attended", "the University of Texas at Austin"],
+    ["University of Texas at Austin", "is affiliated to", "the University of Texas system"],
+    ["University of Texas at Austin", "will be part of", "the Big 12 Conference competition"]
+  ],
+  "180": [
+    ["Elliot See", "was born in", "Dallas county, Texas"],
+    ["Elliot See", "attended", "the University of Texas at Austin"],
+    ["University of Texas at Austin", "is affiliated to", "the University of Texas system"],
+    ["University of Texas at Austin", "competed in", "the Big 12 conference"]
+  ],
+  "181": [
+    ["Elliot See", "was born in", "Dallas county, Texas"],
+    ["Elliot See", "attended", "the University of Texas at Austin"],
+    ["University of Texas at Austin", "is affiliated to", "the University of Texas system"],
+    ["University of Texas at Austin", "will compete in", "the big 12 conference"]
+  ],
+  "182": [
+    ["Elliot See", "was born in", "Dallas"],
+    ["Elliot See", "studied at", "the University of Texas in Austin"],
+    ["University of Texas in Austin", "is affiliated to", "the university of Texas system"],
+    ["Elliot See", "died in", "St. Louis"]
+  ],
+  "183": [
+    ["Elliot See", "was born in", "Dallas"],
+    ["Elliot See", "studied at", "Austin University"],
+    ["Austin University", "is part of", "the university of Texas system"],
+    ["Elliot See", "died in", "St. Louis"]
+  ],
+  "184": [
+    ["Elliot See", "was born in", "Dallas"],
+    ["Elliot See", "has died in", "St Louis"],
+    ["Elliot See", "graduated from", "the University of Texas at Austin"],
+    ["University of Texas at Austin", "is affiliated to", "the University of Texas system"]
+  ],
+  "185": [
+    ["William Anders", "was a member of", "the Apollo 8 crew"],
+    ["Apollo 8", "was operated by", "NASA"],
+    ["William Anders", "retired on", "September 1st, 1969"],
+    ["Frank Borman", "was the commander of", "Apollo 8"],
+    ["Buzz Aldrin", "was a", "back up pilot"]
+  ],
+  "186": [
+    ["William Anders", "retired on", "September 1st, 1969"],
+    ["William Anders", "was a", "crew member on Apollo 8"],
+    ["William Anders", "served under", "commander Frank Borman"],
+    ["Apollo 8", "was operated by", "NASA"],
+    ["Buzz Aldrin", "was", "backup pilot"]
+  ],
+  "187": [
+    ["William Anders", "joined", "NASA"],
+    ["William Anders", "was a member of", "Apollo 8"],
+    ["Frank Borman", "was Commander of Apollo 8", ""],
+    ["Buzz Aldrin", "was back up pilot for Apollo 8", ""],
+    ["William Anders", "retired on", "September 1st 1969"]
+  ],
+  "188": [
+    ["Akeem Dent", "made his debut with", "the Atlanta Falcons"],
+    ["Atlanta Falcons", "play in", "Atlanta"],
+    ["Atlanta Falcons", "are owned by", "Arthur Blank"],
+    ["Akeem Dent", "used to play in", "Houston for the Houston Texans"]
+  ],
+  "189": [
+    ["Akeem Dent", "debut team was", "the Atlanta Falcons in Atlanta"],
+    ["Atlanta Falcons", "team owner is", "Arthur Blank"],
+    ["Akeem Dent", "also played for", "Houston Texans out of Houston"]
+  ],
+  "190": [
+    ["Atlanta Falcons", "of Atlanta", "was Akeem Dent's debut team"],
+    ["Atlanta Falcons", "are owned by", "Arthur Blank"],
+    ["Akeem Dent", "also played with", "the Houston Texans out of Houston"]
+  ],
+  "191": [
+    ["Alaa Abdul-Zahra", "plays for", "the Shabab Al-Ordon Club and the AL Kharaitiyat SC"],
+    ["Al Kharaitiyat SC", "home ground", "Al Khor"],
+    ["Al Kharaitiyat SC", "play in", "the Qatar Stars League"],
+    ["Al Kharaitiyat SC", "is managed by", "Amar Osim"]
+  ],
+  "192": [
+    ["Alaa Abdul-Zahra", "clubs are", "Shabab Al-Ordon Club and Al Kharaitiyat SC"],
+    ["Al Kharaitiyat SC", "have their ground at", "Al Khor"],
+    ["Al Kharaitiyat SC", "are managed by", "Amar Osim"],
+    ["Al Kharaitiyat SC", "play in", "the Qatar Stars League"]
+  ],
+  "193": [
+    ["Alaa Abdul Zahra", "club is", "Shabab Al-Ordon"],
+    ["Alaa Abdul Zahra", "plays for", "Al Kharaitiyat SC"],
+    ["Al Kharaitiyat SC", "plays in", "the Qatar Stars league"],
+    ["Al Kharaitiyat SC", "is located in", "Al Khor"],
+    ["Al Kharaitiyat SC", "is managed by", "Amar Osim"]
+  ],
+  "194": [
+    ["Aleksandr Chumakov", "died in", "Russia"],
+    ["Aleksandr Chumakov", "belonged to", "FC Torpedo Moscow and the Soviet Union national football team"],
+    ["FC Torpedo", "is managed by", "Valery Petrakov"],
+    ["Valentina Matviyenko", "is a", "Russian leader"]
+  ],
+  "195": [
+    ["Aleksandr Chumakov", "died in", "Russia"],
+    ["Russia", "leader is", "Valentina Matviyenko"],
+    ["Aleksandr Chumakov", "belongs to", "the Soviet Union national football team"],
+    ["Aleksandr Chumakov", "has played for", "FC Torpedo Moscow"],
+    ["FC Torpedo Moscow", "is managed by", "Valery Petrakov"]
+  ],
+  "196": [
+    ["Aleksandr Chumakov", "died in", "Russia"],
+    ["Russia", "leader is", "Valentina Matviyenko"],
+    ["Aleksandr Chumakov", "belongs to", "the Soviet Union national football team"],
+    ["Aleksandr Chumakov", "has played for", "FC Torpedo Moscow"],
+    ["FC Torpedo Moscow", "is managed by", "Valery Petrakov"]
+  ],
+  "197": [
+    ["Aleksandr Prudnikov", "is an associate of", "the youth side of FC Spartak Moscow"],
+    ["Aleksandr Prudnikov", "plays for", "the Amkar Perm football club"],
+    ["Aleksandr Prudnikov", "plays for", "the Terek Grozny FC"],
+    ["Terek Grozny FC", "is managed by", "Rashid Rakhimov"],
+    ["Terek Grozny FC", "is in", "Grozny"]
+  ],
+  "198": [
+    ["Aleksandr Prudnikov", "once played for", "FC Spartak Moscow's youth team"],
+    ["Aleksandr Prudnikov", "plays with", "the FC Amkar Perm"],
+    ["Aleksandr Prudnikov", "plays with", "the FC Terek Grozny"],
+    ["FC Terek Grozny", "is managed by", "Rashid Rakhimov"],
+    ["FC Terek Grozny", "has its home territory in", "Grozny"]
+  ],
+  "199": [
+    ["Aleksandr Prudnikov", "represented", "FC Spartak Moscow at youth level"],
+    ["Aleksandr Prudnikov", "later played for", "Grozny based FC Terek Grozny"],
+    ["FC Terek Grozny", "is managed by", "Rashid Rakhimov"],
+    ["Aleksandr Prudnikov", "played for", "FC Amkar Perm football club"]
+  ],
+  "200": [
+    ["Alessio Romagnoli", "is connected to", "UC Sampdoria"],
+    ["Alessio Romagnoli", "plays for", "the club A.C. Milan"],
+    ["AC Milan", "is in", "Serie A league"],
+    ["AC Milan", "is managed by", "Siniša Mihajlović"],
+    ["AC Milan", "is chaired by", "Silvio Berlusconi"]
+  ],
+  "201": [
+    ["Alessio Romagnoli", "has played for", "UC Sampdoria"],
+    ["Alessio Romagnoli", "plays for", "Serie A side AC Milan"],
+    ["AC Milan", "is managed by", "Siniša Mihajlović"],
+    ["AC Milan", "has the chairman", "Silvio Berlusconi"]
+  ],
+  "202": [
+    ["Alessio Romagnoli", "is connected to", "UC Sampdoria"],
+    ["Alessio Romagnoli", "plays for", "the AC Milan"],
+    ["AC Milan", "are in", "the Serie A league"],
+    ["AC Milan", "is managed by", "Sinisa Mihajlovic"],
+    ["AC Milan", "is chaired by", "Silvio Berlusconi"]
+  ],
+  "203": [
+    ["Alessio Romagnoli", "belongs to", "A.C. Milan"],
+    ["Alessio Romagnoli", "plays for", "U.C. Sampdoria"],
+    ["Alessio Romagnoli", "plays for", "Italy's national under-17 football team"],
+    ["A C Milan", "is managed by", "Siniša Mihajlović"],
+    ["A C Milan", "includes chairman", "Silvio Berlusconi"]
+  ],
+  "204": [
+    ["Alessio Romagnoli", "is a member of", "the Italian national under 17 football team"],
+    ["Alessio Romagnoli", "has represented", "the club U.C. Sampdoria"],
+    ["Alessio Romagnoli", "is presently with", "the AC Milan"],
+    ["AC Milan", "is managed by", "Siniša Mihajlović"],
+    ["AC Milan", "chairman is", "Silvio Berlusconi"]
+  ],
+  "205": [
+    ["Aleksandr Prudnikov", "played for", "FC Spartak Moscow's youth team"],
+    ["Aleksandr Prudnikov", "later played for", "FC Dynamo Moscow"],
+    ["Aleksandr Prudnikov", "has also been signed to", "Grozy based FC Terek Grozny"],
+    ["FC Terek Grozny", "are managed by", "Rashid Rakhimov"]
+  ],
+  "206": [
+    ["Aleksandr Prudnikov", "once played for", "FC Spartak Moscow's youth team"],
+    ["Aleksandr Prudnikov", "now plays for", "the FC Dynamo Moscow and the FC Terek Grozny out of Grozny"],
+    ["FC Terek Grozny", "sees a manager in", "Rashid Rakhimov"]
+  ],
+  "207": [
+    ["Aleksandr Prudnikov", "club is", "FC Dynamo Moscow"],
+    ["Aleksandr Prudnikov", "previously played for", "FC Spartak Moscow's youth team"],
+    ["Aleksandr Prudnikov", "is currently in", "the Grozny based FC Terek Grozny club"],
+    ["FC Terek Grozny", "is under their manager", "Rashid Rakhimov"]
+  ],
+  "208": [
+    ["Akeem Adams", "former clubs include", "United Petrotrin FC, who play at Palo Seco"],
+    ["Akeem Adams", "former clubs include", "Ferencvarosi TC"],
+    ["Ferencvarosi TC", "manager is", "Thomas Doll"],
+    ["Ferencvarosi TC", "chairman is", "Gabor Kubatov"]
+  ],
+  "209": [
+    ["Akeem Adams", "is a member of", "the United Petrotrin F.C. club"],
+    ["Akeem Adams", "is a member of", "Ferencvarosi TC"],
+    ["United Petrotrin F.C.", "ground is at", "Palo Seco"],
+    ["Ferencvarosi TC", "is chaired by", "Gabor Kubatov"],
+    ["Ferencvarosi TC", "is managed by", "Thomas Doll"]
+  ],
+  "210": [
+    ["Akeem Adams", "is a member of", "the United Petrotrin F.C. club"],
+    ["United Petrotrin F.C.", "have their ground at", "Palo Seco"],
+    ["Akeem Adams", "plays for", "Ferencvarosi TC"],
+    ["Ferencvarosi TC", "is managed by", "Thomas Doll"],
+    ["Ferencvarosi TC", "is chaired by", "Gabor Kubatov"]
+  ],
+  "211": [
+    ["Akeem Ayers", "former team was", "the Los Angeles Rams"],
+    ["Los Angeles Rams", "are based in", "LA"],
+    ["Los Angeles Rams", "play their home matches at", "the Los Angeles Memorial Coliseum"],
+    ["Akeem Ayers", "debut team were", "the Tennessee Titans"],
+    ["Tennessee Titans", "are coached by", "Mike Mularkey"]
+  ],
+  "212": [
+    ["Akeem Ayers", "debuted with", "the Tennessee Titans"],
+    ["Akeem Ayers", "played with", "Los Angeles based, Los Angeles Rams"],
+    ["Los Angeles Rams", "play at", "the Los Angeles Memorial Coliseum"],
+    ["Tennessee Titans", "are coached by", "Mike Mularkey"]
+  ],
+  "213": [
+    ["Akeem Ayers", "debut team was", "the Tennessee Titans"],
+    ["Tennessee Titans", "coach is", "Mike Mularkey"],
+    ["Akeem Ayers", "played for", "the L.A. based Los Angeles Rams"],
+    ["LA Memorial Coliseum", "is the Rams home grounds", ""]
+  ],
+  "214": [
+    ["20 Fenchurch Street", "is located within", "the United Kingdom"],
+    ["London", "is the capital of the United Kingdom", ""],
+    ["United Kingdom", "currency is", "pounds sterling"],
+    ["Boris Johnson", "is the leader in", "London"],
+    ["Elizabeth II", "is one of the leaders of", "the United Kingdom"]
+  ],
+  "215": [
+    ["United Kingdom", "uses the currency of", "the pound sterling"],
+    ["United Kingdom", "is led by", "Elizabeth II along with Boris Johnson"],
+    ["London", "is the capital city of the United Kingdom", ""],
+    ["United Kingdom", "is the location of", "20 Fenchurch Street"]
+  ],
+  "216": [
+    ["250 Delaware Avenue", "was built in", "Buffalo New York"],
+    ["250 Delaware Avenue", "was built at a cost of", "110 million dollars"],
+    ["250 Delaware Avenue", "construction began in", "January 2014"],
+    ["250 Delaware Avenue", "has", "12 floors"],
+    ["250 Delaware Avenue", "has an area of", "30843.8 square metres"]
+  ],
+  "217": [
+    ["250 Delaware Avenue", "has", "12 floors"],
+    ["250 Delaware Avenue", "is in", "Buffalo, New York"],
+    ["250 Delaware Avenue", "construction began in", "January 2014"],
+    ["250 Delaware Avenue", "cost", "110 million dollars"],
+    ["250 Delaware Avenue", "has a floor area of", "30843.8 square metres"]
+  ],
+  "218": [
+    ["Rahm Emanuel", "is the leader of", "Chicago, DuPage County, Illinois, United States"],
+    ["Chicago, DuPage County, Illinois, United States", "is the location of", "the building at 300 North LaSalle"],
+    ["300 North LaSalle", "has", "60 floors"]
+  ],
+  "219": [
+    ["300 North LaSalle", "has", "60 floors"],
+    ["300 North LaSalle", "is located in", "Chicago, DuPage County, Illinois, United States"],
+    ["Chicago", "is led by", "Rahm Emanuel"]
+  ],
+  "220": [
+    ["300 North LaSalle", "has", "60 floors"],
+    ["300 North LaSalle", "is located in", "Chicago"],
+    ["Chicago", "is part of", "DuPage County in Illinois, United States"],
+    ["Chicago", "is led by", "Rahm Emanuel"]
+  ],
+  "221": [
+    ["3Arena", "is owned by", "Live Nation Entertainment"],
+    ["3Arena", "is located in", "Dublin, Republic of Ireland"],
+    ["Dáil Éireann", "is a leader in", "Dublin"],
+    ["Dublin", "is part of", "Leinster"]
+  ],
+  "222": [
+    ["3Arena", "is owned by", "Live Nation Entertainment"],
+    ["3Arena", "is located in", "Dublin"],
+    ["Dublin", "is part of", "Leinster in the Republic of Ireland"],
+    ["Dáil Éireann", "is a leader in", "Dublin"]
+  ],
+  "223": [
+    ["3Arena", "is located in", "Dublin, Leinster"],
+    ["3Arena", "is owned by", "Live Nation Entertainment"],
+    ["Dublin", "is part of", "the Republic of Ireland"],
+    ["Dublin", "is led by", "Dáil Éireann"]
+  ],
+  "224": [
+    ["Adisham Hall", "in Sri Lanka", "was constructed between 1927 and 1931"],
+    ["Adisham Hall", "is at", "St Benedict's Monastery, Adisham, Haputhale, Sri Lanka"],
+    ["Adisham Hall", "is in the architectural style of", "Tudor and Jacobean"]
+  ],
+  "225": [
+    ["Adisham Hall", "construction took place between", "1927 and 1931"],
+    ["Adisham Hall", "is in the architectural style of", "Tudor and Jacobean"],
+    ["Adisham Hall", "is located at", "St Benedict's Monastery, Adisham, Haputhale, Sri Lanka"]
+  ],
+  "226": [
+    ["Adisham Hall", "is located in", "Haputale, Sri Lanka"],
+    ["Sri Jayawardenepura Kotte", "is the capital of", "Sri Lanka"],
+    ["Tamil", "is the language used in", "the country"],
+    ["Sri Lankan Rupee", "is the currency in", "Sri Lanka"]
+  ],
+  "227": [
+    ["Adisham Hall", "is in", "Haputale, Sri Lanka"],
+    ["Sri Jayawardenepura Kotte", "is the capital of", "Sri Lanka"],
+    ["Tamil", "is the language spoken there", ""],
+    ["Sri Lankan Rupee", "is the currency", ""]
+  ],
+  "228": [
+    ["Adisham Hall", "is located at", "Haputale, Sri Lanka"],
+    ["Sri Jayawardenepura Kotte", "is the capital of", "Sri Lanka"],
+    ["Sri Lankan Rupee", "is the currency of", "Sri Lanka"],
+    ["Tamil", "is the language used in", "Sri Lanka"]
+  ],
+  "229": [
+    ["Ranil Wickremesinghe", "is the leader of", "Sri Lanka"],
+    ["Sri Jayawardenepura Kotte", "is the capital city of", "Sri Lanka"],
+    ["Sri Lankan rupee", "is the currency of", "Sri Lanka"],
+    ["Adisham Hall", "is located in", "the country at Haputale"]
+  ],
+  "230": [
+    ["Adisham Hall", "is located in", "Haputale, Sri Lanka"],
+    ["Sri Jayawardenepura Kotte", "is the capital of", "Sri Lanka"],
+    ["Ranil Wickremesinghe", "is its leader", ""],
+    ["Rupee", "is its currency", ""]
+  ],
+  "231": [
+    ["Adisham Hall", "is located in", "Haputale, Sri Lanka"],
+    ["Sri Jayawardenepura Kotte", "is the capital of", "Sri Lanka"],
+    ["Ranil Wickremesinghe", "is a leader of", "Sri Lanka"],
+    ["Sri Lankan rupee", "is the currency", ""]
+  ],
+  "232": [
+    ["Japanese", "are the main ethnic group in", "Japan"],
+    ["Tarō Asō", "is the leader of", "Japan"],
+    ["Akita Museum of Art", "is in", "Akita, Akita"],
+    ["Akita, Akita", "is part of", "Japan"],
+    ["Akita, Akita", "is part of", "Akita Prefecture"]
+  ],
+  "233": [
+    ["Akita Museum of Art", "is located in", "Akita, Akita"],
+    ["Akita, Akita", "is located in", "Japan"],
+    ["Taro Aso", "is the leader of", "Japan"],
+    ["Japanese", "is the main ethnic group in", "Japan"],
+    ["Akita, Akita", "is part of", "Akita Prefecture"]
+  ],
+  "234": [
+    ["Akita Museum of Art", "is in", "the city of Akita, Japan"],
+    ["Japanese", "are the main ethnic group in", "Japan"],
+    ["Taro Aso", "is the leader of", "Japan"],
+    ["Akita, Akita", "is part of", "Akita Prefecture"]
+  ],
+  "235": [
+    ["Amdavad ni Gufa", "is located in", "Gujarat, Ahmedabad, India"],
+    ["Gujarat", "leader is known as", "the Gujarat Legislative Assembly"],
+    ["India", "leader is", "Narendra Modi"]
+  ],
+  "236": [
+    ["Amdavad ni Gufa", "is located in", "Gujarat, Ahmedabad which is in India"],
+    ["India", "leader is", "Narendra Modi"],
+    ["Gujarat", "leader is", "the Gujarat Legislative Assembly"]
+  ],
+  "237": [
+    ["Amdavad ni Gufa", "is in", "Gujarat, Ahmedabad which is in India"],
+    ["Gujarat", "leader is", "the Gujarat Legislative Assembly"],
+    ["India", "prime minister is", "Narendra Modi"]
+  ],
+  "238": [
+    ["Amdavad ni Gufa", "is located in", "Ahmedabad, Gujarat, India"],
+    ["Gujarat", "is led by", "the Gujarat Legislative Assembly"],
+    ["Gujarat", "leader includes", "T S Thakur"]
+  ],
+  "239": [
+    ["Ampara Hospital", "has", "476 beds"],
+    ["Ampara Hospital", "is situated in", "the Eastern Province state of Sri Lanka"],
+    ["Eastern Province", "is led by", "Austin Fernando"],
+    ["Sri Lanka", "leader is", "Ranil Wickremesinghe"]
+  ],
+  "240": [
+    ["Ampara Hospital", "has", "476 beds"],
+    ["Ampara Hospital", "is located in", "the Eastern Province of Sri Lanka"],
+    ["Eastern Province", "is led by", "Austin Fernando"],
+    ["Sri Lanka", "leader is", "Ranil Wickremesinghe"]
+  ],
+  "241": [
+    ["Ampara Hospital", "has", "476 beds"],
+    ["Ampara Hospital", "is in", "the Eastern Province of Sri Lanka"],
+    ["Austin Fernando", "is the leader of", "the Eastern Province"],
+    ["Ranil Wickremesinghe", "is a leader within", "the country"]
+  ],
+  "242": [
+    ["Julia Morgan", "was born in", "California"],
+    ["Julia Morgan", "designed", "the Asilomar Conference Grounds"],
+    ["Julia Morgan", "designed", "the Los Angeles Herald examiner building"],
+    ["Julia Morgan", "designed", "The Riverside Art Museum"],
+    ["Julia Morgan", "designed", "Hearst Castle"]
+  ],
+  "243": [
+    ["Julia Morgan", "was an architect born in", "California"],
+    ["Julia Morgan", "designed", "Asilomar Conference Grounds"],
+    ["Julia Morgan", "designed", "The Riverside Art Museum"],
+    ["Julia Morgan", "designed", "Hearst Castle"],
+    ["Julia Morgan", "designed", "the Los Angeles Herald Examiner building"]
+  ],
+  "244": [
+    ["Asilomar Conference Grounds", "were designed by", "Julia Morgan"],
+    ["Julia Morgan", "was born in", "California"],
+    ["Julia Morgan", "is known for", "a number of buildings"],
+    ["Julia Morgan", "designed", "Hearst Castle and The Riverside Art Museum"],
+    ["Julia Morgan", "worked in", "San Francisco's Chinatown"]
+  ],
+  "245": [
+    ["Julia Morgan", "the architect", "was born in California"],
+    ["Julia Morgan", "significant projects include", "the Asilomar Conference Grounds, The Riverside Art Museum, Hearst Castle"],
+    ["Julia Morgan", "significant projects include", "some buildings in Chinatown, San Francisco"]
+  ],
+  "246": [
+    ["Julia Morgan", "was born in", "California"],
+    ["Julia Morgan", "was the architect behind", "the grounds of Asilomar Conference"],
+    ["Julia Morgan", "was the architect behind", "the Riverside Art Museum"],
+    ["Julia Morgan", "was the architect behind", "Hearst Castle"],
+    ["Julia Morgan", "was the architect behind", "Chinatown in San Francisco"]
+  ],
+  "247": [
+    ["Asilomar Conference Grounds", "were constructed in", "1913"],
+    ["Asilomar Conference Grounds", "are located in", "Pacific Grove, California"],
+    ["Asilomar Conference Grounds", "were added to", "the National Register of Historic Places on February 27th 1987"],
+    ["Asilomar Conference Grounds", "have reference number", "87000823"],
+    ["Asilomar Conference Grounds", "are in the architectural style of", "the Arts and Crafts Movement"]
+  ],
+  "248": [
+    ["Asilomar Conference Grounds", "are located in", "Pacific Grove, California"],
+    ["Asilomar Conference Grounds", "were constructed in", "1913"],
+    ["Asilomar Conference Grounds", "have the architectural style of", "the Arts and Crafts Movement"],
+    ["Asilomar Conference Grounds", "were added to", "the National Register of Historic Places on 27 February 1987"],
+    ["Asilomar Conference Grounds", "have reference number", "87000823"]
+  ],
+  "249": [
+    ["Asilomar Conference Grounds", "were constructed in", "1913"],
+    ["Asilomar Conference Grounds", "are in", "Pacific Grove, California"],
+    ["Asilomar Conference Grounds", "have an", "Arts and Crafts movement style architecture"],
+    ["Asilomar Conference Grounds", "were added to", "the National Register of Historic Places on 27 February 1987"],
+    ["Asilomar Conference Grounds", "have the reference number", "87000823"]
+  ],
+  "250": [
+    ["Asser Levy Public Baths", "built in", "1904 in a Romanesque Revival style"],
+    ["Asser Levy Public Baths", "is located at", "23rd Street (Manhattan)"],
+    ["Asser Levy Public Baths", "was added to", "the National Register of Historic Places on 1980-04-23"],
+    ["Asser Levy Public Baths", "has Reference Number", "80002709"]
+  ],
+  "251": [
+    ["Asser Levy Public baths", "are located on", "23rd Street in Manhattan"],
+    ["Asser Levy Public baths", "have the", "Romanesque Revival style of architecture"],
+    ["Asser Levy Public baths", "were built in", "1904"],
+    ["Asser Levy Public baths", "were added to", "the National Register of Historic Places with the reference number 80002709 on 23 April 1980"]
+  ],
+  "252": [
+    ["Asser Levy Public Baths", "was built in", "1904"],
+    ["Asser Levy Public Baths", "is in the architectural style of", "Romanesque Revival"],
+    ["Asser Levy Public Baths", "is located on", "23rd Street, Manhattan"],
+    ["Asser Levy Public Baths", "was added to", "the National Register of Historic Places on \"1980-04-23\""],
+    ["Asser Levy Public Baths", "has reference number", "80002709"]
+  ],
+  "253": [
+    ["Asser Levy Public Baths", "are found in", "New York City, New York, United States"],
+    ["Manhattan", "is part of", "New York City"],
+    ["Gale Brewer", "is the leader of", "Manhattan"]
+  ],
+  "254": [
+    ["Gale Brewer", "is the leader of", "Manhattan"],
+    ["Manhattan", "is part of", "New York City, New York, United States"],
+    ["New York City", "is the location of", "Asser Levy Public Baths"]
+  ],
+  "255": [
+    ["Asser Levy Public Baths", "are located in", "New York City, US"],
+    ["New York City", "is part of", "New York"],
+    ["Manhattan", "is part of", "New York"],
+    ["Gale Brewer", "is the leader of", "Manhattan"]
+  ],
+  "256": [
+    ["103 Colmore Row", "was designed by", "the architect John Madin"],
+    ["John Madin", "was born in", "Birmingham"],
+    ["Birmingham", "has the postal code", "'B'"],
+    ["Andrew Mitchell", "is the leader of", "the city"],
+    ["Birmingham City Council", "is the governing body", ""]
+  ],
+  "257": [
+    ["City Council", "is the governing body for", "Birmingham"],
+    ["Andrew Mitchell", "is a leader of", "Birmingham"],
+    ["Birmingham", "has the", "B postcode"],
+    ["Birmingham", "is the birthplace of", "the Architect John Madin"],
+    ["John Madin", "designed", "103 Colmore Row"]
+  ],
+  "258": [
+    ["Birmingham", "is led by", "Andrew Mitchell and the Birmingham City Council"],
+    ["Birmingham", "has the", "B postcode"],
+    ["Birmingham", "is the birthplace of", "architect John Madin"],
+    ["John Madin", "designed", "103 Colmore Row"]
+  ],
+  "259": [
+    ["Hailemariam Desalegn", "is a leader within", "Ethiopia"],
+    ["Mulatu Teshome", "is a leader within", "Ethiopia"],
+    ["Addis Ababa Stadium", "is located within", "the country in Addis Ababa"],
+    ["Addis Ababa City Hall", "is located within", "the country in Addis Ababa"]
+  ],
+  "260": [
+    ["Addis Ababa Stadium", "is located in", "Addis Ababa, Ethiopia"],
+    ["Addis Ababa City Hall", "is located in", "Addis Ababa, Ethiopia"],
+    ["Ethiopia", "is led by", "Mulatu Teshome and Hailemariam Desalegn"]
+  ],
+  "261": [
+    ["Addis Ababa Stadium", "is located in", "Addis Ababa, Ethiopia"],
+    ["Addis Ababa City Hall", "is located in", "Addis Ababa, Ethiopia"],
+    ["Ethiopia", "leaders are", "Mulatu Teshome and Hailemariam Desalegn"]
+  ],
+  "262": [
+    ["President", "is the primary leader of", "English language speaking United States"],
+    ["United States", "includes leader", "John Roberts"],
+    ["United States", "has the ethnic", "African American group"],
+    ["United States", "is home to", "250 Delaware Avenue"]
+  ],
+  "263": [
+    ["250 Delaware Avenue", "is located in", "the United States"],
+    ["United States", "leader is known as", "the President of the United States"],
+    ["President of the United States", "is supported by", "the United States of America`s Chief Justice, John Roberts"],
+    ["English", "is the main language in the United States", ""],
+    ["African Americans", "is one of the ethnic groups in the United States", ""]
+  ],
+  "264": [
+    ["Joe Biden", "is a leader of", "the United States"],
+    ["United States", "is led by", "a President"],
+    ["White Americans", "are one of the ethnic groups of", "the country"],
+    ["English language", "is used in", "the country"],
+    ["250 Delaware Avenue", "is located in", "the United States"]
+  ],
+  "265": [
+    ["250 Delaware Avenue", "is located in", "the United States"],
+    ["English", "is spoken in", "the United States"],
+    ["President of the United States", "is the main leader", ""],
+    ["Joe Biden", "is a leader in", "the United States"],
+    ["White Americans", "is an ethnic group in", "the country"]
+  ],
+  "266": [
+    ["(66063) 1998 RO1", "has the epoch date", "13 January 2016"],
+    ["(66063) 1998 RO1", "was formerly called", "1999 SN5"],
+    ["(66063) 1998 RO1", "has an orbital period of", "360.29 days"],
+    ["(66063) 1998 RO1", "has an apoapsis measurement of", "254989570.60815 kms"],
+    ["(66063) 1998 RO1", "has an escape velocity of", "0.0999 km per sec"]
+  ],
+  "267": [
+    ["(66063) 1998 RO1", "was formerly known as", "1999 SN5"],
+    ["(66063) 1998 RO1", "has an orbital period of", "360.29 days"],
+    ["(66063) 1998 RO1", "has an apoapsis of", "254989570.60815 km"],
+    ["(66063) 1998 RO1", "has an escape velocity of", "0.0999 km/sec"],
+    ["(66063) 1998 RO1", "epoch is on", "the 13th of January 2016"]
+  ],
+  "268": [
+    ["(66391) 1999 KW4", "has an epoch date of", "14 July 2004"],
+    ["(66391) 1999 KW4", "has an escape velocity of", "zero"],
+    ["(66391) 1999 KW4", "has a density of", "2 gms per cu cm"],
+    ["(66391) 1999 KW4", "has an orbital period of", "16244700"],
+    ["(66391) 1999 KW4", "has an apoapsis of", "162164091.8388 km"]
+  ],
+  "269": [
+    ["(66391) 1999 KW4", "has an orbital period of", "16244700"],
+    ["(66391) 1999 KW4", "has an escape velocity of", "0"],
+    ["(66391) 1999 KW4", "has a density of", "2.0 grams per cubic centimetre"],
+    ["(66391) 1999 KW4", "has an apoapsis of", "162164091.8388 kilometres"],
+    ["(66391) 1999 KW4", "epoch date is", "July 14th 2004"]
+  ],
+  "270": [
+    ["(66391) 1999 KW4", "has the epoch date", "14 July 2004"],
+    ["(66391) 1999 KW4", "has an orbital period of", "16244700.0"],
+    ["(66391) 1999 KW4", "has an escape velocity of", "zero"],
+    ["(66391) 1999 KW4", "has a density of", "2.0 gm per cu cm"],
+    ["(66391) 1999 KW4", "has an apoapsis measurement of", "162164091.8388 kms"]
+  ],
+  "271": [
+    ["James Craig Watson", "discovered", "101 Helena on 15th August 1868"],
+    ["James Craig Watson", "is a", "Canadian national"],
+    ["James Craig Watson", "attended", "the University of Michigan"],
+    ["James Craig Watson", "died in", "Madison, Wisconsin"]
+  ],
+  "272": [
+    ["101 Helena", "was discovered by", "the Canadian James Craig Watson on August 15th 1868"],
+    ["James Craig Watson", "studied at", "the University of Michigan"],
+    ["James Craig Watson", "died in", "Madison, Wisconsin"]
+  ],
+  "273": [
+    ["101 Helena", "was discovered by", "Canadian James Craig Watson on August 15th, 1868"],
+    ["James Craig Watson", "attended", "the University of Michigan"],
+    ["James Craig Watson", "died in", "Madison, Wisconsin"]
+  ],
+  "274": [
+    ["101 Helena", "was discovered by", "James Craig Watson"],
+    ["James Craig Watson", "was a", "Canadian"],
+    ["James Craig Watson", "Alma mater is", "the University of Michigan"],
+    ["James Craig Watson", "died of", "peritonitis"],
+    ["James Craig Watson", "died in", "Madison, Wisconsin"]
+  ],
+  "275": [
+    ["101 Helena", "was discovered by", "Canadian, James Craig Watson"],
+    ["James Craig Watson", "Alma mater was", "the University of Michigan"],
+    ["James Craig Watson", "died from", "peritonitis"],
+    ["James Craig Watson", "died in", "Madison, Wisconsin"]
+  ],
+  "276": [
+    ["101 Helena", "was discovered by", "Canadian James Craig Watson"],
+    ["James Craig Watson", "alma mater was", "the University of Michigan"],
+    ["James Craig Watson", "died in", "Madison, Wisconsin"],
+    ["James Craig Watson", "died of", "peritonitis"]
+  ],
+  "277": [
+    ["Walter Baade", "was born in", "the German Empire"],
+    ["Walter Baade", "died in", "West Germany"],
+    ["Walter Baade", "discovered", "1036 Ganymed"],
+    ["Walter Baade", "Alma mater was", "the University of Gottingen"],
+    ["Allan Sandage", "was his doctoral student", ""]
+  ],
+  "278": [
+    ["Walter Baade", "discovered", "1036 Ganymed"],
+    ["Walter Baade", "was born in", "the German Empire"],
+    ["Walter Baade", "died in", "West Germany"],
+    ["Walter Baade", "graduated from", "the University of Gottingen"],
+    ["Allan Sandage", "was one of his doctoral students", ""]
+  ],
+  "279": [
+    ["Walter Baade", "was born in", "the German empire"],
+    ["Walter Baade", "died in", "West Germany"],
+    ["Walter Baade", "discovered", "1036 Ganymed"],
+    ["Walter Baade", "alma mater was", "the University of Gottingen"],
+    ["Allan Sandage", "was one of his doctoral students", ""]
+  ],
+  "280": [
+    ["Halton Arp", "was a doctoral student of", "Walter Baade"],
+    ["Allan Sandage", "was a doctoral student of", "Walter Baade"],
+    ["Walter Baade", "was the discoverer of", "1036 Ganymed"],
+    ["Walter Baade", "was born in", "the German Empire"],
+    ["Walter Baade", "graduated from", "the University of Gottingen"]
+  ],
+  "281": [
+    ["Walter Baade", "was born in", "the German Empire"],
+    ["Walter Baade", "was a graduate of", "the University of Gottingen"],
+    ["Walter Baade", "discovered", "1036 Ganymed"],
+    ["Halton Arp", "was a doctoral student of", "Walter Baade"],
+    ["Allan Sandage", "was a doctoral student of", "Walter Baade"]
+  ],
+  "282": [
+    ["Allan Sandage", "was a doctoral student of", "Walter Baade"],
+    ["Halton Arp", "was a doctoral student of", "Walter Baade"],
+    ["Walter Baade", "was the discoverer of", "1036 Ganymed"],
+    ["Walter Baade", "was born in", "the German Empire"],
+    ["Walter Baade", "alma mater was", "the University of Gottingen"]
+  ],
+  "283": [
+    ["107 Camilla", "has the epoch date", "31 December 2006"],
+    ["107 Camilla", "was discovered by", "F Vilas"],
+    ["107 Camilla", "has an orbital period of", "2368.05 days"],
+    ["107 Camilla", "has an apoapsis of", "560937000.0 kilometres"],
+    ["107 Camilla", "has a periapsis of", "479343000.0 kilometres"]
+  ],
+  "284": [
+    ["107 Camilla", "has an epoch date of", "December 31st 2006"],
+    ["107 Camilla", "was discovered by", "F. Vilas"],
+    ["107 Camilla", "has an orbital period of", "2,368.05 days"],
+    ["107 Camilla", "has a periapsis of", "479,343,000 kilometres"],
+    ["107 Camilla", "has an apoapsis of", "560,937,000 kilometres"]
+  ],
+  "285": [
+    ["107 Camilla", "was discovered by", "F Vilas"],
+    ["107 Camilla", "has the epoch date of", "31 December 2006"],
+    ["107 Camilla", "has an orbital period of", "2368.05 days"],
+    ["107 Camilla", "has a periapsis of", "479343000.0 kms"],
+    ["107 Camilla", "has an apoapsis of", "560937000.0 kms"]
+  ],
+  "286": [
+    ["107 Camilla", "was discovered on", "17 November 1868"],
+    ["107 Camilla", "was discovered by", "N.R. Pogson"],
+    ["N.R. Pogson", "is an", "English national"],
+    ["N.R. Pogson", "was born in", "Nottingham"],
+    ["N.R. Pogson", "died in", "Chennai"]
+  ],
+  "287": [
+    ["N.R. Pogson", "was born in", "Nottingham, England"],
+    ["N.R. Pogson", "died in", "Chennai"],
+    ["N.R. Pogson", "discovered", "107 Camilla"],
+    ["107 Camilla", "was discovered on", "November 17, 1868"]
+  ],
+  "288": [
+    ["107 Camilla", "was discovered on", "November 17th 1868"],
+    ["107 Camilla", "was discovered by", "British, N.R. Pogson"],
+    ["N.R. Pogson", "was born in", "Nottingham"],
+    ["N.R. Pogson", "died in", "Chennai"]
+  ],
+  "289": [
+    ["1089 Tama", "former name was", "A919 HA; 1927 WB"],
+    ["1089 Tama", "has an epoch of", "2005-11-26"],
+    ["1089 Tama", "has an escape velocity of", "0.0068 km/sec"],
+    ["1089 Tama", "has an orbital period of", "1202.846 days"],
+    ["1089 Tama", "has an apoapsis of", "373513000.0 (kilometres)"]
+  ],
+  "290": [
+    ["1089 Tama", "was formerly known as", "A919 HA; 1927 WB"],
+    ["1089 Tama", "has an epoch of", "November 26th, 2005"],
+    ["1089 Tama", "has an orbit of", "1,202.846 days"],
+    ["1089 Tama", "has an escape velocity of", ".0068 kilometres a second"],
+    ["1089 Tama", "has an apoapsis of", "373,513,000 kilometres"]
+  ],
+  "291": [
+    ["1089 Tama", "was formerly known as", "A919 HA; 1927 WB"],
+    ["1089 Tama", "has the epoch date of", "2005/11/26"],
+    ["1089 Tama", "has an escape velocity of", "0.0068 km per sec"],
+    ["1089 Tama", "has an apoapsis of", "373513000.0 kms"],
+    ["1089 Tama", "has an orbital period lasting", "1202.846 days"]
+  ],
+  "292": [
+    ["1097 Vicia", "has the epoch date", "2006.12.31"],
+    ["1097 Vicia", "has an escape velocity of", "0.0112 km/sec"],
+    ["1097 Vicia", "has a mass of", "9.8 kgs"],
+    ["1097 Vicia", "has an orbital period of", "135589000.0"],
+    ["1097 Vicia", "has an apoapsis of", "511592000.0 km"]
+  ],
+  "293": [
+    ["1097 Vicia", "has the epoch date", "2006.12.31"],
+    ["1097 Vicia", "has a mass of", "9.8 kgs"],
+    ["1097 Vicia", "has an escape velocity of", "0.0112 km/sec"],
+    ["1097 Vicia", "has an orbital period of", "135589000.0"],
+    ["1097 Vicia", "has an apoapsis of", "511592000.0 km"]
+  ],
+  "294": [
+    ["1097 Vicia", "has a mass of", "9.8 kgs"],
+    ["1097 Vicia", "has the epoch date", "31 December 2006"],
+    ["1097 Vicia", "has an escape velocity of", "0.0112 km per sec"],
+    ["1097 Vicia", "has an orbital period of", "135589000"],
+    ["1097 Vicia", "has an apoapsis of", "511592000.0 km"]
+  ],
+  "295": [
+    ["10 Hygiea", "has a surface area of", "837,080.744 square kilometres"],
+    ["10 Hygiea", "has a temperature of", "164 degrees Kelvin"],
+    ["10 Hygiea", "has an epoch date of", "June 27th"],
+    ["10 Hygiea", "has an escape velocity of", "0.21 kilometres a second"],
+    ["10 Hygiea", "has an apoapsis of", "523,951,582.33968 kilometres"]
+  ],
+  "296": [
+    ["10 Hygiea", "had an epoch date on", "27th June 2015"],
+    ["10 Hygiea", "temperature is", "164.0 kelvins"],
+    ["10 Hygiea", "has a surface area of", "837080.744 square kilometres"],
+    ["10 Hygiea", "has an escape velocity of", "0.21 kilometres per second"],
+    ["10 Hygiea", "has an apoapsis of", "523951582.33968 kms"]
+  ],
+  "297": [
+    ["10 Hygiea", "has an epoch date of", "June 27, 2015"],
+    ["10 Hygiea", "has an escape velocity of", "0.21 km per sec"],
+    ["10 Hygiea", "has a surface area of", "837080.744 sq km"],
+    ["10 Hygiea", "has an apoasis of", "523951582.33968 km"],
+    ["10 Hygiea", "has a temperature of", "164 Kelvins"]
+  ],
+  "298": [
+    ["Abilene, Texas", "lies", "524.0 above sea level"],
+    ["Abilene, Texas", "has the area code of", "325"],
+    ["Abilene, Texas", "has a population density of", "429.9 inhabitants per sq km"],
+    ["Abilene, Texas", "has a total area of", "286.5 sq km"],
+    ["Abilene, Texas", "has a water area of", "14.2 sq km"]
+  ],
+  "299": [
+    ["Abilene", "is in", "Texas"],
+    ["Abilene", "has the area code", "325"],
+    ["Abilene", "is", "524.0 above sea level"],
+    ["Abilene", "has a water area of", "14.2 sq km"],
+    ["Abilene", "has a total area of", "286.5 sq km"],
+    ["Abilene", "has a population density of", "429.9 inhabitants per square kilometre"]
+  ],
+  "300": [
+    ["Abilene", "is part of", "Texas"],
+    ["Austin", "is the capital of", "Texas"],
+    ["Houston", "is the largest city in", "Texas"],
+    ["Spanish", "is one of the languages spoken in", "Texas"],
+    ["Texas", "is part of", "the United States"]
+  ],
+  "301": [
+    ["Abilene", "is in", "Texas, United States"],
+    ["Houston", "is the largest city in", "Texas"],
+    ["Austin", "is the capital of", "Texas"],
+    ["Spanish", "is spoken in", "Texas"]
+  ],
+  "302": [
+    ["English", "is the language of", "the United States"],
+    ["Asian Americans", "are an ethnic group in", "the United States"],
+    ["Americans", "are the inhabitants of", "the United States"],
+    ["United States", "is home to", "Albany"],
+    ["Albany", "is found in", "the state of Georgia"]
+  ],
+  "303": [
+    ["U.S.", "has many different types of Americans, including", "Asian Americans"],
+    ["English", "is the native language in", "the U.S."],
+    ["English", "is spoken in cities like", "Albany, Georgia"]
+  ],
+  "304": [
+    ["Albany", "is part of", "Georgia, in the United States"],
+    ["English", "is the speaking country where", ""],
+    ["Americans", "are known as", "the inhabitants"],
+    ["Asian Americans", "are one of the ethnic groups", ""]
+  ],
+  "305": [
+    ["Albuquerque", "is in", "New Mexico"],
+    ["Albuquerque", "has a total area of", "490.9 sq km"],
+    ["Albuquerque", "has a land area of", "486.2"],
+    ["Albuquerque", "has a population density of", "1142.3 people per square kilometre"],
+    ["Albuquerque", "has area codes", "505 and 575"]
+  ],
+  "306": [
+    ["Albuquerque", "is in", "New Mexico"],
+    ["Albuquerque", "has a total area of", "490.9 square kilometres"],
+    ["Albuquerque", "has a land area of", "486.2"],
+    ["Albuquerque", "has a population density of", "1142.3 persons per sq km"],
+    ["Albuquerque", "has area codes", "505 and 575"]
+  ],
+  "307": [
+    ["Albuquerque, N.M.", "has an area of land of", "486.2"],
+    ["Albuquerque, N.M.", "has a total area of", "490.9 square kilometers"],
+    ["Albuquerque, New Mexico", "has area codes", "505 and 575"],
+    ["Albuquerque, New Mexico", "has", "1142.3 people per square kilometres"]
+  ],
+  "308": [
+    ["Anaheim", "is led by", "Tom Tait"],
+    ["United States House of Representatives", "is located in", "the US Capitol"],
+    ["United States House of Representatives", "leads", "Anaheim"],
+    ["Anaheim", "is located in", "California"],
+    ["Spanish language", "is spoken in", "California"]
+  ],
+  "309": [
+    ["United States House of Representatives", "is located in", "the United States Capitol"],
+    ["United States House of Representatives", "leads", "Anaheim, California"],
+    ["Tom Tait", "is a leader in", "Anaheim, California"],
+    ["Spanish language", "is spoken in", "Anaheim, California"]
+  ],
+  "310": [
+    ["Anderson", "is in", "the United States"],
+    ["Anderson", "is led by", "the Democratic Party of the US"],
+    ["Democratic Party of the US", "have their headquarters in", "Washington DC"],
+    ["Anderson", "is located in", "Indiana"],
+    ["Indianapolis", "is the state capital of", "Indiana"]
+  ],
+  "311": [
+    ["Democratic Party", "leads", "Anderson, Indiana in the US"],
+    ["Democratic Party", "headquarter is located in", "Washington D.C."],
+    ["Indianapolis", "is the capital of", "Indiana"]
+  ],
+  "312": [
+    ["Indianapolis", "is the capital of", "Indiana"],
+    ["Anderson", "is located in", "Indiana, in the United States"],
+    ["Anderson", "is led by", "the U.S. Democratic Party"],
+    ["U.S. Democratic Party", "is headquartered in", "Washington, D.C."]
+  ],
+  "313": [
+    ["Anderson, Indiana", "lies", "268.0 above sea level"],
+    ["Anderson, Indiana", "has an area code of", "765"],
+    ["Anderson, Indiana", "has a population density of", "523.9 inhabitants"],
+    ["Anderson, Indiana", "has", "107.43 square kilometres"]
+  ],
+  "314": [
+    ["Anderson, Indiana", "has", "523.9 people per square kilometer"],
+    ["Anderson, Indiana", "has an area of", "107.43 square kilometres"],
+    ["Anderson, Indiana", "has an elevation of", "268.0 above sea level"],
+    ["Anderson, Indiana", "has an area code of", "765"]
+  ],
+  "315": [
+    ["Anderson, Indiana", "is", "268 above sea level"],
+    ["Anderson, Indiana", "uses", "the 765 area code"],
+    ["Anderson, Indiana", "is", "107.43 square kilometres large"],
+    ["Anderson, Indiana", "has", "523.9 residents per square kilometre"]
+  ],
+  "316": [
+    ["California", "has some parts where people speak", "Chinese"],
+    ["Antioch", "is home to", "California"],
+    ["Antioch", "covers", "75.324 square kilometres"],
+    ["Antioch", "is in", "Contra Costa County"],
+    ["Contra Costa County", "is in", "the San Francisco Bay area"]
+  ],
+  "317": [
+    ["Antioch", "is part of", "the San Francisco bay area"],
+    ["Antioch", "is part of", "Contra Costa County in California"],
+    ["Antioch", "has a total area of", "75.324 square km"],
+    ["Chinese", "is one of the spoken languages in", "California"]
+  ],
+  "318": [
+    ["Antioch", "has a total area of", "75.324 square km"],
+    ["Antioch", "is part of", "Contra Costa County"],
+    ["Contra Costa County", "is part of", "the San Francisco Bay area, in California"],
+    ["Chinese", "is spoken in", "some parts of California"]
+  ],
+  "319": [
+    ["Attica, Indiana", "is in", "Fountain County, Indiana, U.S"],
+    ["Washington DC", "is the capital of the U.S.", ""],
+    ["Covington", "is the County seat of", "Fountain County"]
+  ],
+  "320": [
+    ["Attica", "is part of", "Fountain County, Indiana, United States"],
+    ["Washington, D.C.", "is the capital of", "the United States"],
+    ["Covington", "is the County seat of", "Fountain County"]
+  ],
+  "321": [
+    ["Covington", "is the County seat of", "Fountain County, in Indiana"],
+    ["Attica", "is part of", "Fountain County, in Indiana"],
+    ["Indiana", "is in", "the United States"],
+    ["Washington D.C.", "is the capital of", "the United States"]
+  ],
+  "322": [
+    ["Auburn", "is part of", "Lee County, Alabama, in the United States"],
+    ["Washington D.C.", "is the capital of", "the United States"],
+    ["Asian Americans", "are an ethnic group in", "the United States"]
+  ],
+  "323": [
+    ["Auburn", "is part of", "Lee County, Alabama"],
+    ["Lee County, Alabama", "is in", "the United States"],
+    ["Washington D.C.", "is the capital of", "the United States"],
+    ["Asian Americans", "are an ethnic group in", "this country"]
+  ],
+  "324": [
+    ["Opelika", "is the county seat of", "Lee County, Alabama, The United States"],
+    ["Auburn", "is part of", "Lee County"],
+    ["African Americans", "are an ethnic group within", "the United States"]
+  ],
+  "325": [
+    ["Opelika", "is the county seat of", "Lee County"],
+    ["Lee County", "is in", "Auburn, Alabama"],
+    ["Auburn, Alabama", "is in", "the United States"],
+    ["African Americans", "are an ethnic group in", "the United States"]
+  ],
+  "326": [
+    ["African Americans", "are an ethnic group in", "the United States"],
+    ["Lee County, Alabama", "is within", "the United States"],
+    ["Auburn", "is part of", "Lee County, Alabama"],
+    ["Opelika", "is the county seat of", "Lee County, Alabama"]
+  ],
+  "327": [
+    ["Austin", "is in", "Williamson County Texas"],
+    ["Georgetown", "is the county seat of", "Williamson County Texas"],
+    ["Round Rock", "is the largest city in", "Williamson County Texas"],
+    ["Spanish", "is spoken in", "Williamson County Texas"]
+  ],
+  "328": [
+    ["Williamson County, Texas", "contains the towns of", "Austin, Round Rock, the largest city, and the county seat of Georgetown"],
+    ["Spanish", "is spoken in", "Texas"]
+  ],
+  "329": [
+    ["Austin", "is part of", "Williamson County, Texas"],
+    ["Spanish", "is spoken in", "Texas"],
+    ["Round Rock", "is the largest city in", "Williamson County"],
+    ["Georgetown", "is the county seat of", "Williamson County"]
+  ],
+  "330": [
+    ["Austin", "is part of", "Williamson County in Texas"],
+    ["Georgetown", "is the county seat of", "Williamson County"],
+    ["Houston", "is the largest city in", "Texas"],
+    ["Spanish language", "is spoken in", "Texas"]
+  ],
+  "331": [
+    ["Williamson County", "with county seat", "Georgetown"],
+    ["Austin", "is located in", "Williamson County in Texas"],
+    ["Houston", "is the largest city in", "Texas"],
+    ["Spanish", "is one of the spoken languages in", "Texas"]
+  ],
+  "332": [
+    ["Indianapolis", "is the capital of", "Indiana, United States"],
+    ["Alexandria", "is located in", "Indiana, United States"],
+    ["Madison County", "is located in", "Indiana, United States"],
+    ["Anderson", "is the largest city in", "Madison County"]
+  ],
+  "333": [
+    ["Fort Worth", "is the county seat of", "Tarrant County"],
+    ["Tarrant County", "is in", "Texas"],
+    ["English", "is spoken in", "Texas"],
+    ["Arlington", "is part of", "Tarrant County"]
+  ],
+  "334": [
+    ["English", "is a language spoken in", "Texas"],
+    ["Houston", "is the largest city in", "Texas"],
+    ["Arlington", "is part of", "Tarrant County in Texas"],
+    ["Fort Worth", "is the county seat of", "Tarrant County"]
+  ],
+  "335": [
+    ["Arlington, Tarrant County", "is in", "Texas"],
+    ["Fort Worth", "is the largest city in", "Texas"],
+    ["Austin", "is the capital of", "Texas"],
+    ["Houston", "is the largest city in", "Texas"]
+  ],
+  "336": [
+    ["Austin", "is Texas' capital", ""],
+    ["Houston", "is the largest city in", "Texas"],
+    ["Arlington, Texas", "is in", "Tarrant County"],
+    ["Fort Worth", "is the largest city in", "Tarrant County"]
+  ],
+  "337": [
+    ["Austin", "is the capital city of", "Texas"],
+    ["Houston", "is the capital of", "Texas"],
+    ["Fort Worth", "is the largest city in", "Texas"],
+    ["Arlington", "is located in", "Tarrant County, Texas"]
+  ],
+  "338": [
+    ["Arlington", "is part of", "Tarrant County, Texas in the U.S."],
+    ["Austin", "is the capital in", "that state"],
+    ["Houston", "is its biggest city", ""]
+  ],
+  "339": [
+    ["Arlington", "is part of", "Tarrant County, Texas"],
+    ["Austin", "is the capital city of", "Texas"],
+    ["Houston", "is the largest city in", "Texas"],
+    ["Texas", "is in", "the United States"]
+  ],
+  "340": [
+    ["United States", "has inhabitants known as", "Americans"],
+    ["United States", "has the ethnic group of", "Asian Americans"],
+    ["United States", "is the location of", "Albany"],
+    ["Albany", "is led by", "a Mayor"],
+    ["Albany", "is located in", "Dougherty County in Georgia"]
+  ],
+  "341": [
+    ["Albany", "is in", "Dougherty County, Georgia, US"],
+    ["Americans", "live in", "the US"],
+    ["Asian Americans", "are an thnic group in", "the US"],
+    ["Albany", "is led by", "a Mayor"]
+  ],
+  "342": [
+    ["Americans", "are the inhabitants of", "the United States"],
+    ["Asian Americans", "are an ethnic group in", "the United States"],
+    ["Albany", "is in", "the United States"],
+    ["Albany", "is led by", "the Mayor"],
+    ["Albany", "is a city in", "Dougherty County, Georgia"]
+  ],
+  "343": [
+    ["Albany", "is a city in", "Linn County, Oregon in the United States"],
+    ["Washington, D.C.", "is the capital of", "the country"],
+    ["Americans", "are the inhabitants of", "the United States"],
+    ["African Americans", "are an ethnic group within", "the United States"]
+  ],
+  "344": [
+    ["Albany, Oregon", "is in", "Linn County in the United States"],
+    ["Washington, D.C.", "is the capital of", "the U.S."],
+    ["African Americans", "call home", "the U.S."],
+    ["Americans", "call home", "the U.S."]
+  ],
+  "345": [
+    ["Akron, Summit County, Ohio", "is located within", "the United States"],
+    ["Washington, D.C.", "is the capital of", "the U.S."],
+    ["Americans", "are known as", "the people of the U.S."],
+    ["Native Americans", "are one ethnic group in", "that country"]
+  ],
+  "346": [
+    ["United States", "has inhabitants known as", "Americans"],
+    ["Native Americans", "are one of the ethnic groups in", "the United States"],
+    ["Akron, Ohio", "is in", "Summit County"],
+    ["Akron, Ohio", "is located within", "the United States"],
+    ["Washington DC", "is the capital of", "the United States"]
+  ],
+  "347": [
+    ["United States", "has inhabitants known as", "Americans"],
+    ["African Americans", "are one of the ethnic groups in", "the United States"],
+    ["United States", "is led by", "the President"],
+    ["United States", "is the location of", "Angola"],
+    ["Angola", "is part of", "Steuben County, Indiana"]
+  ],
+  "348": [
+    ["Angola, Indiana", "is in", "Steuben County of the U.S.A."],
+    ["U.S.A.", "is led by", "a president"],
+    ["African Americans", "are among the ethnic groups in", "the U.S.A."]
+  ],
+  "349": [
+    ["United States", "uses", "the English language"],
+    ["United States", "has the capital of", "Washington DC"],
+    ["United States", "includes", "the Asian Americans among its ethnic groups"],
+    ["Albany", "is located within", "the country"],
+    ["Albany", "is part of", "Benton County in Oregon"]
+  ],
+  "350": [
+    ["Albany", "is part of", "Benton County, Oregon U.S."],
+    ["U.S.A.", "capital is", "Washington D.C."],
+    ["U.S.A.", "has an ethnic group of", "Asian Americans"],
+    ["English", "is spoken in", "the U.S.A."]
+  ],
+  "351": [
+    ["Asian Americans", "are an ethnic group in", "the US"],
+    ["Washington DC", "is the capital city of", "the US"],
+    ["English", "is the spoken language in", "the US"],
+    ["Albany", "is located in", "Oregon"]
+  ],
+  "352": [
+    ["Albany", "is a city in", "Oregon, U.S."],
+    ["English", "is the language spoken in", "the U.S."],
+    ["Asian Americans", "are an ethnic group in", "the U.S."],
+    ["Washington DC", "is the capital of", "the U.S."]
+  ],
+  "353": [
+    ["Auburn, Alabama", "is part of", "Lee County"],
+    ["Lee County", "has", "Opelika as the county seat"],
+    ["Auburn", "is located in", "the US"],
+    ["Native Americans", "are an ethnic group in", "the US"]
+  ],
+  "354": [
+    ["Native Americans", "are an ethnic group within", "the United States"],
+    ["Auburn", "is located in", "the United States"],
+    ["Auburn", "is part of", "Lee County (Alabama)"],
+    ["Opelika", "is the county seat of", "Lee County in Alabama"]
+  ],
+  "355": [
+    ["Native Americans", "are one of the ethnic groups in", "the United States of America"],
+    ["Auburn, Alabama", "is located in", "the United States of America"],
+    ["Auburn", "is part of", "Lee County in Alabama"],
+    ["Opelika", "is their county seat", ""]
+  ],
+  "356": [
+    ["Albuquerque", "is in", "New Mexico, U.S."],
+    ["Albuquerque", "is led by", "the Albuquerque City Council"],
+    ["English", "is the official language of", "the United States"],
+    ["Barack Obama", "is the leader of", "the United States"],
+    ["Native Americans", "are one of the ethnic groups in", "the country"]
+  ],
+  "357": [
+    ["Native Americans", "are an ethnic group in", "the United States"],
+    ["Barack Obama", "is the leader of", "the United States"],
+    ["English speaking America", "is where", "Albuquerque, in New Mexico, is located"],
+    ["Albuquerque City Council", "has a leadership role in", "Albuquerque"]
+  ],
+  "358": [
+    ["Albuquerque City Council", "has a leadership role in", "Albuquerque, New Mexico, in the United States"],
+    ["English speaking country", "is led by", "Barack Obama"],
+    ["Native Americans", "are one of the ethnic groups in", "the United States"]
+  ],
+  "359": [
+    ["English", "is the language spoken in", "the United States"],
+    ["Americans", "are the inhabitants of", "the United States"],
+    ["Native Americans", "are an ethnic group in", "the United States"],
+    ["Angola", "is a city in", "Indiana"],
+    ["Angola", "is located in", "the United States"]
+  ],
+  "360": [
+    ["Angola, Indiana", "is part of", "the English speaking, United States"],
+    ["U.S.", "is home to", "Native Americans and Americans"]
+  ],
+  "361": [
+    ["Angola", "is in", "Indiana"],
+    ["Indiana", "is in", "the US"],
+    ["English", "is spoken in", "the US"],
+    ["Americans", "are the inhabitants of", "the US"],
+    ["Native Americans", "are an ethnic group in", "the US"]
+  ],
+  "362": [
+    ["Albany, Georgia", "is found in", "the United States"],
+    ["United States", "leader is", "the president"],
+    ["Asian Americans", "are an ethnic group in", "the United States"],
+    ["Americans", "are the inhabitants of", "the United States"]
+  ],
+  "363": [
+    ["President", "is the leader of", "the United States"],
+    ["Asian Americans", "are an ethnic group in", "the United States"],
+    ["Albany, Georgia", "is in", "the United States"],
+    ["Americans", "are the inhabitants of", "the United States"]
+  ],
+  "364": [
+    ["Seattle", "is the largest city of", "Washington State"],
+    ["Olympia", "is the capital of", "Washington State"],
+    ["Auburn", "is located in", "the state"],
+    ["Auburn", "is part of", "King County, U.S."]
+  ],
+  "365": [
+    ["Auburn", "is part of", "King County, Washington, United States"],
+    ["Olympia", "is the capital of", "Washington"],
+    ["Seattle", "is the largest city in", "Washington"]
+  ],
+  "366": [
+    ["Auburn", "is in", "King County, Washington State"],
+    ["Seattle", "is the largest city in", "Washington State"],
+    ["Olympia", "is the capital of", "Washington State"],
+    ["Washington", "is in", "the US"]
+  ],
+  "367": [
+    ["Bananaman", "was shown on", "the BBC"],
+    ["Bananaman", "first aired on", "3 October 1983"],
+    ["Bananaman", "final broadcast was", "15 April 1986"],
+    ["Bananaman", "was created by", "John Geering"],
+    ["Bananaman", "starred", "Tim Brooke-Taylor"]
+  ],
+  "368": [
+    ["BBC", "began airing", "Bananaman October 3rd, 1983"],
+    ["Bananaman", "last episode was broadcast on", "April 15th, 1986"],
+    ["John Geering", "is one of the creators of", "Bananaman"],
+    ["Bananaman", "starred", "Tim Brooke-Taylor"]
+  ],
+  "369": [
+    ["Bananaman", "is a TV character created by", "John Geering"],
+    ["Bananaman", "was broadcast by", "the BBC"],
+    ["Bananaman", "starred", "Tim Brooke-Taylor"],
+    ["Bananaman", "first aired on", "the 10th March 1983"],
+    ["Bananaman", "was last shown on", "April 15th 1986"]
+  ],
+  "370": [
+    ["Baymax", "is a character from", "the film Big Hero 6"],
+    ["Big Hero 6", "stars", "Scott Adsit"],
+    ["Baymax", "was created by", "Steven T Seagle and the American, Duncan Rouleau"]
+  ],
+  "371": [
+    ["American Duncan Rouleau", "created", "Baymax"],
+    ["Steven T. Seagle", "created", "Baymax"],
+    ["Baymax", "is a character in", "Big Hero 6"],
+    ["Big Hero 6", "starred", "Scott Adsit"]
+  ],
+  "372": [
+    ["Baymax", "was created by", "American Duncan Rouleau and Steven T. Seagle"],
+    ["Baymax", "is a character in", "Big Hero 6"],
+    ["Big Hero 6", "stars", "Scott Adsit"]
+  ],
+  "373": [
+    ["Chinabank", "is a", "publicly traded company"],
+    ["Chinabank", "has", "295 banking centers"],
+    ["Chinabank", "was founded in", "Manila on the 16th of August, 1920"],
+    ["Chinabank", "has a net income of", "$15,100,000,000"]
+  ],
+  "374": [
+    ["Chinabank", "is a", "publicly traded company"],
+    ["Chinabank", "has", "295 locations"],
+    ["Chinabank", "was founded on", "08-16-1920"],
+    ["Chinabank", "was founded in", "Manila"],
+    ["Chinabank", "has a net income of", "$15,100,000,000"]
+  ],
+  "375": [
+    ["Chinabank", "is a", "public company"],
+    ["Chinabank", "has", "295 branches"],
+    ["Chinabank", "currently has a net income of", "$15,100,000,000"],
+    ["Chinabank", "was founded in", "Manila on 1920-08-16"]
+  ],
+  "376": [
+    ["GMA New Media", "is a", "maker of mobile applications"],
+    ["GMA New Media", "was founded on", "01-01-2000"],
+    ["GMA New Media", "is a", "mass media industry"],
+    ["GMA New Media", "has headquarters in", "the GMA Network Center"],
+    ["Felipe Gozon", "is a key person in", "GMA New Media"]
+  ],
+  "377": [
+    ["GMA New Media", "was founded on", "January 01, 2000"],
+    ["GMA New Media", "is a", "company in mass media industry"],
+    ["GMA New Media", "offers products such as", "mobile applications"],
+    ["Felipe Gozon", "is the key person on", "GMA New Media"],
+    ["GMA New Media", "is located inside", "the GMA Network Center"]
+  ],
+  "378": [
+    ["GMA New Media", "founded on", "January 01,2000"],
+    ["GMA New Media", "is located in", "the GMA Network Center"],
+    ["GMA New Media", "is in", "the mass media industry"],
+    ["GMA New Media", "makes", "mobile apps"],
+    ["Felipe Gozon", "is the key person on board", "GMA New Media"]
+  ],
+  "379": [
+    ["Hypermarcas", "was founded", "January 1, 2001"],
+    ["Hypermarcas", "is a", "pharmaceutical company"],
+    ["Hypermarcas", "primarily focuses on", "cosmetics"],
+    ["Hypermarcas", "is located in", "Brazil"],
+    ["Brazil", "has as population density of", "23.8"]
+  ],
+  "380": [
+    ["Hypermarcas", "is a", "pharmaceutical company"],
+    ["Hypermarcas", "was founded on", "January 1, 2001"],
+    ["Hypermarcas", "also sells", "cosmetics"],
+    ["Hypermarcas", "is located in", "Brazil"],
+    ["Brazil", "has a population density of", "23.8 per square kilometer"]
+  ],
+  "381": [
+    ["Hypermarcas", "was founded on", "January 1, 2001"],
+    ["Hypermarcas", "is a", "pharmaceutical company"],
+    ["Hypermarcas", "is a", "maker of cosmetics products"],
+    ["Hypermarcas", "is located in", "Brazil"],
+    ["Brazil", "has a population density of", "23.8"]
+  ],
+  "382": [
+    ["Trane", "is a", "European subsidiary company"],
+    ["Trane", "is located in", "Ireland"],
+    ["Trane", "employs", "29,000 people"],
+    ["Trane", "was founded in", "La Crosse, Wisconsin"]
+  ],
+  "383": [
+    ["Trane", "was founded in", "La Crosse, Wisconsin"],
+    ["Trane", "is located in", "the European country of Ireland"],
+    ["Trane", "is a", "subsidiary company"],
+    ["Trane", "has", "29000 employees"]
+  ],
+  "384": [
+    ["Trane", "is a", "subsidiary company"],
+    ["Trane", "was founded in", "La Crosse, Wisconsin"],
+    ["Trane", "has", "29,000 employees"],
+    ["Trane", "operates in", "Ireland"],
+    ["Ireland", "is located in", "Europe"]
+  ],
+  "385": [
+    ["Trane", "is subsidiary in", "Swords, Dublin"],
+    ["Trane", "produces", "building management systems"],
+    ["Trane", "has a net income of", "$556 million"],
+    ["Trane", "has a total revenue of", "$10,264,000,000"]
+  ],
+  "386": [
+    ["Trane", "is a", "maker of building management systems"],
+    ["Trane", "has net income of", "$556,300,000"],
+    ["Trane", "has revenue of", "10,264,000,000"],
+    ["Trane", "is a", "subsidiary company"],
+    ["Trane", "is located in", "Swords, Dublin"]
+  ],
+  "387": [
+    ["Trane", "is a", "subsidiary"],
+    ["Trane", "is located in", "Swords, Dublin"],
+    ["Trane", "manufactures", "building management systems"],
+    ["Trane", "has net income of", "$556,300,000"],
+    ["Trane", "has revenue of", "$10,264,000,000"]
+  ],
+  "388": [
+    ["Ajoblanco", "is from", "Andalusia, Spain"],
+    ["Ajoblanco", "is made with", "bread, almonds, garlic, water and olive oil"],
+    ["Ajo blanco", "is an alternative name to", "Ajoblanco"]
+  ],
+  "389": [
+    ["Ajoblanco", "is also known as", "Ajo blanco"],
+    ["Ajoblanco", "is a dish from", "the Andalusian region of Spain"],
+    ["Ajoblanco", "includes the main ingredients of", "bread, almonds, garlic, water and olive oil"]
+  ],
+  "390": [
+    ["Ajoblanco", "is a dish found in", "the Andalusian region of Spain"],
+    ["Ajoblanco", "is also called", "Ajo blanco"],
+    ["Ajoblanco", "contains", "bread, almonds, garlic, water and olive oil"]
+  ],
+  "391": [
+    ["Tomatoes, guanciale, cheese, and olive oil", "are main ingredients in", "the traditional Amatriciana sauce"],
+    ["Amatriciana sauce", "comes from", "the region of Lazio"],
+    ["Amatriciana sauce", "can be found in", "an Italian meal"]
+  ],
+  "392": [
+    ["Amatriciana", "is a", "traditional sauce from Lazio, Italy"],
+    ["Amatriciana", "includes", "cheese along with tomatoes, guanciale and olive oil"]
+  ],
+  "393": [
+    ["Amatriciana sauce", "can be found in", "Italian food"],
+    ["Amatriciana sauce", "comes from", "the country's Lazio region"],
+    ["Amatriciana sauce", "main ingredients are", "guanciale, tomatoes, cheese, and olive oil"]
+  ],
+  "394": [
+    ["Arem-arem", "is a", "Javanese dish"],
+    ["Arem-arem", "is commonly served in", "Indonesia"],
+    ["Indonesia", "leader is", "Joko Widodo"],
+    ["Indonesia", "currency is", "the Indonesian rupiah"],
+    ["Indonesian language", "is the language spoken in", "Indonesia"]
+  ],
+  "395": [
+    ["Sergio Mattarella", "is a leader in", "Italy"],
+    ["Rome", "is the capital of", "Italy"],
+    ["Italian", "is the language spoken in", "Italy"],
+    ["Italians", "are the people in", "Italy"],
+    ["Arrabbiata sauce", "can be found in", "Italy"]
+  ],
+  "396": [
+    ["Arrabbiata sauce", "is from", "Italy"],
+    ["Rome", "is the capital of", "Italy"],
+    ["Italian", "is the language spoken in", "Italy"],
+    ["Sergio Mattarella", "is a leader of", "Italy"],
+    ["Italians", "are the people in", "Italy"]
+  ],
+  "397": [
+    ["Ximo Puig", "is a leader of", "the Valencian Community"],
+    ["Arros negre", "comes from", "the Valencian Community"],
+    ["Arros negre", "is a", "traditional dish from Spain"],
+    ["Spaniards", "are the people in", "Spain"],
+    ["Felipe VI of Spain", "is the leader of", "Spain"]
+  ],
+  "398": [
+    ["Arros negre", "is from", "the Valencian Community of Spain"],
+    ["Spaniards", "are at home in", "Spain"],
+    ["Spain", "is led by", "Felipe VI and Ximo Puig"]
+  ],
+  "399": [
+    ["Malaysia", "is home to", "the dish Asam pedas"],
+    ["Malay Peninsula", "is home to", "the dish Asam pedas"],
+    ["Kuala Lumpur", "is the capital of", "Malaysia"],
+    ["Malaysian Chinese", "inhabit", "Malaysia"],
+    ["Malaysian Indian", "inhabit", "Malaysia"]
+  ],
+  "400": [
+    ["Malaysian Indian", "are an ethnic group in", "Malaysia"],
+    ["Malaysian chinese", "are an ethnic group in", "Malaysia"],
+    ["Arifin Zakaria", "is the leader of", "Malaysia"],
+    ["Asam pedas", "is found in", "Malaysia"],
+    ["Asam pedas", "is from", "the Malay Peninsula region"]
+  ],
+  "401": [
+    ["Asam pedas", "is a food found in", "the Malay Peninsula region, Malaysia"],
+    ["Malaysia", "has ethnic groups including", "Malaysian Indian and Chinese"],
+    ["Arifin Zakaria", "is the country's leader", ""]
+  ],
+  "402": [
+    ["Malaysia", "is led by", "Arifin Zakaria"],
+    ["Malaysia", "is home to", "the Malaysian Indian and Chinese"],
+    ["Malaysia", "is home to", "the asam pedas of the Malay Peninsula region"]
+  ],
+  "403": [
+    ["Ayam penyet", "is a", "Javanese dish"],
+    ["Ayam penyet", "is made", "nationwide"],
+    ["Ayam penyet", "can also be found in", "Malaysia and Singapore"],
+    ["Ayam penyet", "should be served", "hot"],
+    ["Ayam penyet", "contains the main ingredients of", "squeezed or smashed fried chicken served with sambal"]
+  ],
+  "404": [
+    ["Ayam penyet", "is a", "hot food dish"],
+    ["Ayam penyet", "is found in", "Java, Malaysia and Singapore"],
+    ["Ayam penyet", "consists of", "fried chicken and sambal sauce"]
+  ],
+  "405": [
+    ["Ayam penyet", "is a food made in", "Java regions of Malaysia and Singapore"],
+    ["Ayam penyet", "contains", "fried chicken"],
+    ["Ayam penyet", "is smashed and served hot with", "sambal"]
+  ],
+  "406": [
+    ["Malaysian Chinese", "is an ethnic group from", "Malaysia"],
+    ["Ayam Penyet", "is from", "Malaysia"],
+    ["Ayam Penyet", "is from", "Indonesia"],
+    ["Ayam Penyet", "contains", "fried chicken"],
+    ["Ayam Penyet", "contains", "\"squeezed\" or \"smashed\" chicken served with sambal"]
+  ],
+  "407": [
+    ["Ayam penyet", "is a dish comprising", "\"squeezed\" or \"smashed\" fried chicken served with sambal"],
+    ["Ayam penyet", "can be found in", "Indonesia and in Malaysia"],
+    ["Malaysian Chinese", "is an ethnic group in", "Malaysia"]
+  ],
+  "408": [
+    ["Ayam penyet", "has origins in", "Indonesia"],
+    ["Ayam penyet", "contains", "squeezed/smashed fried chicken with sambal"],
+    ["Ayam penyet", "is popular in", "Malaysia"],
+    ["Malasysia", "is home to", "the Malaysian chinese"]
+  ],
+  "409": [
+    ["Malaysian chinese", "are an ethnic group from", "Malaysia"],
+    ["Ayam Penyet", "is from", "Malaysia"],
+    ["Ayam Penyet", "can also be found in", "Indonesia"],
+    ["Ayam Penyet", "contains", "fried chicken"]
+  ],
+  "410": [
+    ["Ayam penyet", "is a dish made with", "fried chicken"],
+    ["Ayam penyet", "is popular in", "Malaysia"],
+    ["Ayam penyet", "originates from", "Indonesia"],
+    ["Malaysian chinese", "are an ethnic group in", "Malaysia"]
+  ],
+  "411": [
+    ["Ayam penyet", "is a fried chicken dish", ""],
+    ["Ayam penyet", "comes from", "the region of Indonesia"],
+    ["Ayam penyet", "comes from", "Malaysia"],
+    ["Malaysian Chinese", "are an ethnic group in", "Malaysia"]
+  ],
+  "412": [
+    ["Bacon Explosion", "comes from", "the United States"],
+    ["Barack Obama", "is the US president", ""],
+    ["Washington, D.C.", "is the capital of", "the US"],
+    ["English", "is the language of", "the US"],
+    ["White Americans", "are a major ethnic group in", "the US"]
+  ],
+  "413": [
+    ["Bacon Explosion", "originates from", "the United States"],
+    ["Asian Americans", "are one of the ethnic groups in", "the United States"],
+    ["Washington D.C", "is the country's capital city", ""],
+    ["Joe Biden", "is a politician in", "the U.S."],
+    ["English", "is spoken in", "the U.S."]
+  ],
+  "414": [
+    ["Baked Alaska", "originates from", "France"],
+    ["French", "is the national language in", "France"],
+    ["Gerard Larcher", "is one of the leader in", "France"],
+    ["Baked Alaska", "is served in", "Hong Kong"],
+    ["Carrie Lam", "is the leader in", "Hong Kong"]
+  ],
+  "415": [
+    ["Baked Alaska", "comes from", "France"],
+    ["French", "is the spoken language in", "France"],
+    ["Gerard Larcher", "is the country's leader", ""],
+    ["Baked Alaska", "is also served in", "Hong Kong"],
+    ["Carrie Lam", "is one of the political leaders in", "Hong Kong"]
+  ],
+  "416": [
+    ["Baked Alaska", "is served in", "Hong Kong"],
+    ["Carrie Lam", "is the political leader of", "Hong Kong"],
+    ["Baked Alaska", "is actually from", "France"],
+    ["French", "is the national language in", "France"],
+    ["Gerard Larcher", "is the leader of", "France"]
+  ],
+  "417": [
+    ["Bandeja paisa", "is", "typical Colombian cuisine"],
+    ["Bandeja paisa", "originates from", "the Paisa region"],
+    ["Bandeja paisa", "contains", "lemon"],
+    ["lemon", "belongs to", "the rutaceae family"],
+    ["lemon", "is in the order of", "Rosids"]
+  ],
+  "418": [
+    ["Barny Cakes", "are made from", "sponge cake"],
+    ["Barny Cakes", "are from", "France"],
+    ["Gerard Larcher", "is a leader of", "France"],
+    ["Claude Bartolone", "is a leader of", "France"],
+    ["French", "is the language spoken in", "France"]
+  ],
+  "419": [
+    ["Barny cakes", "are made with", "sponge cake"],
+    ["Barny cakes", "are found in", "France"],
+    ["French", "is spoken in", "France"],
+    ["Claude Bartolone", "is a leader of", "France"],
+    ["Gerard Larcher", "is a leader of", "France"]
+  ],
+  "420": [
+    ["Barny Cakes", "is created by", "Mondelez International"],
+    ["Mondelez International", "was founded in", "Chicago"],
+    ["Barny Cakes", "come from", "France"],
+    ["Gerard Larcher", "is leader of", "France"],
+    ["French", "is spoken in", "France"]
+  ],
+  "421": [
+    ["Barny cakes", "is created by", "Mondelez International"],
+    ["Mondelez International", "was founded in", "Chicago"],
+    ["Barny cakes", "comes from", "France"],
+    ["Gérard Larcher", "is leader of", "France"],
+    ["French", "is the language of", "France"]
+  ],
+  "422": [
+    ["Indian people", "enjoy", "the dish bhajji"],
+    ["bhajji", "originates from", "the Karnataka region of India"],
+    ["India", "is led by", "T.S. Thakur and Sumitra Mahajan"]
+  ],
+  "423": [
+    ["Binignit", "is a", "dessert"],
+    ["Binignit", "is from", "the Visayas region of the Philippines"],
+    ["Binignit", "contains", "sweet potato and banana"]
+  ],
+  "424": [
+    ["Binignit", "comes from", "the Philippines from the region of Visayas"],
+    ["Binignit", "is a", "type of dessert"],
+    ["Binignit", "features", "banana and sweet potatoes"]
+  ],
+  "425": [
+    ["Binignit", "is a", "dessert"],
+    ["Binignit", "includes", "sweet potato and banana"],
+    ["Binignit", "is from", "the Visayas region of the Philippines"]
+  ],
+  "426": [
+    ["Enrique Pena Nieto", "is the leader of", "Mexico"],
+    ["Spanish", "is spoken in", "Mexico"],
+    ["bionico", "is eaten in", "Mexico"],
+    ["bionico", "is flavoured with", "honey"],
+    ["bionico", "is eaten for", "dessert"]
+  ],
+  "427": [
+    ["Bionico", "is a dish found in", "Mexico"],
+    ["Spanish", "is spoken in", "Mexico"],
+    ["Silvano Aureoles Conejo", "is the leader of", "Mexico"],
+    ["Bionico", "is a dish served for", "dessert"],
+    ["cookie", "can be served as", "a dessert too"]
+  ],
+  "428": [
+    ["Mexico", "is a", "spanish speaking country"],
+    ["Mexico", "is led by", "Silvano Aureoles Conejo"],
+    ["Bionico", "is a type of food in", "Mexico"],
+    ["Bionico", "is a type of", "cookie"],
+    ["Bionico", "is served for", "dessert"]
+  ],
+  "429": [
+    ["Honey", "can be used as a variation in", "the dish Bionico"],
+    ["Bionico", "is served for", "dessert"],
+    ["Bionico", "is found in", "Guadalajara, Mexico"],
+    ["Mexico", "is led by", "Silvano Aureoles Conejo"]
+  ],
+  "430": [
+    ["Silvano Aureoles Conejo", "is the leader in", "Mexico"],
+    ["bionico", "can be found in", "the Guadalajara region"],
+    ["bionico", "is served as", "a dessert course"],
+    ["honey", "can be added to", "bionico"]
+  ],
+  "431": [
+    ["Bionico", "is a", "dessert"],
+    ["Bionico", "is found in", "Guadalajara"],
+    ["Silvano Aureoles Conejo", "led", "Mexico"],
+    ["Bionico", "may contain", "honey"]
+  ],
+  "432": [
+    ["Joko Widodo", "is the leader of", "Indonesia"],
+    ["Jakarta", "is the capital of", "Indonesia"],
+    ["Indonesian", "is the language of", "Indonesia"],
+    ["Bakso", "comes from", "Indonesia"],
+    ["Bakso", "is popular in", "Southeastern Asian countries"]
+  ],
+  "433": [
+    ["Joko Widodo", "is the leader of", "Indonesia"],
+    ["Indonesian", "is the language spoken in", "Indonesia"],
+    ["Jakarta", "is the capital city of", "Indonesia"],
+    ["Bakso", "is a", "traditional food throughout Indonesia"],
+    ["Bakso", "is also popular in", "neighbouring Southeast Asian countries"]
+  ],
+  "434": [
+    ["Bakso", "originates from", "Indonesia"],
+    ["Bakso", "is also popular in", "neighbouring Southeast Asian countries"],
+    ["Jakarta", "is the country's capital city", ""],
+    ["Indonesian", "is its main language", ""],
+    ["Joko Widodo", "is the president of", "Indonesia"]
+  ],
+  "435": [
+    ["Bakso", "is a food found in", "Indonesia"],
+    ["Jakarta", "is the capital of", "Indonesia"],
+    ["Jusuf Kalla", "is a leader of", "Indonesia"],
+    ["Joko Widodo", "is a leader of", "Indonesia"]
+  ],
+  "436": [
+    ["Bakso", "is dish from", "Indonesia"],
+    ["Jakarta", "is the capital city of", "Indonesia"],
+    ["Jusuf Kalla", "is a political leader in", "Indonesia"],
+    ["Joko Widodo", "is a political leader in", "Indonesia"]
+  ],
+  "437": [
+    ["Bakso", "is a dish from", "Indonesia"],
+    ["Jakarta", "is the country's capital city", ""],
+    ["Joko Widodo", "is the president of", "Indonesia"],
+    ["Jusuf Kalla", "is the vice president of", "Indonesia"]
+  ],
+  "438": [
+    ["Rome", "is the capital of", "Italy"],
+    ["Italians", "are from", "Italy"],
+    ["Amatriciana", "is a", "traditional sauce"],
+    ["Laura Boldrini", "is a leader of", "Italy"],
+    ["Pietro Grasso", "is a leader of", "Italy"]
+  ],
+  "439": [
+    ["Amatriciana sauce", "is a", "traditional dish from Italy"],
+    ["Rome", "is the capital of", "Italy"],
+    ["Pietro Grasso", "is a leader of", "Italy"],
+    ["Laura Boldrini", "is a leader of", "Italy"],
+    ["Italians", "is the name given to people from", "Italy"]
+  ],
+  "440": [
+    ["Rome", "is the capital city of", "Italy"],
+    ["Italians", "are the inhabitants of", "Italy"],
+    ["Italy", "is the home of", "the Amatriciana sauce"],
+    ["Italy", "is led by", "Pietro Grasso and Laura Boldrini"]
+  ],
+  "441": [
+    ["English", "is spoken in", "Singapore"],
+    ["Halimah Yacob", "is the leader of", "Singapore"],
+    ["Ayam penyet", "is from", "the Singapore region of Java"],
+    ["Banyumasan people", "are an ethnic group in", "Java"]
+  ],
+  "442": [
+    ["Banyumasan people", "are an ethnic group from", "Java"],
+    ["Ayam penyet", "is a", "traditional dish"],
+    ["Ayam penyet", "is found in", "Java"],
+    ["Ayam penyet", "comes from", "Singapore"],
+    ["Halimah Yacob", "is the leader of", "Singapore"],
+    ["English", "is one of the languages spoken in", "Singapore"]
+  ],
+  "443": [
+    ["Halimah Yacob", "leads", "Singapore"],
+    ["Standard Chinese", "is spoken in", "Singapore"],
+    ["Ayam penyet", "is from", "Singapore"],
+    ["Ayam penyet", "is a", "food found in Java"],
+    ["Banyumasan people", "are one of the ethnic groups in", "Java"]
+  ],
+  "444": [
+    ["Banyumasan people", "are an ethnic group in", "Java"],
+    ["Java", "is the country of", "Ayam penyet"],
+    ["Ayam penyet", "is also from", "the Singapore region"],
+    ["Standard Chinese", "is spoken in", "Singapore"],
+    ["Halimah Yacob", "is the leader of", "Singapore"]
+  ],
+  "445": [
+    ["Ayam penyet", "is a dish from", "the region of Java and Singapore"],
+    ["Standard Chinese", "is spoken in", "Singapore"],
+    ["Halimah Yacob", "is the leader of", "Singapore"],
+    ["Banyumasan people", "are an ethnic group from", "Java"]
+  ],
+  "446": [
+    ["Philippines", "is the country", "the dish Batchoy comes from"],
+    ["Ilocano", "are ethnic groups from", "the Philippines"],
+    ["Igorot peoples", "are ethnic groups from", "the Philippines"],
+    ["Arabic", "is a language spoken in", "the Philippines"],
+    ["Phillippine English", "is a language spoken in", "the Philippines"]
+  ],
+  "447": [
+    ["Batchoy", "is eaten in", "the Philippines"],
+    ["English", "is spoken in", "the Philippines"],
+    ["Arabic", "is also spoken in", "the Philippines"],
+    ["Ilocano", "are an ethnic group in", "the Philippines"],
+    ["Igorot peoples", "are an ethnic group in", "the Philippines"]
+  ],
+  "448": [
+    ["Beef kway teow", "is available", "nationwide in Indonesia and Singapore"],
+    ["Beef kway teow", "is a dish which comes from", "Singapore"],
+    ["English", "is spoken in", "Singapore"],
+    ["Halimah Yacob", "is a leader of", "Singapore"],
+    ["Tony Tan", "is a leader of", "Singapore"]
+  ],
+  "449": [
+    ["Beef kway teow", "is popular", "nationwide is Singapore"],
+    ["Beef kway teow", "comes from", "Singapore"],
+    ["Beef kway teow", "is popular", "nationwide is Indonesia"],
+    ["English", "is spoken in", "Singapore"],
+    ["Halimah Yacob", "is a leader of", "Singapore"],
+    ["Tony Tan", "is a leader of", "Singapore"]
+  ],
+  "450": [
+    ["Beef kway teow", "is a popular dish in", "Singapore and Indonesia"],
+    ["Tony Tan", "is a leader in", "Singapore"],
+    ["Halimah Yacob", "is a leader in", "Singapore"],
+    ["English", "is spoken in", "Singapore"]
+  ],
+  "451": [
+    ["Ajoblanco", "is a", "Spanish dish"],
+    ["Ajoblanco", "originates", "Andalusia"],
+    ["Susana Diaz", "is the leader of", "Andalusia"],
+    ["Felipe VI", "is the leader of", "Spain"],
+    ["Spaniards", "live in", "Spain"]
+  ],
+  "452": [
+    ["Spaniards", "are from", "Spain"],
+    ["Felipe VI", "is the leader of", "Spain"],
+    ["Susana Diaz", "is the leader of", "Andalusia"],
+    ["ajoblanco", "comes from", "Andalusia"]
+  ],
+  "453": [
+    ["Ajoblanco", "is a dish from", "Spain"],
+    ["euro", "is the currency in", "Spain"],
+    ["Felipe VI", "is the leader of", "Spain"],
+    ["Spanish", "is the language spoken in", "Spain"],
+    ["Spaniards", "live in", "Spain"]
+  ],
+  "454": [
+    ["Ajoblanco", "is a food found in", "Spanish speaking and Felipe VI led Spain"],
+    ["Spain", "is home to", "the Spaniards"],
+    ["Ajoblanco", "can be purchased with", "the Euro"]
+  ],
+  "455": [
+    ["AIDAstella", "was built by", "Meyer Werft"],
+    ["AIDAstella", "is operated by", "AIDA Cruise Line"],
+    ["AIDAstella", "has a beam of", "32.2 m"],
+    ["AIDAstella", "is", "253260.0 millimetres in length"],
+    ["AIDAstella", "has a top speed of", "38.892"]
+  ],
+  "456": [
+    ["AIDAstella", "was built by", "Meyer Werft"],
+    ["AIDAstella", "is operated by", "the AIDA Cruise Line"],
+    ["AIDAstella", "is", "253260.0 millimetres long"],
+    ["AIDAstella", "has a beam of", "32.2 metres"],
+    ["AIDAstella", "has a top speed of", "38.892 km/h"]
+  ],
+  "457": [
+    ["AIDAstella", "is operated by", "AIDA Cruise Line"],
+    ["AIDAstella", "was built by", "Meyer Werft"],
+    ["AIDAstella", "is", "253260.0 millimetres in length"],
+    ["AIDAstella", "has a beam of", "32.2m"],
+    ["AIDAstella", "has a top speed of", "38.892 km/h"]
+  ],
+  "458": [
+    ["ALCO RS-3", "was produced between", "May 1950 and August 1956"],
+    ["ALCO RS-3", "was produced by", "the American Locomotive Company"],
+    ["ALCO RS-3", "has", "12 cylinders"],
+    ["ALCO RS-3", "has a", "V12 engine"],
+    ["ALCO RS-3", "length is", "17068.8 millimetres"]
+  ],
+  "459": [
+    ["ALCO RS-3", "was built by", "the American Locomotive Company"],
+    ["ALCO RS-3", "has a", "V12 cylinder engine"],
+    ["ALCO RS-3", "is", "17068.8mm long"],
+    ["ALCO RS-3", "was produced from", "May 1950 to August 1956"]
+  ],
+  "460": [
+    ["ALCO RS-3", "was produced from", "May 1950 to August 1956"],
+    ["ALCO RS-3", "was produced by", "the American Locomotive Company"],
+    ["ALCO RS-3", "has a", "V12, 12 cylinder engine"],
+    ["ALCO RS-3", "is", "17068.8mm long"]
+  ],
+  "461": [
+    ["AMC Matador", "is also known as", "the American Motors Matador"],
+    ["AMC Matador", "is assembled in", "Thames, New Zealand"],
+    ["AMC Matador", "is classified as", "a mid-size car"],
+    ["AMC Matador", "features", "a wagon style body"],
+    ["AMC Matador", "has an", "AMC V8 engine"]
+  ],
+  "462": [
+    ["AMC Matador", "is also known as", "American Motors Matador"],
+    ["AMC Matador", "was assembled in", "Thames, New Zealand"],
+    ["AMC Matador", "is a", "mid-size station wagon"],
+    ["AMC Matador", "has a", "V8 engine type"]
+  ],
+  "463": [
+    ["AMC Matador", "aka", "the American Motors Matador"],
+    ["AMC Matador", "is assembled in", "Thames, New Zealand"],
+    ["AMC Matador", "has a", "v8 engine"],
+    ["AMC Matador", "is classified as", "a mid-size station wagon"]
+  ],
+  "464": [
+    ["P&amp;O", "owns", "the Alhambra"],
+    ["Alhambra", "has a", "Humphrys, Tennant and Dykes engine"],
+    ["Alhambra", "is", "63800.0 millimetres long"],
+    ["Alhambra", "was made by", "the Samuda Brothers"],
+    ["Humphrys, Tennant and Dykes", "are located in", "Deptford"]
+  ],
+  "465": [
+    ["Alhambra", "was built by", "the Samuda Brothers"],
+    ["Alhambra", "is owned by", "the P &amp; O company"],
+    ["Alhambra", "was", "63800.0 millimetres long"],
+    ["Alhambra", "has a", "Humphrys, Tennant and Dykes power type"],
+    ["Humphrys, Tennant and Dykes", "are located in", "Deptford"]
+  ],
+  "466": [
+    ["Alhambra", "was built by", "the Samuda Brothers"],
+    ["Alhambra", "is owned by", "P&amp;O"],
+    ["Alhambra", "was", "63800.0 millimetres long"],
+    ["Alhambra", "has a", "Humphrys, Tennant and Dykes power type"],
+    ["Humphrys, Tennant and Dykes", "is located in", "Deptford"]
+  ],
+  "467": [
+    ["Antares rocket", "is", "3.9 metres in diametre"],
+    ["Antares rocket", "is manufactured by", "the Yuzhnoye Design Office"],
+    ["Antares rocket", "launch site was", "the Mid-Atlantic Regional Spaceport Launch Pad 0"],
+    ["Antares rocket", "made its first flight on", "October 28th, 2014"],
+    ["Antares rocket", "made its final flight on", "September 18th, 2013"]
+  ],
+  "468": [
+    ["Antares rocket", "is manufactured by", "the Yuzhnoye Design Office"],
+    ["Antares rocket", "was launched from", "the Mid-Atlantic Regional Spaceport Launch Pad 0"],
+    ["Antares rocket", "is", "3.9m in diameter"],
+    ["Antares rocket", "had its maiden flight on", "the 28th October, 2014"],
+    ["Antares rocket", "had its final flight on", "the 18th of September, 2013"]
+  ],
+  "469": [
+    ["Antares rocket", "was manufactured at", "the Yuzhnoye Design Office"],
+    ["Antares rocket", "made its first flight on", "October 28, 2014"],
+    ["Antares rocket", "had its final flight on", "the 18th of September 2013"],
+    ["Antares rocket", "is", "3.9 m in diameter"],
+    ["Antares rocket", "was launched from", "the Mid-Atlantic Regional Spaceport Launch Pad 0"]
+  ],
+  "470": [
+    ["Antares rocket", "is manufactured at", "the Yuzhnoye Design Office"],
+    ["Antares rocket", "was launched from", "the Mid-Atlantic Regional Spaceport"],
+    ["Antares rocket", "is comparable to", "the United States Delta II"],
+    ["Delta II", "was launched at", "the Vandenberg Air Force Base"]
+  ],
+  "471": [
+    ["Antares rocket", "is produced at", "the Yuzhnoye Design Office"],
+    ["Antares rocket", "was launched from", "the Mid-Atlantic Regional Spaceport"],
+    ["Antares", "compares to", "the Delta II US born rocket"],
+    ["Delta II", "launches out of", "Vandenberg Air Force Base"]
+  ],
+  "472": [
+    ["Antares rocket", "is manufactured by", "the Yuzhnoye Design Office"],
+    ["Antares rocket", "was launched from", "the Mid-Atlantic Regional Spaceport"],
+    ["Antares rocket", "is similar to", "the Delta II rocket from the United States"],
+    ["Delta II rocket", "was launched from", "the Vandenberg Air Force Base"]
+  ],
+  "473": [
+    ["Ariane 5", "had its first voyage", "August 11, 2005"],
+    ["Ariane 5", "had its last flight on", "December 18, 2009"],
+    ["Ariane 5", "was manufactured by", "Airbus Defence and Space"],
+    ["Ariane 5", "was launched from", "the Guiana Space Centre"],
+    ["Ariane 5", "diameter is", "5.4 metres"]
+  ],
+  "474": [
+    ["Airbus Defence and Space", "manufactured", "the Ariane 5"],
+    ["Ariane 5", "has a diameter of", "5.4 metres"],
+    ["Ariane 5", "was launched from", "the Guiana Space Centre"],
+    ["Ariane 5", "made its maiden flight on", "11 August 2005"],
+    ["Ariane 5", "made its final flight on", "18 December 2009"]
+  ],
+  "475": [
+    ["Airbus Defence and Space", "manufactures", "the Ariane 5"],
+    ["Ariane 5", "has a diameter of", "5.4 metres"],
+    ["Ariane 5", "was launched from", "the Guiana Space Centre"],
+    ["Ariane 5", "made its maiden flight on", "11 August 2005"],
+    ["Ariane 5", "had its last flight on", "December 18 2009"]
+  ],
+  "476": [
+    ["Ariane 5", "maiden flight was on", "the 2nd March 2004"],
+    ["Ariane 5", "last flight was on", "Sept. 27, 2003"],
+    ["Ariane 5", "was made by", "the European Space Agency"],
+    ["Ariane 5", "took off from", "ELA-3"],
+    ["Ariane 5", "is", "5.4 m in diameter"]
+  ],
+  "477": [
+    ["Ariane 5", "was first launched on", "March 2, 2004"],
+    ["Ariane 5", "took off from", "ELA-3"],
+    ["Ariane 5", "is made by", "the European Space Agency"],
+    ["Ariane 5", "last flight was on", "Sept. 27, 2003"],
+    ["Ariane 5", "is", "5.4 m in diameter"]
+  ],
+  "478": [
+    ["Aston Martin V8", "is assembled in", "the United Kingdom"],
+    ["United Kingdom", "is governed by", "Elizabeth II"],
+    ["Aston Martin Virage", "is the next model of", "that vehicle"],
+    ["Aston Martin Virage", "is related to", "Aston Martin DBS"],
+    ["Aston Martin", "is the manufacturer of", "the Aston Martin DBS"]
+  ],
+  "479": [
+    ["Aston Martin V8", "is assembled in", "the United Kingdom"],
+    ["United Kingdom", "ruler is", "Queen Elizabeth II"],
+    ["Aston Martin V8", "was succeeded by", "the Aston Martin Virage"],
+    ["Aston Martin Virage", "along with Aston Martin DBS", "are related types of transportation"],
+    ["Aston Martin", "manufatured", "Aston Martin DBS"]
+  ],
+  "480": [
+    ["Aston Martin", "manufactures", "the Aston Martin DBS"],
+    ["Aston Martin DBS", "is related to", "the Aston Martin Virage"],
+    ["Aston Martin Virage", "succeeded", "the Aston Martin V8"],
+    ["Aston Martin V8", "is assembled in", "the United Kingdom"],
+    ["United Kingdom", "is led by", "Elizabeth II"]
+  ],
+  "481": [
+    ["Aston Mastin DBS", "is made by", "Aston Martin"],
+    ["Aston Mastin DBS", "is related to", "the Aston Martin Virage"],
+    ["Aston Martin Virage", "succeeded", "the Aston Martin V8"],
+    ["Aston Martin V8", "was assembled in", "the United Kingdom"],
+    ["United Kingdom", "is led by", "Elizabeth II"]
+  ],
+  "482": [
+    ["Atlas II", "is from", "the United States"],
+    ["Atlas II", "was sent from", "Vandenberg Air Force Base and Spaceport Florida Launch Complex 36"],
+    ["Atlas II", "is", "3.04 m diameter"],
+    ["Atlas II", "final lift off was", "March 16, 1998"]
+  ],
+  "483": [
+    ["Atlas II", "is from", "the United States"],
+    ["Atlas II", "was launched from", "the Vandenberg Air Force Base and the Spaceport Florida Launch Complex 36"],
+    ["Atlas II", "is", "3.04 m in diameter"],
+    ["Atlas II", "took its final flight on", "16 March 1998"]
+  ],
+  "484": [
+    ["Atlas II", "is from", "the united States"],
+    ["Atlas II", "was launched at", "the Spaceport Florida Launch Complex 36 and Vandenberg Air Force Base"],
+    ["Atlas II", "is", "3.04m in diameter"],
+    ["Atlas II", "final flight was", "March 16, 1998"]
+  ],
+  "485": [
+    ["Audi A1", "is a", "hatchback"],
+    ["Audi A1", "is a", "supermini vehicle"],
+    ["Audi A1", "is made in", "Brussels, Belgium"],
+    ["Audi A1", "contains", "a 1.2 l front engine"],
+    ["Audi A1", "has a", "front wheel drive layout"]
+  ],
+  "486": [
+    ["Audi A1", "is a", "hatchback"],
+    ["Audi A1", "belongs to", "the supermini class"],
+    ["Audi A1", "has a", "1.2 litre engine"],
+    ["Audi A1", "has a", "front-engine with front-wheel-drive"],
+    ["Audi A1", "is assembled in", "Brussels, Belgium"]
+  ],
+  "487": [
+    ["Audi A1", "is a", "supermini hatchback"],
+    ["Audi A1", "is assembled in", "Brussels, Belgium"],
+    ["Audi A1", "has a", "front-engine with front-wheel-drive"],
+    ["Audi A1", "has a", "1.2 litre engine"]
+  ],
+  "488": [
+    ["Douglas R. Oberhelman", "is the key person at", "Caterpillar Inc"],
+    ["Caterpillar Inc", "was founded in", "the US"],
+    ["Caterpillar Inc", "is located in", "Illinois"],
+    ["Caterpillar Inc", "provides", "the engine power to the AIDAluna"],
+    ["AIDAluna", "is owned by", "AIDA Cruises"]
+  ],
+  "489": [
+    ["Douglas R Oberhelman", "is a key person at", "Caterpillar Inc."],
+    ["Caterpillar Inc.", "was founded in", "the United States"],
+    ["Caterpillar Inc.", "is located in", "Illinois"],
+    ["Caterpillar Inc.", "powers", "the AIDAluna"],
+    ["AIDAluna", "is owned by", "AIDA Cruises"]
+  ],
+  "490": [
+    ["Douglas R Oberhelman", "is a key person at", "Caterpillar Inc."],
+    ["Caterpillar Inc.", "was founded in", "the United States"],
+    ["Caterpillar Inc.", "is located in", "Illinois"],
+    ["Caterpillar Inc.", "provides", "the power to the AIDAluna"],
+    ["AIDAluna", "is owned by", "AIDA Cruises"]
+  ],
+  "491": [
+    ["Carnival Corporation &amp; plc", "is the parent company of", "Costa Crociere in Genoa"],
+    ["Costa Crociere", "own", "the AIDAstella"],
+    ["AIDAstella", "was built by", "Meyer Werft"],
+    ["AIDAstella", "is operated by", "AIDA Cruises"]
+  ],
+  "492": [
+    ["AIDAstella", "was built by", "Meyer Werft"],
+    ["AIDAstella", "is operated by", "the AIDA Cruise Line"],
+    ["AIDAstella", "is owned by", "Costa Crociere"],
+    ["Costa Crociere", "are located in", "Genoa"],
+    ["Costa Crociere", "have", "Carnival Corporation & plc as their parent company"]
+  ],
+  "493": [
+    ["Minotaur IV rocket", "was launched from", "the Mid-Atlantic Regional Spaceport Launch Pad 0"],
+    ["Antares rocket", "was launched from", "the Mid-Atlantic Regional Spaceport Launch Pad 0"],
+    ["Antares rocket", "was similar to", "the Delta II from the United States"],
+    ["Delta II", "was launched at", "Cape Canaveral Air Force Station"]
+  ],
+  "494": [
+    ["Mid-Atlantic Regional Spaceport Launch Pad 0", "is associated with", "the rocket, Minotaur IV"],
+    ["Mid-Atlantic Regional Spaceport Launch Pad 0", "is the launch site of", "the Antares rocket"],
+    ["Antares rocket", "is comparable to", "the United states Delta II"],
+    ["Delta II", "was launched from", "Cape Canaveral Air Force Station"]
+  ],
+  "495": [
+    ["Antares rocket", "was launched from", "the Mid-Atlantic Regional Spaceport Launch Pad 0"],
+    ["Minotaur IV rocket", "was launched from", "the Mid-Atlantic Regional Spaceport Launch Pad 0"],
+    ["Delta II", "is from", "the United States"],
+    ["Delta II", "was launched at", "Cape Canaveral Air Force Station"],
+    ["Delta II", "is comparable to", "Antares"]
+  ],
+  "496": [
+    ["Antares rocket", "was launched from", "the Mid-Atlantic Regional Spaceport Launch Pad 0"],
+    ["Mid-Atlantic Regional Spaceport Launch Pad 0", "is associated with", "the Minotaur IV rocket"],
+    ["Antares rocket", "is comparable with", "the Delta II"],
+    ["Delta II", "originated from", "the United States"],
+    ["Delta II", "was launched at", "Vandenberg Air Force Base"]
+  ],
+  "497": [
+    ["Minotaur IV rocket", "was launched from", "the Mid-Atlantic Regional Spaceport Launch Pad 0"],
+    ["Antares rocket", "was launched from", "the Mid-Atlantic Regional Spaceport Launch Pad 0"],
+    ["Antares rocket", "is comparable to", "the Delta II"],
+    ["Delta II", "originated in", "the United States"],
+    ["Delta II", "was launched from", "the Vandenberg Air Force Base"]
+  ],
+  "498": [
+    ["A-Rosa Luna", "was built on", "the Neptun Werft"],
+    ["Neptun Werft", "is located in", "Rostock, Germany"],
+    ["Germany", "capital city is", "Berlin"],
+    ["Germany", "is led by", "Joachim Gauck"]
+  ],
+  "499": [
+    ["A-Rosa Luna", "was built by", "Neptun Werft"],
+    ["Neptun Werft", "HQ is in", "Rostock, Germany"],
+    ["Berlin", "is the capital in", "Germany"],
+    ["Joachim Gauck", "is the name of one of its leaders", ""]
+  ],
+  "500": [
+    ["A-Rosa Luna", "was built by", "Neptun Werft in Rostock, Germany"],
+    ["Germany", "leader is", "Joachim Gauck"],
+    ["Berlin", "is the capital at", "Germany"]
+  ],
+  "501": [
+    ["A-Rosa Luna", "was built by", "Neptun Werft"],
+    ["Neptun Werft", "is from", "Rostock, Germany"],
+    ["Germany", "leader is", "Stanislaw Tillich"],
+    ["Germans", "are called", "the people"]
+  ],
+  "502": [
+    ["A-Rosa Luna", "was built by", "Neptun Werft"],
+    ["Neptun Werft", "is headquartered in", "Rostock, Germany"],
+    ["Stanislaw Tillich", "is a leader of", "Germany"],
+    ["Germans", "is the demonym for people who live there", ""]
+  ],
+  "503": [
+    ["Neptun Werft", "built", "the A-Rosa Luna"],
+    ["Neptun Werft", "is headquartered in", "Rostock in Germany"],
+    ["Germans", "is the demonym for people who live in", "Germany"],
+    ["Stanislaw Tillich", "is its leader", ""]
+  ],
+  "504": [
+    ["Delta II", "is from", "the United States"],
+    ["Delta II", "is comparable to", "the Antares rocket"],
+    ["Antares rocket", "was launched at", "the Mid-Atlantic Regional Spaceport Launch Pad 0"],
+    ["Mid-Atlantic Regional Spaceport Launch Pad 0", "is associated with", "the Rocket Minotaur V"]
+  ],
+  "505": [
+    ["Antares rocket", "was launched at", "the Mid-Atlantic Regional Spaceport Launch Pad 0"],
+    ["Minotaur V", "was launched at", "the Mid-Atlantic Regional Spaceport Launch Pad 0"],
+    ["Antares", "is comparable to", "the, United States origin, Delta II"]
+  ],
+  "506": [
+    ["Antares rocket", "was launched at", "the Mid-Atlantic Regional Spaceport Launch Pad 0"],
+    ["Antares rocket", "is comparable to", "the Delta II (United States)"],
+    ["Minotaur V", "was launched at", "the Mid-Atlantic Regional Spaceport Launch Pad 0"]
+  ],
+  "507": [
+    ["ALV X-1", "came from", "the U.S."],
+    ["American", "are the people of", "the U.S."],
+    ["Washington, D.C.", "is the capital of", "the U.S."],
+    ["White Americans", "are part of an ethnic group in", "the U.S."],
+    ["The Star Spangled Banner", "is the national anthem of", "the U.S."]
+  ],
+  "508": [
+    ["ALV X-1", "originated from", "the United States"],
+    ["Washington, D.C.", "is the capital of", "the United States"],
+    ["Americans", "are the inhabitants of", "the United States"],
+    ["The Star Spangled Banner", "is the anthem of", "the United States"],
+    ["White Americans", "is one of its ethnic groups", ""]
+  ],
+  "509": [
+    ["ALV X-1", "originates from", "the United States"],
+    ["Star Spangled Banner", "is the national anthem of", "the United States"],
+    ["Washington DC", "is the capital city of", "the United States"],
+    ["Americans", "are called", "the country's inhabitants"],
+    ["White Americans", "are one of the ethnic groups", ""]
+  ],
+  "510": [
+    ["11th Mississippi Infantry monument", "is located in", "the municipality of Gettysburg, Adams County, Pennsylvania"],
+    ["Adams County", "is east of", "Franklin County"],
+    ["Adams County", "is south of", "Cumberland County"],
+    ["Maryland's Carroll county", "is located to", "the southeast"]
+  ],
+  "511": [
+    ["11th Mississippi Infantry Monument", "is placed in", "the municipality of Gettysburg, Adams County, Pennsylvania"],
+    ["Adams County", "lies to the west of", "Franklin County"],
+    ["Adams County", "lies to the north of", "Cumberland County"],
+    ["Cumberland County", "is in", "Pennsylvania"],
+    ["Carroll County Maryland", "is southeast of", "Adams County"]
+  ],
+  "512": [
+    ["11th Mississippi Infantry monument", "is located in", "Gettysburg, Adams County, Pennsylvania"],
+    ["Adams County", "is located east of", "Franklin County"],
+    ["Adams County", "is located south of", "Cumberland County"],
+    ["Maryland's Carroll County", "is located to", "the southeast"]
+  ],
+  "513": [
+    ["Baku", "is the capital of", "Azerbaijan"],
+    ["Artur Rasizade", "is the Prime Minister of", "Azerbaijan"],
+    ["Artur Rasizade", "is the leader of", "Azerbaijan"],
+    ["Baku Turkish Martyrs' Memorial", "is located in", "Azerbaijan"],
+    ["National Assembly", "is the legislature of", "Azerbaijan"]
+  ],
+  "514": [
+    ["Baku", "is the capital of", "Azerbaijan"],
+    ["Prime Minister of Azerbaijan", "is the official title of", "the leader whose name is Artur Rasizade"],
+    ["Baku Turkish Martyrs' Memorial", "is located in", "Azerbaijan"],
+    ["National Assembly", "is the legislature of", "the country"]
+  ],
+  "515": [
+    ["Baku Turkish Martyrs' Memorial", "is in", "Azerbaijan"],
+    ["Baku Turkish Martyrs' Memorial", "is dedicated to", "the Ottoman Army Soldiers killed in the Battle of Baku"],
+    ["Baku Turkish Martyrs' Memorial", "was designed by", "Huseyin Butuner and Hilmi Guner"],
+    ["Baku Turkish Martyrs' Memorial", "is also known by", "the native name Türk Şehitleri Anıtı"],
+    ["Azerbaijan", "leader is", "Artur Rasizade"]
+  ],
+  "516": [
+    ["Baku Turkish Martyrs' Memorial", "native name is", "\"Türk Sehitleri Aniti\""],
+    ["Baku Turkish Martyrs' Memorial", "is in", "Azerbaijan"],
+    ["Baku Turkish Martyrs' Memorial", "has been dedicated to", "Ottoman Army soldiers killed in the Battle of Baku"],
+    ["Baku Turkish Martyrs' Memorial", "was designed by", "Hüseyin Bütüner and Hilmi Güner"],
+    ["Artur Rasizade", "is the leader of", "Azerbaijan"]
+  ],
+  "517": [
+    ["Baku Turkish Martyrs' Memorial", "is in", "Azerbaijan"],
+    ["Baku Turkish Martyrs' Memorial", "is dedicated to", "the Ottoman Army soldiers killed in the Battle of Baku"],
+    ["Baku Turkish Martyrs' Memorial", "native name is", "\"Türk Sehitleri Aniti\""],
+    ["Baku Turkish Martyrs' Memorial", "was designed by", "Hüseyin Bütüner and Hilmi Güner"],
+    ["Artur Rasizade", "is the leader of", "Turkey"]
+  ],
+  "518": [
+    ["Huseyin Butuner and Hilmi Guner", "designed", "the red granite and white marble Baku Turkish Martyrs memorial in Azerbaijan"],
+    ["Baku Turkish Martyrs memorial", "is also known as", "Turk Sehitleri Aniti"],
+    ["Baku Turkish Martyrs memorial", "is dedicated to", "the soldiers of the Ottoman army killed in the Battle of Baku"]
+  ],
+  "519": [
+    ["Baku Turkish Martyrs' Memorial", "is located in", "Azerbaijan"],
+    ["Baku Turkish Martyrs' Memorial", "is known as", "\"Türk Sehitleri Aniti\""],
+    ["Baku Turkish Martyrs' Memorial", "is dedicated to", "Ottoman Army soldiers who were killed in the Battle of Baku"],
+    ["Baku Turkish Martyrs' Memorial", "was designed by", "Hüseyin Bütüner and Hilmi Güner"],
+    ["Baku Turkish Martyrs' Memorial", "was constructed out of", "red granite and white marble"]
+  ],
+  "520": [
+    ["Baku Turkish Martyrs' Memorial", "is made of", "red granite and white marble"],
+    ["Baku Turkish Martyrs' Memorial", "is dedicated to", "the Ottoman Army soldiers killed in the Battle of Baku"],
+    ["Baku Turkish Martyrs' Memorial", "was designed by", "Huseyin Butuner and Hilmi Guner"],
+    ["Baku Turkish Martyrs' Memorial", "is known in Turkish as", "Turk Sehitleri Aniti"],
+    ["Baku Turkish Martyrs' Memorial", "can be found in", "Azerbaijan"]
+  ],
+  "521": [
+    ["Baku Turkish Martyrs' Memorial", "was designed by", "Huseyin Butuner and Hilmi Guner"],
+    ["Baku Turkish Martyrs' Memorial", "is made of", "red granite and white marble"],
+    ["Baku Turkish Martyrs' Memorial", "is dedicated to", "the Ottoman Army Soldiers killed in the Battle of Baku"],
+    ["Baku Turkish Martyrs' Memorial", "is found in", "Azerbaijan"],
+    ["Azerbaijan", "leader is", "the Prime Minister"]
+  ],
+  "522": [
+    ["Baku Turkish Martyrs' Memorial", "is in", "Azerbaijan"],
+    ["Baku Turkish Martyrs' Memorial", "is dedicated to", "the Ottoman Army soldiers killed in the Battle of Baku"],
+    ["Baku Turkish Martyrs' Memorial", "was designed by", "Hüseyin Bütüner and Hilmi Güner"],
+    ["Baku Turkish Martyrs' Memorial", "is built using", "Red granite and white marble"],
+    ["Azerbaijan", "leader is", "the Prime Minister of Azerbaijan"]
+  ],
+  "523": [
+    ["Baku Turkish Martyrs' Memorial", "was designed by", "Hüseyin Bütüner and Hilmi Güner"],
+    ["Baku Turkish Martyrs' Memorial", "was constructed using", "red granite and white marble"],
+    ["Baku Turkish Martyrs' Memorial", "is located in", "Baku, Azerbaijan"],
+    ["Azerbaijan", "is led by", "a Prime Minister"],
+    ["Baku Turkish Martyrs' Memorial", "is dedicated to", "the Ottoman Army soldiers killed in the Battle of Baku"]
+  ],
+  "524": [
+    ["Abdul Taib Mahmud", "was born in", "the Kingdom of Sarawak"],
+    ["Abdul Taib Mahmud", "residence was", "Demak Jaya, Jalan Bako, Kuching, Sarawak"],
+    ["Abdul Taib Mahmud", "was a member of", "the Parti Pesaka Bumiputera Bersatu"],
+    ["Abdul Taib Mahmud", "was succeeded by", "Adenan Satem"],
+    ["Adenan Satem", "had attended", "the University of Adelaide"]
+  ],
+  "525": [
+    ["Abdul Taib Mahmud", "was born in", "the Kingdom of Sarawak"],
+    ["Abdul Taib Mahmud", "lives in", "Demak Jaya, Jalan Bako, Kuching, Sarawak"],
+    ["Abdul Taib Mahmud", "is a member of", "the Parti Pesaka Bumiputera Bersatu"],
+    ["Abdul Taib Mahmud", "was succeeded by", "the University of Adelaide educated Adenan Satem"]
+  ],
+  "526": [
+    ["Abdul Taib Mahmud", "was born in", "the Kingdom of Sarawak"],
+    ["Abdul Taib Mahmud", "lives in", "Demak Jaya, Jalan Bako, Kuching, Sarawak"],
+    ["Abdul Taib Mahmud", "is a member of", "the Parti Pesaka Bumiputera Bersatu"],
+    ["Abdul Taib Mahmud", "was succeeded by", "Adenan Satem"],
+    ["Adenan Satem", "studied at", "the University of Adelaide"]
+  ],
+  "527": [
+    ["Abdulsalami Abubakar", "served in", "the Nigerian Army"],
+    ["Abdulsalami Abubakar", "was in office whilst", "Mike Akhigbe (the successor to Oladipo Diya) was Vice President"],
+    ["Abdulsalami Abubakar", "career ended on", "29 May 1999"],
+    ["Abdulsalami Abubakar", "was succeeded by", "Olusegun Obasanjo"]
+  ],
+  "528": [
+    ["Abdulsalami Abubakar", "served in", "the Nigerian Army"],
+    ["Abdulsalami Abubakar", "ended his career on", "May 29th, 1999"],
+    ["Abdulsalami Abubakar", "served in office while", "Mike Akhigbe was the Vice President"],
+    ["Mike Akhigbe", "succeeded", "Oladipo Diya"],
+    ["Olusegun Obasanjo", "took over from", "Abubaka when he left office"]
+  ],
+  "529": [
+    ["Olusegun Obasanjo", "succeeded", "Abdulsalami Abubakar"],
+    ["Abdulsalami Abubakar", "served in", "the Nigerian Army"],
+    ["Abdulsalami Abubakar", "ended his career on", "1999-05-2"],
+    ["Abdulsalami Abubakar", "was in office while", "Mike Akhigbe, who succeeded Oladipo Diya, was Vice President"]
+  ],
+  "530": [
+    ["Abraham A Ribicoff", "was a", "US national"],
+    ["Abraham A Ribicoff", "was born in", "Connecticut"],
+    ["Abraham A Ribicoff", "died in", "New York City"],
+    ["Abraham A Ribicoff", "was a member of", "the Democratic Party in the U.S.A."],
+    ["Abraham A Ribicoff", "worked as", "the United States Secretary of Health, Education, and Welfare"]
+  ],
+  "531": [
+    ["Abraham A. Ribicoff", "was born in", "Connecticut, United States"],
+    ["Abraham A. Ribicoff", "worked as", "the United States Secretary of Health, Education, and Welfare"],
+    ["Abraham A. Ribicoff", "was a member of", "the Democratic Party in the United States"],
+    ["Abraham A. Ribicoff", "died in", "New York City"]
+  ],
+  "532": [
+    ["Abraham A. Ribicoff", "was born in", "Connecticut, US"],
+    ["Abraham A. Ribicoff", "died in", "New York City"],
+    ["Abraham A. Ribicoff", "was a member of", "the Democrat Party"],
+    ["Abraham A. Ribicoff", "worked as", "the United States Secretary of Health, Education and Welfare"]
+  ],
+  "533": [
+    ["Abraham A. Ribicoff", "was an", "American"],
+    ["Abraham A. Ribicoff", "died in", "the United States"],
+    ["Abraham A. Ribicoff", "was married to", "Casey Ribicoff"],
+    ["Casey Ribicoff", "was born in", "Chicago"],
+    ["Native Americans", "are one of several ethnic groups in", "the U.S."]
+  ],
+  "534": [
+    ["Abraham A Ribicoff", "was born in", "the United States"],
+    ["Abraham A Ribicoff", "died in", "the United States"],
+    ["Native Americans", "are one of the ethnic groups in", "the United States"],
+    ["Abraham A Ribicoff", "was married to", "Casey Ribicoff"],
+    ["Casey Ribicoff", "was born in", "Chicago"]
+  ],
+  "535": [
+    ["Native Americans", "are the ethnic group in", "the United States"],
+    ["Abraham A. Ribicoff", "was a national of", "the United States"],
+    ["Casey Ribicoff", "was born in", "Chicago"],
+    ["Casey Ribicoff", "was the wife of", "Abraham A. Ribcoff"],
+    ["Abraham A. Ribcoff", "died in", "the United States"]
+  ],
+  "536": [
+    ["Adam Holloway", "was born in", "Kent"],
+    ["Adam Holloway", "attended", "Magdalene College in Cambridge"],
+    ["Adam Holloway", "began his career on", "5 May 2005"],
+    ["Adam Holloway", "served in", "the Grenadier Guards"],
+    ["Adam Holloway", "became", "a member of parliament for Gravesham"]
+  ],
+  "537": [
+    ["Adam Holloway", "was born in", "Kent"],
+    ["Adam Holloway", "is an alum of", "Magdalene College Cambridge"],
+    ["Adam Holloway", "is a member of", "Gravesham Parliament"],
+    ["Adam Holloway", "was a", "Grenadier Guard"],
+    ["Adam Holloway", "began his career", "05/05/2005"]
+  ],
+  "538": [
+    ["Adam Holloway", "was born in", "Kent"],
+    ["Adam Holloway", "began his career on", "the 5th May 2005"],
+    ["Adam Holloway", "served in", "the Grenadier guards"],
+    ["Adam Holloway", "was a", "MP for Gravesham"],
+    ["Adam Holloway", "alma mater is", "Magdalene College, Cambridge"]
+  ],
+  "539": [
+    ["Agnes Kant", "is a national of", "the Netherlands"],
+    ["Netherlands", "is led by", "Mark Rutte"],
+    ["Agnes Kant", "worked at", "the House of Representatives"],
+    ["Agnes Kant", "is a member of", "the Socialist Party"],
+    ["Socialist Party", "is led by", "Emile Roemer"]
+  ],
+  "540": [
+    ["Agnes Kant", "is from", "the Netherlands"],
+    ["Mark Rutte", "is the leader of", "the Netherlands"],
+    ["Agnes Kant", "worked at", "the House of Representatives in the Netherlands"],
+    ["Agnes Kant", "is a member of", "the Netherlands Socialist Party"],
+    ["Emile Roemer", "is the leader of", "the Netherlands Socialist Party"]
+  ],
+  "541": [
+    ["Agnes Kant", "is from", "the Netherlands"],
+    ["Mark Rutte", "is the leader of", "the Netherlands"],
+    ["Agnes Kant", "worked as", "a Parliamentary group leader"],
+    ["Agnes Kant", "is a member of", "the Netherlands Socialist Party"],
+    ["Emile Roemer", "is the leader of", "the Netherlands Socialist Party"]
+  ],
+  "542": [
+    ["Agnes Kant", "is from", "Netherlands"],
+    ["Agnes Kant", "is a member of", "the country's Socialist Party"],
+    ["Socialist Party", "is led by", "Emile Roemer"],
+    ["Agnes Kant", "was a", "Parliamentary group leader"],
+    ["Netherlands", "is led by", "Mark Rutte"]
+  ],
+  "543": [
+    ["Agnes Kant", "is a national of", "the Netherlands"],
+    ["Netherlands", "is led by", "Mark Rutte"],
+    ["Agnes Kant", "is a member of", "the Socialist Party"],
+    ["Socialist Party", "uses the colour", "red"],
+    ["Socialist Party", "is led by", "Emile Roemer"]
+  ],
+  "544": [
+    ["Socialist Party", "is associated with the colour", "red"],
+    ["Socialist Party", "of The Netherlands", "is led by Emile Roemer"],
+    ["Agnes Kant", "is a member of", "the Socialist Party in the Netherlands"],
+    ["Agnes Kant", "nationality is", "Netherlands"],
+    ["Netherlands", "leader is", "Mark Rutte"]
+  ],
+  "545": [
+    ["Agnes Kant", "is a member of", "the Socialist Party in the Netherlands"],
+    ["Socialist Party", "is led by", "Emile Roemer"],
+    ["Socialist Party", "makes use of", "the colour red"],
+    ["Agnes Kant", "is a national of", "the Netherlands"],
+    ["Netherlands", "is led by", "Mark Rutte"]
+  ],
+  "546": [
+    ["Albert B White", "was married to", "Agnes Ward White"],
+    ["Agnes Ward White", "was born in", "Marietta, Ohio"],
+    ["Albert B White", "died in", "Parkersburg, West Virginia"],
+    ["Albert B White", "was succeeded by", "William M O Dawson"],
+    ["William M O Dawson", "birthplace was", "Bloomington Maryland"]
+  ],
+  "547": [
+    ["Agnes Ward White", "was born in", "Marietta, Ohio"],
+    ["Agnes Ward White", "was married to", "Albert B. White"],
+    ["Albert B. White", "died in", "Parkersburg, West Virginia"],
+    ["Albert B. White", "was succeeded by", "William M O Dawson"],
+    ["William M. O. Dawson", "birthplace was", "Bloomington Maryland"]
+  ],
+  "548": [
+    ["Agnes Ward White", "was born in", "Marietta, Ohio"],
+    ["Agnes Ward White", "became the spouse of", "Albert B White"],
+    ["Albert B White", "died at", "Parkersburg, West Virginia"],
+    ["Albert B White", "had been succeeded by", "William M O Dawson"],
+    ["William M O Dawson", "birthplace was", "Bloomington Maryland"]
+  ],
+  "549": [
+    ["Alberto Teisaire", "was from", "Argentina"],
+    ["Spanish", "is spoken in", "Argentina"],
+    ["Alberto Teisaire", "died in", "Buenos Aires"],
+    ["Buenos Aires", "leader is", "Gabriela Michetti"],
+    ["Buenos Aires", "governing body is", "the Buenos Aires City Legislature"]
+  ],
+  "550": [
+    ["Argentina", "language is", "Spanish"],
+    ["Alberto Teisaire", "was Argentinian", ""],
+    ["Alberto Teisaire", "died in", "Buenos Aires"],
+    ["Buenos Aires", "is led by", "Gabriela Michetti"],
+    ["Buenos Aires", "is governed by", "the Buenos Aires City Legislature"]
+  ],
+  "551": [
+    ["Alberto Teisaire", "was", "Argentinian"],
+    ["Alberto Teisaire", "died in", "Buenos Aires"],
+    ["Buenos Aires", "governing body is", "the Buenos Aires City Legislature"],
+    ["Buenos Aires", "is led by", "Gabriela Michetti"],
+    ["Argentina", "language is", "Spanish"]
+  ],
+  "552": [
+    ["Buenos Aires", "governing body is", "the Buenos Aires City Legislature"],
+    ["Buenos Aires", "is led by", "Horacio Rodríguez Larreta"],
+    ["Buenos Aires", "is the death place of", "the Alberto Teisaire"],
+    ["Alberto Teisaire", "was from", "Argentina"],
+    ["Argentina", "language spoken is", "Spanish"]
+  ],
+  "553": [
+    ["Spanish", "is spoken in", "Argentina"],
+    ["Argentina", "is the country", "Alberto Teisaire came from"],
+    ["Alberto Teisaire", "died in", "Buenos Aires"],
+    ["Buenos Aires", "governing body is", "the Buenos Aires City Legislature"],
+    ["Buenos Aires", "leader is", "Horacio Rodríguez Larreta"]
+  ],
+  "554": [
+    ["Alberto Teisaire", "was", "Argentinian"],
+    ["Alberto Teisaire", "died in", "Buenos Aires"],
+    ["Spanish", "is spoken in", "Buenos Aires"],
+    ["Buenos Aires", "leader is", "Horacio Rodríguez Larreta"],
+    ["Buenos Aires", "is governed by", "the Buenos Aires City Legislature"]
+  ],
+  "555": [
+    ["Alberto Teisaire", "was born on", "20th May 1891 in Mendoza, Argentina"],
+    ["Alberto Teisaire", "was a", "Rear Admiral in the Argentine Navy"],
+    ["Alberto Teisaire", "worked as", "a Provisional President of the Argentine Senate"],
+    ["Alberto Teisaire", "was succeeded by", "Isaac Rojas"]
+  ],
+  "556": [
+    ["Alberto Teisaire", "was born in", "Mendoza, Argentina on May 20th 1891"],
+    ["Alberto Teisaire", "served as", "a Rear Admiral in the Argentine Navy"],
+    ["Alberto Teisaire", "worked as", "the Provisional President of the Argentine Senate"],
+    ["Alberto Teisaire", "was succeeded by", "Isaac Rojas"]
+  ],
+  "557": [
+    ["Alberto Teisaire", "was born in", "Mendoza, Argentina on May 20th, 1891"],
+    ["Alberto Teisaire", "was a", "Rear Admiral in the Argentine Navy"],
+    ["Alberto Teisaire", "worked as", "the Provisional President of the Argentine Senate"],
+    ["Alberto Teisaire", "was succeeded by", "Isaac Rojas"]
+  ],
+  "558": [
+    ["Burlington", "is the largest city in", "Vermont"],
+    ["Alvah Sabin", "is from", "Vermont"],
+    ["Alvah Sabin", "started active service on", "1853-03-04"],
+    ["Alvah Sabin", "represented", "Vermont's 3rd Congressional District"],
+    ["Alvah Sabin", "died in", "Sycamore, Illinois"]
+  ],
+  "559": [
+    ["Alvah Sabin", "was from", "Vermont"],
+    ["Alvah Sabin", "represented", "Vermont's 3rd congressional district"],
+    ["Burlington", "is the largest city in", "Vermont"],
+    ["Alvah Sabin", "started active service on", "03/04/1853"],
+    ["Alvah Sabin", "died in", "Sycamore, Illinois"]
+  ],
+  "560": [
+    ["Alvah Sabin", "represented", "Vermont's 3rd Congressional District"],
+    ["Alvah Sabin", "started active service on", "1853-03-04"],
+    ["Alvah Sabin", "state was", "Vermont"],
+    ["Burlington", "is the largest city of", "Vermont"],
+    ["Alvah Sabin", "died in", "Sycamore, Illinois"]
+  ],
+  "561": [
+    ["Alvah Sabin", "was born in", "Georgia, Vermont"],
+    ["Alvah Sabin", "worked as", "the state's secretary"],
+    ["Alvah Sabin", "represented", "Vermont's 3rd Congressional District"],
+    ["Burlington", "is Vermont's largest city", ""]
+  ],
+  "562": [
+    ["Alvah Sabin", "was born in", "Georgia, Vermont"],
+    ["Alvah Sabin", "was", "Vermont Secretary of State and 3rd Congressional District representative"],
+    ["Burlington", "is the largest city in Vermont", ""]
+  ],
+  "563": [
+    ["Alvah Sabin", "was born in", "Georgia, Vermont"],
+    ["Alvah Sabin", "represented", "Vermont's 3rd Congressional District"],
+    ["Alvah Sabin", "was from", "Vermont"],
+    ["Burlington", "is the largest city of", "Vermont"],
+    ["Alvah Sabin", "worked as", "the Secretary of State of Vermont"]
+  ],
+  "564": [
+    ["Alvah Sabin", "represented", "Vermont"],
+    ["Alvah Sabin", "was a member of", "the Whig Party in the United States"],
+    ["Burlington", "is the largest city in", "Vermont"],
+    ["Alvah Sabin", "died in", "Sycamore, Illinois"],
+    ["Henry Clay", "was the leader of", "the Whig Party"]
+  ],
+  "565": [
+    ["Alvah Sabin", "belongs to", "the Whig Party of the United States"],
+    ["Whig Party of the United States", "is led by", "Henry Clay"],
+    ["Alvah Sabin", "represented", "Vermont"],
+    ["Burlington", "is the largest city in", "Vermont"],
+    ["Alvah Sabin", "died in", "Sycamore, Illinois"]
+  ],
+  "566": [
+    ["Burlington", "is the largest city in", "Vermont"],
+    ["Vermont", "is the state", "Alvah Sabin represented"],
+    ["Alvah Sabin", "was a member of", "the Whig Party of the United States"],
+    ["Whig Party of the United States", "is led by", "Henry Clay"],
+    ["Alvah Sabin", "died in", "Sycamore, Illinois"]
+  ],
+  "567": [
+    ["Burlington", "is the largest city in", "Vermont"],
+    ["Vermont", "is the state", "Alvah Sabin represented"],
+    ["Alvah Sabin", "died in", "Sycamore, Illinois"],
+    ["Alvah Sabin", "was a member of", "the United States Whig Party"],
+    ["United States Whig Party", "is led by", "Daniel Webster"]
+  ],
+  "568": [
+    ["Vermont", "largest city is", "Burlington"],
+    ["Alvah Sabin", "represented", "Vermont"],
+    ["Alvah Sabin", "died in", "Sycamore, Illinois"],
+    ["Alvah Sabin", "belonged to", "the Whig Party (United States)"],
+    ["Whig Party (United States)", "is led by", "Daniel Webster"]
+  ],
+  "569": [
+    ["Burlington", "is the largest city in", "Vermont"],
+    ["Vermont", "is the state that", "Alvah Sabin represented"],
+    ["Alvah Sabin", "was a member of", "the United States Whig Party"],
+    ["United States Whig Party", "is led by", "Daniel Webster"],
+    ["Alvah Sabin", "died in", "Sycamore, Illinois"]
+  ],
+  "570": [
+    ["Adonis Georgiadis", "was succeeded by", "Makis Voridis"],
+    ["Adonis Georgiadis", "was in office while", "Antonis Samaras was Prime Minister"],
+    ["Antonis Samaras", "was born in", "Athens"],
+    ["Antonis Samaras", "was Prime Minister", ""],
+    ["Antonis Samaras", "had the deputy", "Evangelos Venizelos"],
+    ["Antonis Samaras", "was in office while", "Konstantinos Mitsotakis was Prime Minister"]
+  ],
+  "571": [
+    ["Antonis Samaras", "was born in", "Athens"],
+    ["Antonis Samaras", "was", "Prime Minister"],
+    ["Antonis Samaras", "served with", "Adonis Georgiadis"],
+    ["Antonis Samaras", "deputy is", "Evangelos Venizelos"],
+    ["Antonis Samaras", "served also when", "K. Mitsotakis was Prime Minister"],
+    ["Adonis Georgiadis", "was succeeded by", "Makis Voridis"]
+  ],
+  "572": [
+    ["Adonis Georgiadis", "was in office while", "Athens-born Antonis Samaras was Prime Minister"],
+    ["Antonis Samaras", "was in office while", "Konstantinos Mitsotakis was Prime Minister"],
+    ["Antonis Samaras", "deputy is", "Evangelos Venizelos"],
+    ["Adonis Georgiadis", "was succeeded by", "Makis Voridis"]
+  ],
+  "573": [
+    ["Alfons Gorbach", "was born in", "Imst in Austria"],
+    ["Alfons Gorbach", "died in", "Graz"],
+    ["Austrian German", "is the language of", "Austria"],
+    ["Doris Bures", "is the leader of", "Austria"]
+  ],
+  "574": [
+    ["Alfons Gorbach", "was born in", "Imst, Austria"],
+    ["Alfons Gorbach", "died in", "Graz"],
+    ["Austrian German", "is spoken in", "Austria"],
+    ["Austria", "is led by", "Doris Bures"]
+  ],
+  "575": [
+    ["Austrian German", "is the language in", "Austria"],
+    ["Austria", "leader is", "Doris Bures"],
+    ["Alfons Gorbach", "was born in", "Imst, Austria"],
+    ["Alfons Gorbach", "died in", "Graz"]
+  ],
+  "576": [
+    ["Ab Klink", "is a national of", "the Netherlands"],
+    ["Euro", "is the currency in", "the Netherlands"],
+    ["Mark Rutte", "is the leader of", "the Netherlands"],
+    ["Ab Klink", "was born in", "Stellendam"],
+    ["Ab Klink", "belongs to", "the Christian Democratic Appeal party"]
+  ],
+  "577": [
+    ["Ab Klink", "was born in", "Stellendam, Netherlands"],
+    ["Ab Klink", "belongs to", "the Christian Democratic Appeal party"],
+    ["Netherlands", "leader is", "Mark Rutte"],
+    ["Netherlands", "currency is", "the euro"]
+  ],
+  "578": [
+    ["Gordon Marsden", "is the leader of", "Blackpool"],
+    ["AFC Blackpool", "are located in", "Blackpool"],
+    ["AFC Blackpool", "manager is", "Stuart Parker"],
+    ["Stuart Parker", "is a member of", "Chesterfield FC"],
+    ["Stuart Parker", "plays for", "KV Mechelen"]
+  ],
+  "579": [
+    ["Gordon Marsden", "is the leader of", "Blackpool"],
+    ["AFC Blackpool", "is located in", "Blackpool"],
+    ["AFC Blackpool", "is managed by", "Stuart Parker"],
+    ["Stuart Parker", "is part of", "the KV Mechelen club"],
+    ["Stuart Parker", "is a member of", "Chesterfield FC"]
+  ],
+  "580": [
+    ["Olympiacos F.C.", "were past champions in", "the Greece Superleague"],
+    ["AEK Athens FC", "compete in", "the Greece Superleague"],
+    ["AEK Athens FC", "manager is", "Gus Poyet"],
+    ["Gus Poyet", "club is", "Real Zaragoza"],
+    ["Gus Poyet", "played for", "Chelsea F.C."]
+  ],
+  "581": [
+    ["Gus Poyet", "is the manager of", "AEK Athens F.C."],
+    ["AEK Athens F.C.", "play in", "the Superleague of Greece"],
+    ["Superleague of Greece", "has Olympiacos FC as previous champions", ""],
+    ["Gus Poyet", "previously played for", "Chelsea FC"],
+    ["Gus Poyet", "is in", "the Real Zaragoza club"]
+  ],
+  "582": [
+    ["Olympiacos FC", "are previous champions of", "the Superleague Greece"],
+    ["AEK Athens FC", "compete in", "the league"],
+    ["AEK Athens FC", "are managed by", "Gus Poyet"],
+    ["Gus Poyet", "previously played for", "Chelsea FC"],
+    ["Gus Poyet", "club is", "Real Zaragoza"]
+  ],
+  "583": [
+    ["Estádio Municipal Coaracy da Mata Fonseca", "is the name of", "the ground of Agremiação Sportiva Arapiraquense"],
+    ["Estádio Municipal Coaracy da Mata Fonseca", "is located in", "Alagoas"],
+    ["Agremiação Sportiva Arapiraquense", "play in", "the Campeonato Brasileiro Série C league from Brazil"],
+    ["Vila Nova Futebol Clube", "were champions at", "the Série C"]
+  ],
+  "584": [
+    ["Vila Nova Futebol Clube", "have been champions of", "Campeonato Brasileiro Série C. from Brazil"],
+    ["Agremiação Sportiva Arapiraquense", "play in", "Campeonato Brasileiro Série C."],
+    ["Agremiação Sportiva Arapiraquense", "have their ground at", "Estádio Municipal Coaracy da Mata Fonseca"],
+    ["Estádio Municipal Coaracy da Mata Fonseca", "is located in", "Alagoas"]
+  ],
+  "585": [
+    ["Estádio Municipal Coaracy da Mata Fonseca", "is located in", "Alagoas"],
+    ["Estádio Municipal Coaracy da Mata Fonseca", "is the name of", "the ground of Agremiação Sportiva Arapiraquense"],
+    ["Agremiação Sportiva Arapiraquense", "play in", "the Campeonato Brasileiro Série C league"],
+    ["Campeonato Brasileiro Série C league", "is from", "Brazil"],
+    ["Vila Nova Futebol Clube", "have been champions of", "Campeonato Brasileiro Série C"]
+  ],
+  "586": [
+    ["Vila Nova Futebol Clube", "have been champions of", "Campeonato Brasileiro Série C. league in Brazil"],
+    ["Agremiação Sportiva Arapiraquense", "play in", "the league"],
+    ["Agremiação Sportiva Arapiraquense", "have their home ground at", "Estádio Municipal Coaracy da Mata Fonseca in Arapiraca"]
+  ],
+  "587": [
+    ["Agremiação Sportiva Arapiraquense", "play in", "the Campeonato Brasileiro Série C league (in Brazil)"],
+    ["Campeonato Brasileiro Série C", "has been won by", "Vila Nova Futebol Clube"],
+    ["Agremiacao Sportiva Arapiraquense", "ground is", "the Estadio Municipal Coaracy da Mata Fonseca"],
+    ["Estadio Municipal Coaracy da Mata Fonseca", "is located in", "Arapiraca"]
+  ],
+  "588": [
+    ["Agremiação Sportiva Arapiraquense", "play in", "the Campeonato Brasileiro Série C league in Brazil"],
+    ["Vila Nova Futebol Clube", "are the champions of", "Serie C"],
+    ["Estádio Municipal Coaracy da Mata Fonseca (Arapiraca)", "is the name of", "the ground of Agremiação Sportiva Arapiraquense"]
+  ],
+  "589": [
+    ["Vila Nova Futebol Clube", "were champions at", "the Campeonato Brasileiro Série C. in Brazil"],
+    ["Agremiação Sportiva Arapiraquense", "play in", "the league"],
+    ["Agremiação Sportiva Arapiraquense", "have", "17000 members"],
+    ["Agremiação Sportiva Arapiraquense", "are managed by", "Vica"]
+  ],
+  "590": [
+    ["Agremiação Sportiva Arapiraquense", "play in", "the Campeonato Brasileiro Série C league in Brazil"],
+    ["Campeonato Brasileiro Série C", "has been won by", "Vila Nova Futebol Clube"],
+    ["Agremiacao Sportiva Arapiraquense", "ground can hold", "17000 fans"],
+    ["Agremiacao Sportiva Arapiraquense", "is managed by", "Vica"]
+  ],
+  "591": [
+    ["Vila Nova Futebol Clube", "have been champions of", "Campeonato Brasileiro Série C"],
+    ["Campeonato Brasileiro Série C", "is from", "Brazil"],
+    ["Agremiação Sportiva Arapiraquense", "play in", "this league"],
+    ["Agremiação Sportiva Arapiraquense", "are managed by", "Vica"],
+    ["Agremiação Sportiva Arapiraquense", "have", "17000 members"]
+  ],
+  "592": [
+    ["Accademia di Architettura di Mendrisio", "is in", "Mendrisio, Switzerland"],
+    ["Accademia di Architettura di Mendrisio", "had", "100 academic staff"],
+    ["Accademia di Architettura di Mendrisio", "had", "600 students"],
+    ["Accademia di Architettura di Mendrisio", "dean is", "Mario Botta"]
+  ],
+  "593": [
+    ["Accademia di Architettura di Mendrisio", "is in", "the city of Mendrisio, Switzerland"],
+    ["Mario Botta", "is the Dean of", "the Accademia di Architettura di Mendrisio"],
+    ["Accademia di Architettura di Mendrisio", "has", "600 students"],
+    ["Accademia di Architettura di Mendrisio", "has", "100 academic staff"]
+  ],
+  "594": [
+    ["Accademia di Architettura di Mendrisio", "is in", "Switzerland"],
+    ["Accademia di Architettura di Mendrisio", "has a staff of", "100"],
+    ["Accademia di Architettura di Mendrisio", "has a student population of", "600"],
+    ["Mario Botta", "is the dean", ""]
+  ],
+  "595": [
+    ["Accademia di Architettura di Mendrisio", "is located in", "Ticino, Switzerland"],
+    ["Accademia di Architettura di Mendrisio", "was established in", "1996"],
+    ["Accademia di Architettura di Mendrisio", "has", "600 students"],
+    ["Johann Schneider-Ammann", "is the leader of", "Switzerland"]
+  ],
+  "596": [
+    ["Johann Schneider-Ammann", "is the leader of", "Switzerland"],
+    ["Switzerland", "is the location of", "the Accademia di Architettura di Mendrisio in Ticino"],
+    ["Accademia di Architettura di Mendrisio", "was established in", "1996"],
+    ["Accademia di Architettura di Mendrisio", "has", "600 students"]
+  ],
+  "597": [
+    ["Accademia di Architettura di Mendrisio", "has", "600 students"],
+    ["Accademia di Architettura di Mendrisio", "was founded in", "1996"],
+    ["Accademia di Architettura di Mendrisio", "is in", "Ticino, Switzerland"],
+    ["Johann Schneider-Ammann", "is the leader of", "Switzerland"]
+  ],
+  "598": [
+    ["Acharya Institute of Technology", "is affiliated with", "the Visvesvaraya Technological University"],
+    ["Acharya Institute of Technology", "is located in", "Bangalore, Karnataka"],
+    ["Telangana", "is to its northeast", ""],
+    ["Arabian Sea", "is to its west", ""]
+  ],
+  "599": [
+    ["Acharya Institute of Technology", "is in", "Bangalore, Karnataka"],
+    ["Acharya Institute of Technology", "is east of", "the Arabian Sea"],
+    ["Acharya Institute of Technology", "is southwest of", "Telangana"],
+    ["Acharya Institute of Technology", "is affiliated with", "the Visvesvaraya Technological University"]
+  ],
+  "600": [
+    ["Karnataka state", "has", "the Arabian Sea to its west"],
+    ["Karnataka state", "has", "Telangana to its northwest"],
+    ["Karnataka state", "is home to", "the Acharya Institute of Technology"],
+    ["Acharya Institute of Technology", "is located in", "the city of Bangalore"],
+    ["Acharya Institute of Technology", "is affiliated with", "the Visvesvaraya Technological University"]
+  ],
+  "601": [
+    ["Acharya Institute of Technology", "is located at", "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, India"],
+    ["Acharya Institute of Technology", "was established in", "2000"],
+    ["Acharya Institute of Technology", "has", "700 Postgraduate Students"]
+  ],
+  "602": [
+    ["Acharya Institute of Technology", "was established in", "2000"],
+    ["Acharya Institute of Technology", "is based in", "the city of Bangalore in India"],
+    ["Acharya Institute of Technology", "currently has", "700 Postgraduate Students"],
+    ["Acharya Institute of Technology", "exact location is", "in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090"]
+  ],
+  "603": [
+    ["Acharya Institute of Technology", "was founded by", "Kempe Gowda I"],
+    ["Acharya Institute of Technology", "is in", "Bangalore in the state of Karnataka"],
+    ["Karnataka", "has", "the Arabian Sea to its west"],
+    ["Acharya Institute of Technology", "is affiliated with", "Visvesvaraya Technological University"]
+  ],
+  "604": [
+    ["Acharya Institute of Technology", "is located in", "Bangalore, Karnataka"],
+    ["Bangalore, Karnataka", "is east of", "the Arabian Sea"],
+    ["Acharya Institute of Technology", "is affiliated with", "Visvesvaraya Technological University"],
+    ["Bangalore", "was founded by", "Kempe Gowda"]
+  ],
+  "605": [
+    ["1 Decembrie 1918 University", "is in", "Alba Iulia, Romania"],
+    ["Romania", "capital is", "Bucharest"],
+    ["Romania", "prime minister is", "Klaus Iohannis"]
+  ],
+  "606": [
+    ["1 Decembrie 1918 University", "is in", "Alba Iulia, Romania"],
+    ["Bucharest", "is the capital of", "Romania"],
+    ["Klaus Iohannis", "is the country's Prime Minister", ""]
+  ],
+  "607": [
+    ["1 Decembrie 1918 University", "is located in", "the city of Alba Iulia in Romania"],
+    ["Bucharest", "is the capital of", "Romania"],
+    ["Klaus Iohannis", "is the Prime Minister of", "Romania"]
+  ],
+  "608": [
+    ["School of Business and Social Sciences at Aarhus University", "is in", "Denmark"],
+    ["School of Business and Social Sciences at Aarhus University", "is affiliated with", "the European University Association"],
+    ["School of Business and Social Sciences at Aarhus University", "has", "16,000 students"],
+    ["School of Business and Social Sciences at Aarhus University", "has", "737 employees"],
+    ["School of Business and Social Sciences at Aarhus University", "was established in", "1928"]
+  ],
+  "609": [
+    ["School of Business and Social Sciences at the Aarhus University", "is in", "Denmark"],
+    ["School of Business and Social Sciences at the Aarhus University", "was established in", "1928"],
+    ["School of Business and Social Sciences at the Aarhus University", "is affiliated with", "the European University Association"],
+    ["School of Business and Social Sciences at the Aarhus University", "has a staff compliment of", "737"],
+    ["School of Business and Social Sciences at the Aarhus University", "has", "16000 students attending the university currently"]
+  ],
+  "610": [
+    ["School of Business and Social Sciences at the Aarhus University", "was established in", "Denmark in 1928"],
+    ["School of Business and Social Sciences", "is affiliated with", "the European University Association"],
+    ["School of Business and Social Sciences", "has", "16,000 students"],
+    ["School of Business and Social Sciences", "has", "737 academic staff"]
+  ],
+  "611": [
+    ["Faber and Faber", "are the publishers of", "The Secret Scripture"],
+    ["The Secret Scripture", "is a sequel to", "A Long Long Way"],
+    ["A Long Long Way", "comes from", "Ireland"],
+    ["Ireland", "is located in", "Europe"],
+    ["Ireland", "has an ethnic group of", "white people"]
+  ],
+  "612": [
+    ["Ireland", "is situated within", "Europe"],
+    ["white people", "are an ethnic group in", "Ireland"],
+    ["A Long Long Way", "was written in", "Ireland"],
+    ["A Long Long Way", "was published by", "Faber and Faber"],
+    ["The Secret Scripture", "is the sequel to", "the book"]
+  ],
+  "613": [
+    ["Ireland", "is a country within", "Europe"],
+    ["white people", "are the ethnic group in", "Ireland"],
+    ["A Long Long Way", "was written in", "Ireland"],
+    ["A Long Long Way", "was followed by", "The Secret Scripture"],
+    ["The Secret Scripture", "was published by", "Faber and Faber"]
+  ],
+  "614": [
+    ["white people", "are the ethnic group of", "Ireland"],
+    ["A Long Long Way", "comes from", "Ireland"],
+    ["A Long Long Way", "was preceded by", "Annie Dunne"],
+    ["A Long Long Way", "was followed by", "The Secret Scripture"],
+    ["The Secret Scripture", "is published by", "Faber and Faber"]
+  ],
+  "615": [
+    ["white people", "are an ethnic group of", "Ireland"],
+    ["A Long Long Way", "comes from", "Ireland"],
+    ["Annie Dunne", "preceded", "A Long Long Way"],
+    ["The Secret Scripture", "followed", "A Long Long Way"],
+    ["The Secret Scripture", "is published by", "Faber and Faber"]
+  ],
+  "616": [
+    ["Above the Veil", "is an", "Australian novel"],
+    ["Above the Veil", "is the sequel to", "Aenir and Castle"],
+    ["Above the Veil", "was later followed by", "Into Battle and The Violet Keystone"]
+  ],
+  "617": [
+    ["Above the Veil", "is an", "Australian novel"],
+    ["Above the Veil", "is the sequel to", "Aenir and Castle"],
+    ["Above the Veil", "was followed by", "Into Battle and The Violet Keystone"]
+  ],
+  "618": [
+    ["Above the Veil", "is an", "Australian novel"],
+    ["Above the Veil", "is the sequel to", "Aenir and Castle"],
+    ["Above the Veil", "was followed by", "Into the Battle and The Violet Keystone"]
+  ],
+  "619": [
+    ["Cornell University", "is in", "Ithaca, New York"],
+    ["Cornell University", "is nicknamed", "Cornell Big Red"],
+    ["Cornell University", "are the publisher of", "Administrative Science Quarterly"],
+    ["Cornell University", "are affiliated with", "the Association of American Universities"]
+  ],
+  "620": [
+    ["Cornell University", "is in", "Ithaca, New York"],
+    ["Cornell University", "nickname is", "Cornell Big Red"],
+    ["Cornell University", "are the publisher of", "Administrative Science Quarterly"],
+    ["Cornell University", "are affiliated with", "the Association of American Universities"]
+  ],
+  "621": [
+    ["Cornell University", "is in", "Ithaca, New York"],
+    ["Cornell University", "nickname is", "Cornell Big Red"],
+    ["Cornell University", "are the publisher of", "the Administrative Science Quarterly"],
+    ["Cornell University", "are affiliated with", "the Association of American Universities"]
+  ],
+  "622": [
+    ["Administrative Science Quarterly", "is published by", "Cornell University, Ithaca, in the state of New York"],
+    ["Cornell University", "is nicknamed", "'Cornell Big Red'"],
+    ["Cornell University", "is affiliated with", "the Association of Public and Land-grant Universities"]
+  ],
+  "623": [
+    ["Cornell Big Red", "is the nickname of", "Cornell University"],
+    ["Cornell University", "is affiliated with", "the Association of Public and Land-grant Universities"],
+    ["Cornell University", "is in", "the city of Ithaca, New York, New York State"],
+    ["Cornell University", "publishes", "the Administrative Science Quarterly"]
+  ],
+  "624": [
+    ["Cornell University", "of Ithaca, New York", "is the publisher of the Administrative Science Quarterly"],
+    ["Cornell University", "has the nickname", "Cornell Big Red"],
+    ["Cornell University", "is affiliated with", "the Association of Public and Land-grant Universities"]
+  ],
+  "625": [
+    ["United States", "is home to", "the ethnic group of African Americans"],
+    ["United States", "is led by", "Barack Obama"],
+    ["United States", "is the origin of", "the book Alcatraz Versus the Evil Librarians"],
+    ["Alcatraz Versus the Evil Librarians", "was written in", "English"],
+    ["English", "is spoken in", "Great Britain"]
+  ],
+  "626": [
+    ["Alcatraz Versus the Evil Librarians", "is from", "the United States"],
+    ["Alcatraz Versus the Evil Librarians", "is written in", "English"],
+    ["English", "is also spoken in", "Great Britain"],
+    ["United States", "leader is", "Barack Obama"],
+    ["African Americans", "are one of the ethnic groups in", "the US"]
+  ],
+  "627": [
+    ["A Severed Wasp", "is from", "the United States"],
+    ["United States", "like Great Britain", "speaks English"],
+    ["Washington D.C", "is the capital of", "the US"],
+    ["African Americans", "are one ethnic group in", "the US"]
+  ],
+  "628": [
+    ["A Severed Wasp", "originates in", "the United States"],
+    ["English", "is spoken in", "the United States"],
+    ["English", "is also spoken in", "Great Britain"],
+    ["Washington DC", "is the capital of", "the US"],
+    ["African Americans", "are an ethnic group in", "the US"]
+  ],
+  "629": [
+    ["A severed Wasp", "is a novel from", "the United States"],
+    ["English", "is largely spoken in", "the United States"],
+    ["English", "is spoken in", "Great Britain"],
+    ["Washington D.C.", "is the capital of", "the US"],
+    ["African Americans", "are an ethnic group in", "the US"]
+  ],
+  "630": [
+    ["English", "is spoken in", "Great Britain"],
+    ["English", "is spoken in", "the United States"],
+    ["Joe Biden", "is leader of", "the United States"],
+    ["African Americans", "are an ethnic group in", "the United States"],
+    ["Alcatraz Versus the Evil Librarians", "is from", "the United States"]
+  ],
+  "631": [
+    ["Alcatraz Versus the Evil Librarians", "is a book from", "The United States"],
+    ["English", "is the majority language in", "The United States"],
+    ["English", "is spoken in", "Great Britain"],
+    ["Joe Biden", "is a leading politician of", "the US"],
+    ["African Americans", "are an ethnic group in", "the US"]
+  ],
+  "632": [
+    ["Alcatraz Versus the Evil Librarians", "is from", "The United States"],
+    ["English", "is spoken in", "The United States"],
+    ["English", "is spoken in", "Great Britain"],
+    ["Joe Biden", "is a leading politician in", "the US"],
+    ["African Americans", "are an ethnic group in", "the US"]
+  ],
+  "633": [
+    ["David Cameron", "is a leader in", "the United Kingdom"],
+    ["Elizabeth II", "is a leader in", "the United Kingdom"],
+    ["United Kingdom", "uses", "the English language"],
+    ["United Kingdom", "has the capital city of", "London"],
+    ["United Kingdom", "is where", "the AIDS journal originates"]
+  ],
+  "634": [
+    ["AIDS journal", "was published in", "the United Kingdom"],
+    ["English", "is spoken in", "the United Kingdom"],
+    ["Elizabeth II", "is the leader of", "the UK"],
+    ["David Cameron", "is another leader of", "the UK"],
+    ["English", "is spoken in", "the United Kingdom"],
+    ["London", "is the capital of", "the United Kingdom"]
+  ],
+  "635": [
+    ["AIDS journal", "is from", "the United Kingdom"],
+    ["London", "is the capital of", "the United Kingdom"],
+    ["English", "is the language of", "the United Kingdom"],
+    ["David Cameron", "is the leader of", "that country"],
+    ["Elizabeth II", "is the leader of", "that country"]
+  ],
+  "636": [
+    ["AIDS journal", "was published in", "the United Kingdom"],
+    ["Elizabeth II", "is a leader of", "the United Kingdom"],
+    ["David Cameron", "is a leader of", "the United Kingdom"],
+    ["AIDS journal", "was published by", "Lippincott, Williams & Wilkins"],
+    ["Lippincott, Williams & Wilkins", "parent company is", "Wolters Kluwer"]
+  ],
+  "637": [
+    ["AIDS journal", "was published in", "the United Kingdom"],
+    ["Elizabeth II", "is a leader of", "the United Kingdom"],
+    ["David Cameron", "is a leader of", "the United Kingdom"],
+    ["AIDS journal", "was published by", "Lippincott Williams & Wilkins"],
+    ["Lippincott Williams & Wilkins", "parent company is", "Wolters Kluwer"]
+  ],
+  "638": [
+    ["English language", "is spoken in", "Great Britain"],
+    ["A Severed Wasp", "was written in", "English"],
+    ["A Severed Wasp", "comes from", "the United States"],
+    ["Barack Obama", "is the leader of", "the United States"],
+    ["Native Americans", "are an ethnic group in", "the United States"]
+  ],
+  "639": [
+    ["A Severed Wasp", "is written in", "English"],
+    ["English", "is the language spoken in", "Great Britain"],
+    ["A Severed Wasp", "originates from", "the United States"],
+    ["United States", "President is", "Barack Obama"],
+    ["Native Americans", "are an ethnic group in", "the United States"]
+  ],
+  "640": [
+    ["A Severed Wasp", "is from", "the United States"],
+    ["Barack Obama", "is the president of", "the U.S."],
+    ["English", "is the main language of", "the U.S."],
+    ["English", "is also spoken in", "Great Britain"],
+    ["Native Americans", "are one of the national ethnic groups in", "the U.S."]
+  ],
+  "641": [
+    ["A Severed Wasp", "is from", "the United States"],
+    ["English", "is spoken in", "the United States"],
+    ["English", "is spoken in", "Great Britain"],
+    ["Barack Obama", "is President of", "the United States"],
+    ["Native Americans", "are one of the ethnic groups in", "the U.S."]
+  ],
+  "642": [
+    ["Sergio Mattarella", "is a leader in", "Italy"],
+    ["Rome", "is the capital of", "Italy"],
+    ["Italian", "is the language spoken in", "Italy"],
+    ["Italians", "are the people in", "Italy"],
+    ["Arrabbiata sauce", "can be found in", "Italy"]
+  ],
+  "643": [
+  ["A Severed Wasp", "is from", "the United States"],
+  ["English", "is spoken in", "the United States"],
+  ["English", "is spoken in", "Great Britain"],
+  ["Barack Obama", "is President of", "the United States"],
+  ["Native Americans", "are one of the ethnic groups in", "the United States"]
+  ]
+}
